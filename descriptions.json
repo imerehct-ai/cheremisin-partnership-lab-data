@@ -1,0 +1,197 @@
+{
+ "_about": "S16: описания кластеров и тем ×3 для хаба «Темы» и страниц тем (S17). Ключи — id кластеров из taxonomy.toml (G — предложенный кластер из overrides.json) и id тем. Проверка — karta/descr_check.py.",
+ "clusters": {
+  "A": {
+   "ru": "Как выбирают делового партнера, зачем вообще идут в партнерство и что происходит в первые месяцы, когда группа совладельцев только складывается. Сюда же относятся два частных случая: наемный менеджер, которому предлагают долю, и взгляд инвестора на команду основателей. Общий тезис раздела: партнерства можно избежать, а если нельзя, то начинать его стоит с договоренностей, а не с логотипа.",
+   "ua": "Як обирають ділового партнера, навіщо взагалі йдуть у партнерство і що відбувається в перші місяці, коли група співвласників лише складається. Сюди ж належать два окремі випадки: найманий менеджер, якому пропонують частку, і погляд інвестора на команду засновників. Спільна теза розділу: партнерства можна уникнути, а якщо не можна, починати його варто з домовленостей, а не з логотипа.",
+   "en": "How people choose a business partner, why they go into partnership at all, and what happens in the first months while a group of co-owners is still taking shape. Two special cases belong here as well: a hired manager who is offered a stake, and an investor's view of a founding team. The section's common thread: if a partnership can be avoided, avoid it; if it cannot, start with agreements rather than a logo."
+  },
+  "B": {
+   "ru": "Что такое партнерская договоренность и чем она отличается от документа и договора, почему партнеры годами откладывают ее фиксацию и во что это обходится. Здесь же практические вопросы денег: как делить доли с учетом разного вклада, как договариваться о зарплатах, дивидендах и лимитах расходов, какие сценарии провала, сверхуспеха и выбытия партнера прописать заранее. Основа раздела: право обслуживает только одну из функций договоренности, остальные партнеры вырабатывают сами.",
+   "ua": "Що таке партнерська домовленість і чим вона відрізняється від документа й договору, чому партнери роками відкладають її фіксацію і скільки це коштує. Тут же практичні питання грошей: як ділити частки з урахуванням різного внеску, як домовлятися про зарплати, дивіденди й ліміти витрат, які сценарії провалу, надуспіху та вибуття партнера прописати заздалегідь. Основа розділу: право обслуговує лише одну з функцій домовленості, решту партнери виробляють самі.",
+   "en": "What a partnership agreement is, how it differs from a document and from a contract, why partners put off writing it down for years and what that costs them. The practical money questions live here too: how to split equity when contributions differ, how to agree on salaries, dividends and spending limits, and which scenarios of failure, windfall and a partner's departure to settle in advance. The section rests on one idea: the law serves only one function of an agreement; the rest the partners work out themselves."
+  },
+  "C": {
+   "ru": "Как устроены отношения совладельцев между формальными решениями: доверие, ожидания и неизбежное разочарование, расхождение картин реальности, роли, которые каждый берет на себя, и цена переработки «героя». Материалы раздела показывают, что доверие не заменяет структуру, а ожиданиями и разочарованиями можно управлять, если о них говорить вовремя.",
+   "ua": "Як влаштовані стосунки співвласників між формальними рішеннями: довіра, очікування й неминуче розчарування, розбіжність картин реальності, ролі, які кожен бере на себе, і ціна перепрацювання «героя». Матеріали розділу показують, що довіра не замінює структуру, а очікуваннями й розчаруваннями можна керувати, якщо говорити про них вчасно.",
+   "en": "How relationships between co-owners work in the space between formal decisions: trust, expectations and the inevitable disappointment, diverging pictures of reality, the roles each partner takes on, and the price of the \"hero\" who overworks. The materials show that trust does not replace structure, and that expectations and disappointment can be managed if they are talked about in time."
+  },
+  "D": {
+   "ru": "Что происходит, когда партнерство дает трещину: откуда берутся конфликты и как решать споры, не доходя до суда; как распознать недобросовестность и какой внутренний контроль защищает от нее; как партнеру выйти из бизнеса и почему о выходе нужно договариваться до начала. Раздел опирается на кейсы из практики партнерских сессий и на данные о том, как часто меняется состав основателей.",
+   "ua": "Що відбувається, коли партнерство дає тріщину: звідки беруться конфлікти і як вирішувати спори, не доходячи до суду; як розпізнати недобросовісність і який внутрішній контроль від неї захищає; як партнеру вийти з бізнесу і чому про вихід треба домовлятися до початку. Розділ спирається на кейси з практики партнерських сесій і на дані про те, як часто змінюється склад засновників.",
+   "en": "What happens when a partnership cracks: where conflicts come from and how to settle disputes short of court; how to recognise misconduct and what internal control protects against it; how a partner leaves the business and why the exit has to be agreed before the start. The section draws on cases from partnership sessions and on data about how often founding teams change."
+  },
+  "E": {
+   "ru": "Как автор работает с совладельцами: партнерская сессия как структурированный разговор о том, как партнеры будут работать вместе, идея осознанного партнерства как навыка, а не удачи, инструменты и услуги для партнеров, а также идеи из смежных дисциплин, от психологии и права до спорта и кино, которые помогают увидеть партнерство точнее.",
+   "ua": "Як автор працює зі співвласниками: партнерська сесія як структурована розмова про те, як партнери працюватимуть разом, ідея усвідомленого партнерства як навички, а не удачі, інструменти та послуги для партнерів, а також ідеї із суміжних дисциплін, від психології та права до спорту й кіно, які допомагають побачити партнерство точніше.",
+   "en": "How the author works with co-owners: the partnership session as a structured conversation about how partners will work together, conscious partnership as a skill rather than luck, tools and services for partners, and ideas borrowed from adjacent fields, from psychology and law to sport and film, that help see partnership more clearly."
+  },
+  "F": {
+   "ru": "Партнерство как слепая зона бизнеса: о нем почти нет статистики, его редко изучают и обычно вспоминают, когда уже поздно. Раздел собирает цифры и исследования о совладельцах, основателях и единорогах, а также личный опыт автора: собственные партнерства, ошибки и выводы, на которых построен метод.",
+   "ua": "Партнерство як сліпа зона бізнесу: про нього майже немає статистики, його рідко вивчають і зазвичай згадують, коли вже пізно. Розділ збирає цифри й дослідження про співвласників, засновників та єдинорогів, а також особистий досвід автора: власні партнерства, помилки й висновки, на яких побудовано метод.",
+   "en": "Partnership as the blind spot of business: there is almost no statistics on it, it is rarely studied and usually remembered too late. The section collects data and research on co-owners, founders and unicorns, together with the author's own experience: personal partnerships, mistakes and the conclusions the method is built on."
+  },
+  "G": {
+   "ru": "Материалы вне темы партнерства: заметки об экономике и статистике, о работе в LinkedIn и личном бренде, анонсы выступлений и эфиров, личные наблюдения. Они показывают, чем автор интересуется помимо основной темы, и иногда становятся источником идей для нее.",
+   "ua": "Матеріали поза темою партнерства: нотатки про економіку та статистику, про роботу в LinkedIn і особистий бренд, анонси виступів та ефірів, особисті спостереження. Вони показують, чим автор цікавиться окрім основної теми, і часом стають джерелом ідей для неї.",
+   "en": "Material outside the partnership theme: notes on the economy and statistics, on LinkedIn and personal brand, announcements of talks and live sessions, personal observations. They show what else the author follows beyond the main subject, and sometimes feed ideas back into it."
+  }
+ },
+ "topics": {
+  "choosing-a-business-partner": {
+   "ru": "Как выбирать делового партнера и на что смотреть до сделки: мотивы, ресурсы, стиль решений, готовность отвечать на прямые вопросы. Автор предлагает списки вопросов, проверку у профайлера и честный разговор о том, можно ли обойтись без партнерства вовсе. Главный критерий не обаяние кандидата, а его способность договариваться.",
+   "ua": "Як обирати ділового партнера і на що дивитися до угоди: мотиви, ресурси, стиль рішень, готовність відповідати на прямі запитання. Автор пропонує переліки питань, перевірку у профайлера й чесну розмову про те, чи можна обійтися без партнерства взагалі. Головний критерій не чарівність кандидата, а його здатність домовлятися.",
+   "en": "How to choose a business partner and what to look at before the deal: motives, resources, decision style, willingness to answer direct questions. The author offers question lists, a profiler check and an honest conversation about whether a partnership is needed at all. The key criterion is not the candidate's charm but their ability to reach agreements."
+  },
+  "why-people-go-into-partnership": {
+   "ru": "Зачем люди на самом деле идут в партнерство: за деньгами, ресурсами, смелостью начать, чувством плеча. Скрытые мотивы редко проговариваются, а потом становятся источником разочарования. Материалы помогают назвать свой мотив и проверить, совпадает ли он с мотивом партнера.",
+   "ua": "Навіщо люди насправді йдуть у партнерство: за грошима, ресурсами, сміливістю почати, відчуттям плеча. Приховані мотиви рідко проговорюються, а потім стають джерелом розчарування. Матеріали допомагають назвати свій мотив і перевірити, чи збігається він із мотивом партнера.",
+   "en": "Why people really go into partnership: for money, resources, the courage to start, the feeling of someone beside them. Hidden motives are rarely spoken aloud and later become a source of disappointment. The materials help name one's own motive and check whether it matches the partner's."
+  },
+  "forming-a-partner-team": {
+   "ru": "Что происходит, когда группа совладельцев только складывается: корневые проблемы первых месяцев, партнерства больше чем из двух человек, эмерджентные партнерства, которые возникли сами собой. Разбираются истории команд, от отказа основателей Wiz от 23 млрд долларов до банкротства Lilium, и то, какие договоренности нужны на старте.",
+   "ua": "Що відбувається, коли група співвласників лише складається: кореневі проблеми перших місяців, партнерства більш ніж із двох людей, емерджентні партнерства, що виникли самі собою. Розбираються історії команд, від відмови засновників Wiz від 23 млрд доларів до банкрутства Lilium, і те, які домовленості потрібні на старті.",
+   "en": "What happens while a group of co-owners is still forming: the root problems of the first months, partnerships of more than two people, emergent partnerships that arose on their own. Team stories are examined, from the Wiz founders turning down 23 billion dollars to the bankruptcy of Lilium, along with the agreements needed at the start."
+  },
+  "turning-a-manager-into-a-partner": {
+   "ru": "Когда и как наемный директор становится партнером: можно ли отблагодарить долей, что владельцу зафиксировать в договоре, кто назначает CEO при нескольких партнерах. Отдельная линия: выход владельцев из операционки и то, почему украинские собственники неохотно делятся долей с менеджментом.",
+   "ua": "Коли і як найманий директор стає партнером: чи можна віддячити часткою, що власнику зафіксувати в договорі, хто призначає CEO за кількох партнерів. Окрема лінія: вихід власників з операційки і те, чому українські власники неохоче діляться часткою з менеджментом.",
+   "en": "When and how a hired manager becomes a partner: whether a stake can be a reward, what the owner should fix in the agreement, who appoints the CEO when there are several partners. A separate thread covers owners stepping out of operations and why Ukrainian owners are reluctant to share equity with management."
+  },
+  "co-founders-through-an-investors-eyes": {
+   "ru": "Как инвестор смотрит на команду основателей: что для него значит договоренность между партнерами, почему бизнес на одной личности не годится, сколько стоит и сколько длится путь к единорогу. Данные исследований Стэнфорда и венчурных фондов переведены на язык решений для партнеров.",
+   "ua": "Як інвестор дивиться на команду засновників: що для нього означає домовленість між партнерами, чому бізнес на одній особистості не годиться, скільки коштує і скільки триває шлях до єдинорога. Дані досліджень Стенфорда та венчурних фондів перекладено мовою рішень для партнерів.",
+   "en": "How an investor looks at a founding team: what a founders' agreement means to them, why a one-person business does not qualify, what the road to a unicorn costs and how long it takes. Findings from Stanford and venture funds are translated into decisions for partners."
+  },
+  "partnership-agreement": {
+   "ru": "Что такое партнерский договор на самом деле: договоренность партнеров, документ, который ее фиксирует, и юридический договор как исполнимая часть. В материалах три слоя и четыре функции договоренности, граница юридического оформления, роль юриста и то, чем партнерский документ отличается от устава. Самая большая тема каталога.",
+   "ua": "Що таке партнерський договір насправді: домовленість партнерів, документ, який її фіксує, і юридичний договір як виконувана частина. У матеріалах три шари й чотири функції домовленості, межа юридичного оформлення, роль юриста і те, чим партнерський документ відрізняється від статуту. Найбільша тема каталогу.",
+   "en": "What a partnership agreement really is: the agreement the partners reach, the document that records it, and the legal contract as its enforceable part. The materials cover the three layers and four functions of an agreement, the limit of legal formalisation, the lawyer's role and how a partnership document differs from a charter. The largest topic in the catalogue."
+  },
+  "why-partners-avoid-signing-an-agreement": {
+   "ru": "Почему партнеры годами откладывают фиксацию договоренностей: вера в дружбу и химию, страх разговора, надежда на юриста и суд. Разбирается цена отказа, от конфликтов до потери бизнеса, и то, почему суд защищает лишь малую часть договоренностей, а остальное держится на самих партнерах.",
+   "ua": "Чому партнери роками відкладають фіксацію домовленостей: віра в дружбу і хімію, страх розмови, надія на юриста та суд. Розбирається ціна відмови, від конфліктів до втрати бізнесу, і те, чому суд захищає лише малу частину домовленостей, а решта тримається на самих партнерах.",
+   "en": "Why partners put off writing their agreements down for years: faith in friendship and chemistry, fear of the conversation, hope in lawyers and courts. The cost of refusing is examined, from conflict to losing the business, along with why a court protects only a small part of an agreement while the rest rests on the partners themselves."
+  },
+  "equity-split-between-partners": {
+   "ru": "Как делить доли, когда «всем поровну» не работает: три вида капитала, которые партнеры вносят, оценка идеи и социального капитала, модель Slicing Pie, пересмотр долей, когда партнер вдруг просит больше. Материалы показывают, что доля не арифметика, а зафиксированная договоренность о вкладе.",
+   "ua": "Як ділити частки, коли «всім порівну» не працює: три види капіталу, які вносять партнери, оцінка ідеї та соціального капіталу, модель Slicing Pie, перегляд часток, коли партнер раптом просить більше. Матеріали показують, що частка не арифметика, а зафіксована домовленість про внесок.",
+   "en": "How to split equity when \"equal shares\" does not work: the three kinds of capital partners contribute, valuing an idea and social capital, the Slicing Pie model, revisiting shares when a partner suddenly asks for more. The materials show that a share is not arithmetic but a recorded agreement about contribution."
+  },
+  "money-between-partners": {
+   "ru": "Финансовые договоренности совладельцев: лимиты, до которых партнер решает сам, зарплата за работу в операционной роли отдельно от дивидендов, доступ к деньгам, бюджет раньше зон ответственности, общий пенсионный фонд. Основной тезис: деньги между партнерами предмет договоренности, а не доверия.",
+   "ua": "Фінансові домовленості співвласників: ліміти, до яких партнер вирішує сам, зарплата за роботу в операційній ролі окремо від дивідендів, доступ до грошей, бюджет раніше за зони відповідальності, спільний пенсійний фонд. Основна теза: гроші між партнерами предмет домовленості, а не довіри.",
+   "en": "Financial agreements between co-owners: the limit up to which a partner decides alone, salary for an operating role kept apart from dividends, access to money, a budget before areas of responsibility, a shared pension fund. The main point: money between partners is a matter of agreement, not trust."
+  },
+  "scenario-planning": {
+   "ru": "Какие сценарии партнерам стоит проиграть заранее: провал, сверхуспех, выбытие партнера по болезни, смерти или желанию уйти, кризис и турбулентность. Сценарное планирование дает согласованный порядок действий, когда договариваться на эмоциях уже поздно. Примеры из практики сессий и истории вроде Ferrari на пятерых.",
+   "ua": "Які сценарії партнерам варто програти заздалегідь: провал, надуспіх, вибуття партнера через хворобу, смерть чи бажання піти, криза й турбулентність. Сценарне планування дає узгоджений порядок дій, коли домовлятися на емоціях уже пізно. Приклади з практики сесій та історії на кшталт Ferrari на п'ятьох.",
+   "en": "Which scenarios partners should rehearse in advance: failure, windfall, a partner dropping out through illness, death or the wish to leave, crisis and turbulence. Scenario planning gives an agreed course of action for the moment when negotiating under stress is too late. Examples come from sessions and stories such as a Ferrari bought by five people."
+  },
+  "trust-between-partners": {
+   "ru": "Что такое доверие между партнерами и почему оно не заменяет структуру: доверие строится долго, теряется мгновенно и ускоряет работу, пока есть. Материалы показывают, как доверие связано с договоренностями, лидерством и готовностью фиксировать правила, и почему «мы друг другу доверяем» не аргумент против договора.",
+   "ua": "Що таке довіра між партнерами і чому вона не замінює структуру: довіра будується довго, втрачається миттєво і пришвидшує роботу, поки є. Матеріали показують, як довіра пов'язана з домовленостями, лідерством і готовністю фіксувати правила, і чому «ми одне одному довіряємо» не аргумент проти договору.",
+   "en": "What trust between partners is and why it does not replace structure: trust takes long to build, is lost in an instant and speeds up work while it lasts. The materials show how trust relates to agreements, leadership and the willingness to write rules down, and why \"we trust each other\" is no argument against an agreement."
+  },
+  "partner-expectations": {
+   "ru": "Откуда берутся ожидания партнеров и почему их так трудно проговорить: стартовый оптимизм, образ идеального партнера, неназванные надежды. Управление ожиданиями это регулярный пересмотр договоренностей и честный разговор о том, чего каждый на самом деле хочет.",
+   "ua": "Звідки беруться очікування партнерів і чому їх так важко проговорити: стартовий оптимізм, образ ідеального партнера, неназвані сподівання. Управління очікуваннями це регулярний перегляд домовленостей і чесна розмова про те, чого кожен насправді хоче.",
+   "en": "Where partners' expectations come from and why they are so hard to say aloud: starting optimism, the image of an ideal partner, unspoken hopes. Managing expectations means revisiting agreements regularly and talking honestly about what each partner really wants."
+  },
+  "disappointment-in-a-partnership": {
+   "ru": "Как возникает разочарование в партнерстве: формула из ожиданий и реальности, внезапность, накопление мелочей, неравный вклад при равных долях. Цикл материалов о том, как управлять разочарованием, снижать его потенциал и не дать ему разрушить отношения и бизнес.",
+   "ua": "Як виникає розчарування в партнерстві: формула з очікувань і реальності, раптовість, накопичення дрібниць, нерівний внесок за рівних часток. Цикл матеріалів про те, як керувати розчаруванням, знижувати його потенціал і не дати йому зруйнувати стосунки й бізнес.",
+   "en": "How disappointment arises in a partnership: the formula of expectations versus reality, suddenness, an accumulation of small things, unequal contribution with equal shares. A series on managing disappointment, lowering its potential and keeping it from destroying the relationship and the business."
+  },
+  "when-partners-see-different-realities": {
+   "ru": "Почему партнеры видят одни и те же события по-разному: теорема Томаса, разный опыт корпоративного топа и предпринимателя, договоренности «на салфетке», которые каждый понял по-своему. Материалы предлагают процедуру синхронизации картин мира и методики разрешения расхождений.",
+   "ua": "Чому партнери бачать ті самі події по-різному: теорема Томаса, різний досвід корпоративного топа й підприємця, домовленості «на серветці», які кожен зрозумів по-своєму. Матеріали пропонують процедуру синхронізації картин світу та методики розв'язання розбіжностей.",
+   "en": "Why partners see the same events differently: the Thomas theorem, the different experience of a corporate executive and an entrepreneur, \"napkin\" agreements each understood in their own way. The materials offer a procedure for synchronising worldviews and methods for resolving divergence."
+  },
+  "the-hero-partner-and-overwork": {
+   "ru": "Партнер-«герой», который тянет все на себе: чем он опасен для бизнеса и для себя, почему зависимость от одной личности отпугивает инвесторов, как договориться о балансе работы и жизни. С данными о переработках в Европе и судебной практикой.",
+   "ua": "Партнер-«герой», який тягне все на собі: чим він небезпечний для бізнесу і для себе, чому залежність від однієї особистості відлякує інвесторів, як домовитися про баланс роботи й життя. З даними про перепрацювання в Європі та судовою практикою.",
+   "en": "The \"hero\" partner who carries everything alone: why that is dangerous for the business and for the person, why dependence on one individual scares investors off, how to agree on work-life balance. With data on overwork in Europe and court practice."
+  },
+  "the-three-roles-of-a-co-owner": {
+   "ru": "Совладелец может быть владельцем, руководителем и исполнителем одновременно, и в каждой роли у него разные права, вознаграждение и компетенции. Рамка трех ролей помогает понять, за что платить дивиденды, а за что зарплату и бонус, как отчитываться друг перед другом и что делать, если партнер в одной из ролей не тянет.",
+   "ua": "Співвласник може бути власником, керівником і виконавцем водночас, і в кожній ролі має різні права, винагороду й компетенції. Рамка трьох ролей допомагає зрозуміти, за що платити дивіденди, а за що зарплату і бонус, як звітувати одне перед одним і що робити, якщо партнер в одній із ролей не тягне.",
+   "en": "A co-owner can be owner, manager and executor at once, with different rights, rewards and competences in each role. The three-roles frame clarifies what dividends pay for and what salary and bonus pay for, how partners report to each other, and what to do when a partner falls short in one of the roles."
+  },
+  "managing-partner-relationships": {
+   "ru": "Как поддерживать партнерские отношения в рабочем состоянии: регулярный пересмотр договоренностей, лидерство внутри партнерства, иллюзии, которые его разрушают, сигналы кризиса, молчание как главный риск. Материалы о том, что партнерством нужно управлять так же, как бизнесом.",
+   "ua": "Як підтримувати партнерські стосунки в робочому стані: регулярний перегляд домовленостей, лідерство всередині партнерства, ілюзії, які його руйнують, сигнали кризи, мовчання як головний ризик. Матеріали про те, що партнерством треба керувати так само, як бізнесом.",
+   "en": "How to keep a partnership in working order: regularly revisiting agreements, leadership inside the partnership, the illusions that destroy it, signs of crisis, silence as the main risk. Materials on the idea that a partnership has to be managed just like the business."
+  },
+  "conflicts-between-partners": {
+   "ru": "Откуда берутся конфликты между партнерами и как их решать, не доходя до суда: граница допустимого риска, разные взгляды, неуважение к времени, молчание вместо разговора. Разбираются реальные истории конфликтов совладельцев и методики их разрешения, включая медиацию и партнерскую сессию.",
+   "ua": "Звідки беруться конфлікти між партнерами і як їх вирішувати, не доходячи до суду: межа допустимого ризику, різні погляди, неповага до часу, мовчання замість розмови. Розбираються реальні історії конфліктів співвласників і методики їх розв'язання, включно з медіацією та партнерською сесією.",
+   "en": "Where conflicts between partners come from and how to resolve them short of court: the limit of acceptable risk, differing views, disregard for each other's time, silence instead of conversation. Real stories of co-owner conflicts are examined together with ways to resolve them, including mediation and the partnership session."
+  },
+  "partner-misconduct-and-internal-control": {
+   "ru": "Недобросовестность партнера и защита от нее: из чего складывается обман, как выглядит зло в партнерстве, что делать со «спящим» партнером, кто виноват, если партнер воспользовался вашим трудным положением. Четкие договоренности и внутренний контроль нужны не из недоверия, а как правила игры.",
+   "ua": "Недобросовісність партнера і захист від неї: з чого складається обман, як виглядає зло в партнерстві, що робити зі «сплячим» партнером, хто винен, якщо партнер скористався вашим скрутним становищем. Чіткі домовленості та внутрішній контроль потрібні не з недовіри, а як правила гри.",
+   "en": "Partner misconduct and protection against it: what deception is made of, what evil looks like in a partnership, what to do with a \"sleeping\" partner, who is to blame when a partner exploits your hard situation. Clear agreements and internal control are needed not out of distrust but as rules of the game."
+  },
+  "a-partners-exit-from-the-business": {
+   "ru": "Как партнер выходит из бизнеса и почему о выходе нужно договариваться до начала: оценка стоимости долей, «брачный контракт» для партнеров, прописанные сценарии ухода, non-compete и no-poach. С данными о том, как часто меняется состав основателей в первые годы.",
+   "ua": "Як партнер виходить із бізнесу і чому про вихід треба домовлятися до початку: оцінка вартості часток, «шлюбний контракт» для партнерів, прописані сценарії відходу, non-compete і no-poach. З даними про те, як часто змінюється склад засновників у перші роки.",
+   "en": "How a partner leaves the business and why the exit must be agreed before the start: valuing the shares, a \"prenup\" for partners, written exit scenarios, non-compete and no-poach clauses. With data on how often founding teams change in the first years."
+  },
+  "partnership-session": {
+   "ru": "Партнерская сессия: структурированный разговор совладельцев с фасилитатором о том, как они будут работать вместе: цели, роли, деньги, сценарии, правила пересмотра. Материалы о том, что происходит на сессии, в чем ее ценность, с какими клиентами автор не работает и почему причина конфликтов чаще в процессах, чем в людях.",
+   "ua": "Партнерська сесія: структурована розмова співвласників із фасилітатором про те, як вони працюватимуть разом: цілі, ролі, гроші, сценарії, правила перегляду. Матеріали про те, що відбувається на сесії, у чому її цінність, з якими клієнтами автор не працює і чому причина конфліктів частіше в процесах, ніж у людях.",
+   "en": "The partnership session is a structured conversation between co-owners and a facilitator about how they will work together: goals, roles, money, scenarios, rules for revision. Materials on what happens in a session, where its value lies, which clients the author turns down, and why conflicts more often stem from processes than from people."
+  },
+  "conscious-partnership": {
+   "ru": "Осознанное партнерство: подход, при котором партнерство считают навыком и структурой, а не удачей, дружбой или химией. Партнером не рождаются, договариваться учатся, а потолок партнерства задают навыки партнеров, а не договор. Материалы о том, как думать о партнерстве до того, как оно начнет болеть.",
+   "ua": "Усвідомлене партнерство: підхід, за якого партнерство вважають навичкою і структурою, а не удачею, дружбою чи хімією. Партнером не народжуються, домовлятися вчаться, а стелю партнерства задають навички партнерів, а не договір. Матеріали про те, як думати про партнерство до того, як воно почне боліти.",
+   "en": "Conscious partnership is the approach that treats partnership as a skill and a structure rather than luck, friendship or chemistry. Nobody is born a partner, agreeing is learned, and the ceiling of a partnership is set by the partners' skills, not the contract. Materials on how to think about a partnership before it starts to hurt."
+  },
+  "tools-and-services": {
+   "ru": "Инструменты и услуги для совладельцев: списки вопросов партнеру, диагностика напряжения, Partner Journey Map, проверка у профайлера, партнерская сессия и консультации. Здесь же заметки о том, как автор работает с клиентами, от кого отказывается и как ИИ меняет отношение к экспертной работе.",
+   "ua": "Інструменти та послуги для співвласників: переліки питань партнеру, діагностика напруження, Partner Journey Map, перевірка у профайлера, партнерська сесія та консультації. Тут же нотатки про те, як автор працює з клієнтами, від кого відмовляється і як ШІ змінює ставлення до експертної роботи.",
+   "en": "Tools and services for co-owners: question lists for a partner, tension diagnostics, the Partner Journey Map, a profiler check, the partnership session and consultations. Also notes on how the author works with clients, which clients get turned down, and how AI is changing attitudes to expert work."
+  },
+  "ideas-from-adjacent-fields": {
+   "ru": "Идеи из психологии, права, экономики, спорта, кино и истории, перенесенные на деловое партнерство: принцип Питера, компартментализация, переговорные приемы, судебные кейсы, фильмы о партнерах. Самая широкая тема каталога, в ней автор проверяет, что из чужого опыта работает для совладельцев.",
+   "ua": "Ідеї з психології, права, економіки, спорту, кіно та історії, перенесені на ділове партнерство: принцип Пітера, компартменталізація, переговорні прийоми, судові кейси, фільми про партнерів. Найширша тема каталогу, у ній автор перевіряє, що з чужого досвіду працює для співвласників.",
+   "en": "Ideas from psychology, law, economics, sport, film and history applied to business partnership: the Peter principle, compartmentalisation, negotiation techniques, court cases, films about partners. The broadest topic in the catalogue, where the author tests which borrowed experience works for co-owners."
+  },
+  "partnership-the-blind-spot-of-business": {
+   "ru": "Партнерство как слепая зона бизнеса: о совладельцах почти нет статистики, в Украине точно, о договоре всерьез думают только те, кто уже обжегся, а защита в суде оказывается слабее, чем кажется. Серия материалов и опросов, которыми автор собирает собственные данные о партнерствах.",
+   "ua": "Партнерство як сліпа зона бізнесу: про співвласників майже немає статистики, в Україні точно, про договір всерйоз думають лише ті, хто вже обпікся, а захист у суді виявляється слабшим, ніж здається. Серія матеріалів та опитувань, якими автор збирає власні дані про партнерства.",
+   "en": "Partnership as the blind spot of business: there is almost no statistics on co-owners, certainly not in Ukraine, only those already burned think seriously about an agreement, and court protection turns out weaker than it seems. A series of materials and polls through which the author gathers first-hand data on partnerships."
+  },
+  "data-and-research": {
+   "ru": "Цифры и исследования о партнерах, основателях и единорогах: данные Стэнфорда, Carta, венчурных фондов и опросов. Сколько основателей покидает компанию в первые годы, из-за чего на самом деле конфликтуют совладельцы, кто и как часто создает единорогов. Каждая цифра с источником.",
+   "ua": "Цифри й дослідження про партнерів, засновників та єдинорогів: дані Стенфорда, Carta, венчурних фондів і опитувань. Скільки засновників залишає компанію в перші роки, через що насправді конфліктують співвласники, хто і як часто створює єдинорогів. Кожна цифра з джерелом.",
+   "en": "Data and research on partners, founders and unicorns: findings from Stanford, Carta, venture funds and surveys. How many founders leave in the first years, what co-owners really fight about, who creates unicorns and how often. Every figure comes with its source."
+  },
+  "the-authors-own-partnerships": {
+   "ru": "Личный опыт автора: собственные партнерства, ошибки, кризисы и выводы, на которых построен метод партнерских сессий. Истории о том, как договаривались о лимитах, выходе и пересмотре условий, и почему консультант сначала пытается отговорить людей от партнерства.",
+   "ua": "Особистий досвід автора: власні партнерства, помилки, кризи й висновки, на яких побудовано метод партнерських сесій. Історії про те, як домовлялися про ліміти, вихід і перегляд умов, і чому консультант спершу намагається відмовити людей від партнерства.",
+   "en": "The author's own experience: personal partnerships, mistakes, crises and the conclusions the partnership-session method is built on. Stories about agreeing on limits, exit and revision of terms, and why the consultant first tries to talk people out of a partnership."
+  },
+  "economy-and-statistics": {
+   "ru": "Заметки об экономике и статистике вне темы партнерства: долги по зарплате, экспорт ИТ-услуг, распределение богатства, зарплаты по городам, лоббизм. Автор читает эти цифры так же, как данные о партнерах: с источником и вопросом, что из этого следует.",
+   "ua": "Нотатки про економіку та статистику поза темою партнерства: борги із зарплати, експорт ІТ-послуг, розподіл багатства, зарплати по містах, лобізм. Автор читає ці цифри так само, як дані про партнерів: із джерелом і запитанням, що з цього випливає.",
+   "en": "Notes on the economy and statistics outside the partnership theme: wage arrears, IT services exports, the distribution of wealth, salaries by city, lobbying. The author reads these figures the same way as partnership data: with a source and the question of what follows."
+  },
+  "linkedin-and-personal-brand": {
+   "ru": "О работе в LinkedIn и личном бренде: как алгоритмы видят эксперта, публичность против закрытости, известность и деньги, холодные сообщения, рейтинги авторов. Наблюдения автора о площадке, на которой выходит большинство его материалов.",
+   "ua": "Про роботу в LinkedIn і особистий бренд: як алгоритми бачать експерта, публічність проти закритості, відомість і гроші, холодні повідомлення, рейтинги авторів. Спостереження автора про майданчик, на якому виходить більшість його матеріалів.",
+   "en": "On LinkedIn and personal brand: how the algorithms see an expert, publicity versus privacy, fame and money, cold messages, author rankings. The author's observations about the platform where most of the material first appears."
+  },
+  "talks-and-interviews": {
+   "ru": "Выступления, эфиры, подкасты и живые встречи о партнерстве: анонсы, вопросы предпринимателей из зала, отклик аудитории. Материалы о том, как тема партнерства звучит вживую и что о ней спрашивают.",
+   "ua": "Виступи, ефіри, подкасти та живі зустрічі про партнерство: анонси, запитання підприємців із зали, відгук аудиторії. Матеріали про те, як тема партнерства звучить наживо і що про неї запитують.",
+   "en": "Talks, live sessions, podcasts and in-person meetings about partnership: announcements, entrepreneurs' questions from the floor, audience response. Materials on how the partnership theme sounds live and what people ask about it."
+  },
+  "personal-notes": {
+   "ru": "Личные заметки автора: наблюдения о профессионализме, решениях, вдохновении, книгах и фильмах, иногда без прямой связи с партнерством. Короткие тексты, которые показывают, как автор думает.",
+   "ua": "Особисті нотатки автора: спостереження про професіоналізм, рішення, натхнення, книжки й фільми, часом без прямого зв'язку з партнерством. Короткі тексти, які показують, як автор думає.",
+   "en": "The author's personal notes: observations on professionalism, decisions, inspiration, books and films, sometimes with no direct link to partnership. Short texts that show how the author thinks."
+  }
+ }
+}

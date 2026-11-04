@@ -1,0 +1,232 @@
+# Таксономия карты контента — утверждена владельцем 2026-10-27 (TAXONOMY-karta.md v1).
+#
+# Формат TOML, а не YAML (как писали в TZ-karta.md): TOML читается стандартной
+# библиотекой Python 3.11+ (tomllib), сборке не нужны сторонние пакеты.
+#
+# id темы = EN-слаг, он же стабильный ключ в catalog.json. Слаги RU и UA — то, что
+# даёт транслитерация сайта (Cyr-To-Lat + inc/cyr2lat-table.php) из названия;
+# сверено в песочнице через sanitize_title(). При создании страниц в S17 слаги
+# должны совпасть с этими — иначе поправить здесь.
+# wiki — названия тем (wiki/concepts) и сущностей (wiki/entities) вики, из которых
+# берётся разметка материалов. Переименование на сайте вики не трогает.
+
+[hub]
+slug = { ru = "temy", ua = "temi", en = "topics" }   # ua "temi": у Polylang без Pro однаковий слаг двох сторінок верхнього рівня отримав би суфікс -2
+
+[[cluster]]
+id = "A"
+name = { ru = "Выбор партнера и старт", ua = "Вибір партнера і старт", en = "Choosing a partner and getting started" }
+
+  [[cluster.topic]]
+  id = "choosing-a-business-partner"
+  name = { ru = "Как выбрать бизнес-партнера", ua = "Як обрати бізнес-партнера", en = "Choosing a business partner" }
+  slug = { ru = "kak-vybrat-biznes-partnera", ua = "yak-obrati-biznes-partnera" }
+  wiki = ["Выбор партнёра"]
+
+  [[cluster.topic]]
+  id = "why-people-go-into-partnership"
+  name = { ru = "Зачем люди идут в партнерство", ua = "Навіщо люди йдуть у партнерство", en = "Why people go into partnership" }
+  slug = { ru = "zachem-lyudi-idut-v-partnerstvo", ua = "navishho-lyudi-jdut-u-partnerstvo" }
+  wiki = ["Скрытые мотивы партнёрства"]
+
+  [[cluster.topic]]
+  id = "forming-a-partner-team"
+  name = { ru = "Становление партнерской команды", ua = "Становлення партнерської команди", en = "Forming a partner team" }
+  slug = { ru = "stanovlenie-partnerskoj-komandy", ua = "stanovlennya-partnerskoyi-komandi" }
+  wiki = ["Становление партнёрской группы"]
+
+  [[cluster.topic]]
+  id = "turning-a-manager-into-a-partner"
+  name = { ru = "Наемный менеджер как партнер", ua = "Найманий менеджер як партнер", en = "Turning a manager into a partner" }
+  slug = { ru = "naemnyj-menedzher-kak-partner", ua = "najmanij-menedzher-yak-partner" }
+  wiki = ["Наёмный управленец как партнёр"]
+
+  [[cluster.topic]]
+  id = "co-founders-through-an-investors-eyes"
+  name = { ru = "Партнеры глазами инвестора", ua = "Партнери очима інвестора", en = "Co-founders through an investor's eyes" }
+  slug = { ru = "partnery-glazami-investora", ua = "partneri-ochima-investora" }
+  wiki = ["Партнёрство глазами инвестора"]
+
+[[cluster]]
+id = "B"
+name = { ru = "Партнерский договор и деньги", ua = "Партнерський договір і гроші", en = "Partnership agreement and money" }
+
+  [[cluster.topic]]
+  id = "partnership-agreement"
+  name = { ru = "Партнерский договор", ua = "Партнерський договір", en = "Partnership agreement" }
+  slug = { ru = "partnerskij-dogovor", ua = "partnerskij-dogovir" }
+  wiki = ["Партнёрский договор"]
+
+  [[cluster.topic]]
+  id = "why-partners-avoid-signing-an-agreement"
+  name = { ru = "Почему партнеры не подписывают договор", ua = "Чому партнери не підписують договір", en = "Why partners avoid signing an agreement" }
+  slug = { ru = "pochemu-partnery-ne-podpisyvayut-dogovor", ua = "chomu-partneri-ne-pidpisuyut-dogovir" }
+  wiki = ["Сопротивление договору и цена отказа"]
+
+  [[cluster.topic]]
+  id = "equity-split-between-partners"
+  name = { ru = "Распределение долей", ua = "Розподіл часток", en = "Equity split between partners" }
+  slug = { ru = "raspredelenie-dolej", ua = "rozpodil-chastok" }
+  wiki = ["Распределение долей", "Slicing Pie"]
+
+  [[cluster.topic]]
+  id = "money-between-partners"
+  name = { ru = "Деньги между партнерами", ua = "Гроші між партнерами", en = "Money between partners" }
+  slug = { ru = "dengi-mezhdu-partnerami", ua = "groshi-mizh-partnerami" }
+  wiki = ["Финансовые договорённости партнёров"]
+
+  [[cluster.topic]]
+  id = "scenario-planning"
+  name = { ru = "Сценарии: провал, сверхуспех, выбытие партнера", ua = "Сценарії: провал, надуспіх, вибуття партнера", en = "Scenario planning: failure, windfall, a partner dropping out" }
+  slug = { ru = "sczenarii-proval-sverhuspeh-vybytie-partnera", ua = "sczenariyi-proval-naduspih-vibuttya-partnera" }
+  wiki = ["Сценарное планирование в партнёрстве"]
+
+[[cluster]]
+id = "C"
+name = { ru = "Отношения и доверие", ua = "Стосунки і довіра", en = "Relationships and trust" }
+
+  [[cluster.topic]]
+  id = "trust-between-partners"
+  name = { ru = "Доверие между партнерами", ua = "Довіра між партнерами", en = "Trust between partners" }
+  slug = { ru = "doverie-mezhdu-partnerami", ua = "dovira-mizh-partnerami" }
+  wiki = ["Доверие в партнёрстве"]
+
+  [[cluster.topic]]
+  id = "partner-expectations"
+  name = { ru = "Ожидания партнеров", ua = "Очікування партнерів", en = "Partner expectations" }
+  slug = { ru = "ozhidaniya-partnerov", ua = "ochikuvannya-partneriv" }
+  wiki = ["Управление ожиданиями"]
+
+  [[cluster.topic]]
+  id = "disappointment-in-a-partnership"
+  name = { ru = "Разочарование в партнерстве", ua = "Розчарування в партнерстві", en = "Disappointment in a partnership" }
+  slug = { ru = "razocharovanie-v-partnerstve", ua = "rozcharuvannya-v-partnerstvi" }
+  wiki = ["Разочарование в партнёрстве"]
+
+  [[cluster.topic]]
+  id = "when-partners-see-different-realities"
+  name = { ru = "Разные картины реальности у партнеров", ua = "Різні картини реальності в партнерів", en = "When partners see different realities" }
+  slug = { ru = "raznye-kartiny-realnosti-u-partnerov", ua = "rizni-kartini-realnosti-v-partneriv" }
+  wiki = ["Расхождение картин реальности"]
+
+  [[cluster.topic]]
+  id = "the-hero-partner-and-overwork"
+  name = { ru = "Партнер-герой и переработка", ua = "Партнер-герой і переробка", en = "The hero partner and overwork" }
+  slug = { ru = "partner-geroj-i-pererabotka", ua = "partner-geroj-i-pererobka" }
+  wiki = ["Партнёр-герой и переработка"]
+
+  [[cluster.topic]]
+  id = "the-three-roles-of-a-co-owner"
+  name = { ru = "Три роли совладельца", ua = "Три ролі співвласника", en = "The three roles of a co-owner" }
+  slug = { ru = "tri-roli-sovladelcza", ua = "tri-roli-spivvlasnika" }
+  wiki = ["Три роли совладельца"]
+
+  [[cluster.topic]]
+  id = "managing-partner-relationships"
+  name = { ru = "Управление партнерскими отношениями", ua = "Управління партнерськими стосунками", en = "Managing partner relationships" }
+  slug = { ru = "upravlenie-partnerskimi-otnosheniyami", ua = "upravlinnya-partnerskimi-stosunkami" }
+  wiki = ["Управление партнёрскими отношениями"]
+
+[[cluster]]
+id = "D"
+name = { ru = "Конфликты, недобросовестность, выход", ua = "Конфлікти, недобросовісність, вихід", en = "Conflict, misconduct and exit" }
+
+  [[cluster.topic]]
+  id = "conflicts-between-partners"
+  name = { ru = "Конфликты между партнерами", ua = "Конфлікти між партнерами", en = "Conflicts between partners" }
+  slug = { ru = "konflikty-mezhdu-partnerami", ua = "konflikti-mizh-partnerami" }
+  wiki = ["Разрешение конфликтов между партнёрами"]
+
+  [[cluster.topic]]
+  id = "partner-misconduct-and-internal-control"
+  name = { ru = "Недобросовестный партнер и контроль", ua = "Недобросовісний партнер і контроль", en = "Partner misconduct and internal control" }
+  slug = { ru = "nedobrosovestnyj-partner-i-kontrol", ua = "nedobrosovisnij-partner-i-kontrol" }
+  wiki = ["Недобросовестность партнёра и внутренний контроль"]
+
+  [[cluster.topic]]
+  id = "a-partners-exit-from-the-business"
+  name = { ru = "Выход партнера из бизнеса", ua = "Вихід партнера з бізнесу", en = "A partner's exit from the business" }
+  slug = { ru = "vyhod-partnera-iz-biznesa", ua = "vihid-partnera-z-biznesu" }
+  wiki = ["Выход из партнёрства"]
+
+[[cluster]]
+id = "E"
+name = { ru = "Метод и инструменты", ua = "Метод та інструменти", en = "Method and tools" }
+
+  [[cluster.topic]]
+  id = "partnership-session"
+  name = { ru = "Партнерская сессия", ua = "Партнерська сесія", en = "Partnership session" }
+  slug = { ru = "partnerskaya-sessiya", ua = "partnerska-sesiya" }
+  wiki = ["Партнёрская сессия"]
+
+  [[cluster.topic]]
+  id = "conscious-partnership"
+  name = { ru = "Осознанное партнерство", ua = "Усвідомлене партнерство", en = "Conscious partnership" }
+  slug = { ru = "osoznannoe-partnerstvo", ua = "usvidomlene-partnerstvo" }
+  wiki = ["Осознанное партнёрство"]
+
+  [[cluster.topic]]
+  id = "tools-and-services"
+  name = { ru = "Инструменты и услуги", ua = "Інструменти та послуги", en = "Tools and services" }
+  slug = { ru = "instrumenty-i-uslugi", ua = "instrumenti-ta-poslugi" }
+  wiki = ["Продукты и инструменты метода"]
+
+  [[cluster.topic]]
+  id = "ideas-from-adjacent-fields"
+  name = { ru = "Идеи из смежных дисциплин", ua = "Ідеї із суміжних дисциплін", en = "Ideas from adjacent fields" }
+  slug = { ru = "idei-iz-smezhnyh-discziplin", ua = "ideyi-iz-sumizhnih-discziplin" }
+  wiki = ["Перенос из смежных дисциплин"]
+
+[[cluster]]
+id = "F"
+name = { ru = "Партнерство как явление", ua = "Партнерство як явище", en = "Partnership as a phenomenon" }
+
+  [[cluster.topic]]
+  id = "partnership-the-blind-spot-of-business"
+  name = { ru = "Партнерство — слепая зона бизнеса", ua = "Партнерство — сліпа зона бізнесу", en = "Partnership: the blind spot of business" }
+  slug = { ru = "partnerstvo-slepaya-zona-biznesa", ua = "partnerstvo-slipa-zona-biznesu" }
+  wiki = ["Партнёрство как слепое пятно"]
+
+  [[cluster.topic]]
+  id = "data-and-research"
+  name = { ru = "Цифры и исследования", ua = "Цифри та дослідження", en = "Data and research" }
+  slug = { ru = "czifry-i-issledovaniya", ua = "czifri-ta-doslidzhennya" }
+  wiki = ["Carta"]
+
+  [[cluster.topic]]
+  id = "the-authors-own-partnerships"
+  name = { ru = "Личный опыт автора", ua = "Особистий досвід автора", en = "The author's own partnerships" }
+  slug = { ru = "lichnyj-opyt-avtora", ua = "osobistij-dosvid-avtora" }
+  wiki = ["Николай Черемисин"]
+
+# Кластер G предложен в S15 по разметке постов, не попавших в шесть кластеров (решение
+# владельца 30.10: любой пост попадает на сайт, непрофильные — в «Прочее»). Названия
+# владелец пока не утвердил — это данные, менять можно в любой момент. У тем нет
+# соответствий в вики (разметка — karta/manual_topics.json и overrides.json).
+[[cluster]]
+id = "G"
+name = { ru = "Прочее", ua = "Інше", en = "Other" }
+
+  [[cluster.topic]]
+  id = "economy-and-statistics"
+  name = { ru = "Экономика и статистика", ua = "Економіка і статистика", en = "Economy and statistics" }
+  slug = { ru = "ekonomika-i-statistika", ua = "ekonomika-i-statistika" }
+  wiki = []
+
+  [[cluster.topic]]
+  id = "linkedin-and-personal-brand"
+  name = { ru = "LinkedIn и личный бренд", ua = "LinkedIn і особистий бренд", en = "LinkedIn and personal brand" }
+  slug = { ru = "linkedin-i-lichnyj-brend", ua = "linkedin-i-osobistij-brend" }
+  wiki = []
+
+  [[cluster.topic]]
+  id = "talks-and-interviews"
+  name = { ru = "Выступления и эфиры", ua = "Виступи та ефіри", en = "Talks and interviews" }
+  slug = { ru = "vystupleniya-i-efiry", ua = "vistupi-ta-efiri" }
+  wiki = []
+
+  [[cluster.topic]]
+  id = "personal-notes"
+  name = { ru = "Личное и наблюдения", ua = "Особисте і спостереження", en = "Personal notes" }
+  slug = { ru = "lichnoe-i-nablyudeniya", ua = "osobiste-i-sposterezhennya" }
+  wiki = []

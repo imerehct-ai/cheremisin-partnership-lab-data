@@ -1,0 +1,15 @@
+name: validate data
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/validate.py data
+      - run: python3 -c "import json,tomllib; json.load(open('catalog.json')); json.load(open('annotations.json')); json.load(open('descriptions.json')); tomllib.load(open('taxonomy.toml','rb')); print('sources ok')"

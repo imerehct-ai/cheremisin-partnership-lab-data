@@ -1,0 +1,7431 @@
+{
+ "generated": "2026-11-04",
+ "partial": false,
+ "totals": {
+  "materials": 442,
+  "topics": 31,
+  "clusters": 7,
+  "platforms": 9,
+  "years": [
+   "2024",
+   "2026"
+  ],
+  "kinds": {
+   "article": 24,
+   "post": 415,
+   "paper": 3
+  }
+ },
+ "hub": {
+  "ru": "temy",
+  "ua": "temi",
+  "en": "topics"
+ },
+ "order": [
+  "B",
+  "E",
+  "A",
+  "C",
+  "F",
+  "D",
+  "G"
+ ],
+ "clusters": [
+  {
+   "id": "A",
+   "name": {
+    "ru": "Выбор партнера и старт",
+    "ua": "Вибір партнера і старт",
+    "en": "Choosing a partner and getting started"
+   },
+   "count": 80,
+   "shade": 1,
+   "box": [
+    44.265,
+    0.0,
+    26.912,
+    51.913
+   ],
+   "box_m": [
+    0.0,
+    44.265,
+    51.913,
+    26.912
+   ],
+   "tiles": [
+    {
+     "id": "choosing-a-business-partner",
+     "box": [
+      0.0,
+      0.0,
+      46.316,
+      100.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      100.0,
+      46.316
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "forming-a-partner-team",
+     "box": [
+      46.316,
+      0.0,
+      53.684,
+      33.333
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      46.316,
+      62.745,
+      28.52
+     ],
+     "fit_m": {
+      "ru": "s",
+      "ua": "s",
+      "en": "m"
+     }
+    },
+    {
+     "id": "co-founders-through-an-investors-eyes",
+     "box": [
+      46.316,
+      33.333,
+      53.684,
+      29.412
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      74.836,
+      62.745,
+      25.164
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "s",
+      "en": "x"
+     }
+    },
+    {
+     "id": "turning-a-manager-into-a-partner",
+     "box": [
+      46.316,
+      62.745,
+      33.906,
+      37.255
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "m"
+     },
+     "box_m": [
+      62.745,
+      46.316,
+      37.255,
+      33.906
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "why-people-go-into-partnership",
+     "box": [
+      80.222,
+      62.745,
+      19.778,
+      37.255
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     },
+     "box_m": [
+      62.745,
+      80.222,
+      37.255,
+      19.778
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "name": {
+    "ru": "Партнерский договор и деньги",
+    "ua": "Партнерський договір і гроші",
+    "en": "Partnership agreement and money"
+   },
+   "count": 137,
+   "shade": 6,
+   "box": [
+    0.0,
+    0.0,
+    44.265,
+    51.163
+   ],
+   "box_m": [
+    0.0,
+    0.0,
+    100.0,
+    22.647
+   ],
+   "tiles": [
+    {
+     "id": "partnership-agreement",
+     "box": [
+      0.0,
+      0.0,
+      44.156,
+      100.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      44.156,
+      100.0
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "why-partners-avoid-signing-an-agreement",
+     "box": [
+      44.156,
+      0.0,
+      20.779,
+      100.0
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      44.156,
+      0.0,
+      55.844,
+      37.209
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "equity-split-between-partners",
+     "box": [
+      64.935,
+      0.0,
+      35.065,
+      42.593
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      44.156,
+      37.209,
+      23.785,
+      62.791
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "m",
+      "en": "m"
+     }
+    },
+    {
+     "id": "scenario-planning",
+     "box": [
+      64.935,
+      42.593,
+      18.098,
+      57.407
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "m",
+      "ua": "l",
+      "en": "m"
+     },
+     "box_m": [
+      67.941,
+      37.209,
+      32.059,
+      32.408
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "money-between-partners",
+     "box": [
+      83.033,
+      42.593,
+      16.967,
+      57.407
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "m",
+      "ua": "m",
+      "en": "l"
+     },
+     "box_m": [
+      67.941,
+      69.617,
+      32.059,
+      30.383
+     ],
+     "fit_m": {
+      "ru": "m",
+      "ua": "m",
+      "en": "m"
+     }
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "name": {
+    "ru": "Отношения и доверие",
+    "ua": "Стосунки і довіра",
+    "en": "Relationships and trust"
+   },
+   "count": 80,
+   "shade": 4,
+   "box": [
+    44.265,
+    51.913,
+    26.912,
+    48.087
+   ],
+   "box_m": [
+    51.913,
+    44.265,
+    48.087,
+    26.912
+   ],
+   "tiles": [
+    {
+     "id": "managing-partner-relationships",
+     "box": [
+      0.0,
+      0.0,
+      45.455,
+      55.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      55.0,
+      45.455
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "trust-between-partners",
+     "box": [
+      0.0,
+      55.0,
+      45.455,
+      45.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      55.0,
+      0.0,
+      45.0,
+      45.455
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "m"
+     }
+    },
+    {
+     "id": "disappointment-in-a-partnership",
+     "box": [
+      45.455,
+      0.0,
+      31.469,
+      54.167
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "s",
+      "ua": "m",
+      "en": "x"
+     },
+     "box_m": [
+      0.0,
+      45.455,
+      54.167,
+      31.469
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "when-partners-see-different-realities",
+     "box": [
+      76.923,
+      0.0,
+      23.077,
+      54.167
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "x",
+      "ua": "x",
+      "en": "s"
+     },
+     "box_m": [
+      0.0,
+      76.923,
+      54.167,
+      23.077
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "partner-expectations",
+     "box": [
+      45.455,
+      54.167,
+      24.793,
+      45.833
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "m",
+      "ua": "s",
+      "en": "x"
+     },
+     "box_m": [
+      54.167,
+      45.455,
+      45.833,
+      24.793
+     ],
+     "fit_m": {
+      "ru": "s",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "the-three-roles-of-a-co-owner",
+     "box": [
+      70.248,
+      54.167,
+      29.752,
+      26.736
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "m",
+      "ua": "s",
+      "en": "x"
+     },
+     "box_m": [
+      54.167,
+      70.248,
+      45.833,
+      17.355
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "the-hero-partner-and-overwork",
+     "box": [
+      70.248,
+      80.903,
+      29.752,
+      19.097
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     },
+     "box_m": [
+      54.167,
+      87.603,
+      45.833,
+      12.397
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "name": {
+    "ru": "Конфликты, недобросовестность, выход",
+    "ua": "Конфлікти, недобросовісність, вихід",
+    "en": "Conflict, misconduct and exit"
+   },
+   "count": 61,
+   "shade": 7,
+   "box": [
+    71.176,
+    38.265,
+    15.246,
+    61.735
+   ],
+   "box_m": [
+    38.265,
+    71.176,
+    61.735,
+    15.246
+   ],
+   "tiles": [
+    {
+     "id": "conflicts-between-partners",
+     "box": [
+      0.0,
+      0.0,
+      100.0,
+      42.188
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      42.187,
+      100.0
+     ],
+     "fit_m": {
+      "ru": "m",
+      "ua": "m",
+      "en": "m"
+     }
+    },
+    {
+     "id": "partner-misconduct-and-internal-control",
+     "box": [
+      0.0,
+      42.188,
+      100.0,
+      29.687
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      42.187,
+      0.0,
+      57.812,
+      51.351
+     ],
+     "fit_m": {
+      "ru": "s",
+      "ua": "s",
+      "en": "s"
+     }
+    },
+    {
+     "id": "a-partners-exit-from-the-business",
+     "box": [
+      0.0,
+      71.875,
+      100.0,
+      28.125
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      42.187,
+      51.351,
+      57.812,
+      48.649
+     ],
+     "fit_m": {
+      "ru": "m",
+      "ua": "m",
+      "en": "s"
+     }
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "name": {
+    "ru": "Метод и инструменты",
+    "ua": "Метод та інструменти",
+    "en": "Method and tools"
+   },
+   "count": 127,
+   "shade": 2,
+   "box": [
+    0.0,
+    51.163,
+    44.265,
+    48.837
+   ],
+   "box_m": [
+    0.0,
+    22.647,
+    100.0,
+    21.618
+   ],
+   "tiles": [
+    {
+     "id": "ideas-from-adjacent-fields",
+     "box": [
+      0.0,
+      0.0,
+      29.252,
+      100.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      56.463,
+      51.807
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "partnership-session",
+     "box": [
+      29.252,
+      0.0,
+      27.211,
+      100.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      51.807,
+      56.463,
+      48.193
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "tools-and-services",
+     "box": [
+      56.463,
+      0.0,
+      43.537,
+      53.125
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      56.463,
+      0.0,
+      43.537,
+      53.125
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "conscious-partnership",
+     "box": [
+      56.463,
+      53.125,
+      43.537,
+      46.875
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      56.463,
+      53.125,
+      43.537,
+      46.875
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "name": {
+    "ru": "Партнерство как явление",
+    "ua": "Партнерство як явище",
+    "en": "Partnership as a phenomenon"
+   },
+   "count": 70,
+   "shade": 5,
+   "box": [
+    71.176,
+    0.0,
+    28.824,
+    38.265
+   ],
+   "box_m": [
+    0.0,
+    71.176,
+    38.265,
+    28.824
+   ],
+   "tiles": [
+    {
+     "id": "partnership-the-blind-spot-of-business",
+     "box": [
+      0.0,
+      0.0,
+      37.333,
+      100.0
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      100.0,
+      37.333
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "m"
+     }
+    },
+    {
+     "id": "data-and-research",
+     "box": [
+      37.333,
+      0.0,
+      36.0,
+      100.0
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      37.333,
+      100.0,
+      36.0
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     }
+    },
+    {
+     "id": "the-authors-own-partnerships",
+     "box": [
+      73.333,
+      0.0,
+      26.667,
+      100.0
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "s"
+     },
+     "box_m": [
+      0.0,
+      73.333,
+      100.0,
+      26.667
+     ],
+     "fit_m": {
+      "ru": "l",
+      "ua": "l",
+      "en": "m"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G",
+   "name": {
+    "ru": "Прочее",
+    "ua": "Інше",
+    "en": "Other"
+   },
+   "count": 57,
+   "shade": 3,
+   "box": [
+    86.422,
+    38.265,
+    13.578,
+    61.735
+   ],
+   "box_m": [
+    38.265,
+    86.422,
+    61.735,
+    13.578
+   ],
+   "tiles": [
+    {
+     "id": "personal-notes",
+     "box": [
+      0.0,
+      0.0,
+      100.0,
+      43.86
+     ],
+     "num": "l",
+     "fit": {
+      "ru": "l",
+      "ua": "l",
+      "en": "l"
+     },
+     "box_m": [
+      0.0,
+      0.0,
+      43.86,
+      100.0
+     ],
+     "fit_m": {
+      "ru": "m",
+      "ua": "x",
+      "en": "l"
+     }
+    },
+    {
+     "id": "economy-and-statistics",
+     "box": [
+      0.0,
+      43.86,
+      100.0,
+      19.298
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "s",
+      "ua": "s",
+      "en": "s"
+     },
+     "box_m": [
+      43.86,
+      0.0,
+      56.14,
+      34.375
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "linkedin-and-personal-brand",
+     "box": [
+      0.0,
+      63.158,
+      52.381,
+      36.842
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "l",
+      "ua": "m",
+      "en": "l"
+     },
+     "box_m": [
+      43.86,
+      34.375,
+      29.407,
+      65.625
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    },
+    {
+     "id": "talks-and-interviews",
+     "box": [
+      52.381,
+      63.158,
+      47.619,
+      36.842
+     ],
+     "num": "s",
+     "fit": {
+      "ru": "x",
+      "ua": "l",
+      "en": "x"
+     },
+     "box_m": [
+      73.266,
+      34.375,
+      26.734,
+      65.625
+     ],
+     "fit_m": {
+      "ru": "x",
+      "ua": "x",
+      "en": "x"
+     }
+    }
+   ]
+  }
+ ],
+ "topics": {
+  "choosing-a-business-partner": {
+   "cluster": "A",
+   "name": {
+    "ru": "Как выбрать бизнес-партнера",
+    "ua": "Як обрати бізнес-партнера",
+    "en": "Choosing a business partner"
+   },
+   "slug": {
+    "ru": "kak-vybrat-biznes-partnera",
+    "ua": "yak-obrati-biznes-partnera",
+    "en": "choosing-a-business-partner"
+   },
+   "count": 44,
+   "node": {
+    "x": 520.9,
+    "y": 137.9,
+    "r": 11.2
+   },
+   "related": [
+    [
+     "tools-and-services",
+     6
+    ],
+    [
+     "forming-a-partner-team",
+     5
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     5
+    ],
+    [
+     "the-authors-own-partnerships",
+     5
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     3
+    ],
+    [
+     "why-people-go-into-partnership",
+     3
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "when-partners-see-different-realities",
+     2
+    ]
+   ]
+  },
+  "why-people-go-into-partnership": {
+   "cluster": "A",
+   "name": {
+    "ru": "Зачем люди идут в партнерство",
+    "ua": "Навіщо люди йдуть у партнерство",
+    "en": "Why people go into partnership"
+   },
+   "slug": {
+    "ru": "zachem-lyudi-idut-v-partnerstvo",
+    "ua": "navishho-lyudi-jdut-u-partnerstvo",
+    "en": "why-people-go-into-partnership"
+   },
+   "count": 7,
+   "node": {
+    "x": 806.2,
+    "y": 195.0,
+    "r": 6.9
+   },
+   "related": [
+    [
+     "choosing-a-business-partner",
+     3
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     2
+    ],
+    [
+     "tools-and-services",
+     2
+    ],
+    [
+     "partnership-session",
+     1
+    ],
+    [
+     "the-authors-own-partnerships",
+     1
+    ],
+    [
+     "trust-between-partners",
+     1
+    ]
+   ]
+  },
+  "forming-a-partner-team": {
+   "cluster": "A",
+   "name": {
+    "ru": "Становление партнерской команды",
+    "ua": "Становлення партнерської команди",
+    "en": "Forming a partner team"
+   },
+   "slug": {
+    "ru": "stanovlenie-partnerskoj-komandy",
+    "ua": "stanovlennya-partnerskoyi-komandi",
+    "en": "forming-a-partner-team"
+   },
+   "count": 17,
+   "node": {
+    "x": 525.8,
+    "y": 73.5,
+    "r": 8.5
+   },
+   "related": [
+    [
+     "choosing-a-business-partner",
+     5
+    ],
+    [
+     "when-partners-see-different-realities",
+     5
+    ],
+    [
+     "turning-a-manager-into-a-partner",
+     3
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "trust-between-partners",
+     2
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "partnership-agreement",
+     1
+    ]
+   ]
+  },
+  "turning-a-manager-into-a-partner": {
+   "cluster": "A",
+   "name": {
+    "ru": "Наемный менеджер как партнер",
+    "ua": "Найманий менеджер як партнер",
+    "en": "Turning a manager into a partner"
+   },
+   "slug": {
+    "ru": "naemnyj-menedzher-kak-partner",
+    "ua": "najmanij-menedzher-yak-partner",
+    "en": "turning-a-manager-into-a-partner"
+   },
+   "count": 12,
+   "node": {
+    "x": 744.0,
+    "y": 135.2,
+    "r": 7.8
+   },
+   "related": [
+    [
+     "forming-a-partner-team",
+     3
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "tools-and-services",
+     2
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     1
+    ],
+    [
+     "partnership-agreement",
+     1
+    ],
+    [
+     "the-authors-own-partnerships",
+     1
+    ],
+    [
+     "the-three-roles-of-a-co-owner",
+     1
+    ]
+   ]
+  },
+  "co-founders-through-an-investors-eyes": {
+   "cluster": "A",
+   "name": {
+    "ru": "Партнеры глазами инвестора",
+    "ua": "Партнери очима інвестора",
+    "en": "Co-founders through an investor's eyes"
+   },
+   "slug": {
+    "ru": "partnery-glazami-investora",
+    "ua": "partneri-ochima-investora",
+    "en": "co-founders-through-an-investors-eyes"
+   },
+   "count": 15,
+   "node": {
+    "x": 748.9,
+    "y": 74.0,
+    "r": 8.2
+   },
+   "related": [
+    [
+     "choosing-a-business-partner",
+     3
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     1
+    ],
+    [
+     "data-and-research",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "forming-a-partner-team",
+     1
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     1
+    ],
+    [
+     "money-between-partners",
+     1
+    ],
+    [
+     "partner-expectations",
+     1
+    ]
+   ]
+  },
+  "partnership-agreement": {
+   "cluster": "B",
+   "name": {
+    "ru": "Партнерский договор",
+    "ua": "Партнерський договір",
+    "en": "Partnership agreement"
+   },
+   "slug": {
+    "ru": "partnerskij-dogovor",
+    "ua": "partnerskij-dogovir",
+    "en": "partnership-agreement"
+   },
+   "count": 68,
+   "node": {
+    "x": 712.9,
+    "y": 476.9,
+    "r": 13.0
+   },
+   "related": [
+    [
+     "why-partners-avoid-signing-an-agreement",
+     11
+    ],
+    [
+     "trust-between-partners",
+     7
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     6
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     6
+    ],
+    [
+     "conscious-partnership",
+     5
+    ],
+    [
+     "partnership-session",
+     5
+    ],
+    [
+     "the-authors-own-partnerships",
+     4
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     3
+    ]
+   ]
+  },
+  "why-partners-avoid-signing-an-agreement": {
+   "cluster": "B",
+   "name": {
+    "ru": "Почему партнеры не подписывают договор",
+    "ua": "Чому партнери не підписують договір",
+    "en": "Why partners avoid signing an agreement"
+   },
+   "slug": {
+    "ru": "pochemu-partnery-ne-podpisyvayut-dogovor",
+    "ua": "chomu-partneri-ne-pidpisuyut-dogovir",
+    "en": "why-partners-avoid-signing-an-agreement"
+   },
+   "count": 32,
+   "node": {
+    "x": 583.1,
+    "y": 204.1,
+    "r": 10.2
+   },
+   "related": [
+    [
+     "partnership-agreement",
+     11
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     3
+    ],
+    [
+     "conflicts-between-partners",
+     2
+    ],
+    [
+     "conscious-partnership",
+     2
+    ],
+    [
+     "data-and-research",
+     2
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     2
+    ],
+    [
+     "tools-and-services",
+     2
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     1
+    ]
+   ]
+  },
+  "equity-split-between-partners": {
+   "cluster": "B",
+   "name": {
+    "ru": "Распределение долей",
+    "ua": "Розподіл часток",
+    "en": "Equity split between partners"
+   },
+   "slug": {
+    "ru": "raspredelenie-dolej",
+    "ua": "rozpodil-chastok",
+    "en": "equity-split-between-partners"
+   },
+   "count": 23,
+   "node": {
+    "x": 593.5,
+    "y": 268.1,
+    "r": 9.2
+   },
+   "related": [
+    [
+     "tools-and-services",
+     5
+    ],
+    [
+     "partnership-session",
+     4
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     2
+    ],
+    [
+     "disappointment-in-a-partnership",
+     2
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     1
+    ],
+    [
+     "conflicts-between-partners",
+     1
+    ],
+    [
+     "conscious-partnership",
+     1
+    ],
+    [
+     "data-and-research",
+     1
+    ]
+   ]
+  },
+  "money-between-partners": {
+   "cluster": "B",
+   "name": {
+    "ru": "Деньги между партнерами",
+    "ua": "Гроші між партнерами",
+    "en": "Money between partners"
+   },
+   "slug": {
+    "ru": "dengi-mezhdu-partnerami",
+    "ua": "groshi-mizh-partnerami",
+    "en": "money-between-partners"
+   },
+   "count": 15,
+   "node": {
+    "x": 870.4,
+    "y": 387.5,
+    "r": 8.2
+   },
+   "related": [
+    [
+     "the-three-roles-of-a-co-owner",
+     2
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "partner-expectations",
+     1
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     1
+    ],
+    [
+     "partnership-agreement",
+     1
+    ],
+    [
+     "partnership-session",
+     1
+    ],
+    [
+     "the-authors-own-partnerships",
+     1
+    ]
+   ]
+  },
+  "scenario-planning": {
+   "cluster": "B",
+   "name": {
+    "ru": "Сценарии: провал, сверхуспех, выбытие партнера",
+    "ua": "Сценарії: провал, надуспіх, вибуття партнера",
+    "en": "Scenario planning: failure, windfall, a partner dropping out"
+   },
+   "slug": {
+    "ru": "sczenarii-proval-sverhuspeh-vybytie-partnera",
+    "ua": "sczenariyi-proval-naduspih-vibuttya-partnera",
+    "en": "scenario-planning"
+   },
+   "count": 16,
+   "node": {
+    "x": 832.2,
+    "y": 310.1,
+    "r": 8.4
+   },
+   "related": [
+    [
+     "a-partners-exit-from-the-business",
+     3
+    ],
+    [
+     "conflicts-between-partners",
+     3
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     2
+    ],
+    [
+     "partnership-agreement",
+     2
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "conscious-partnership",
+     1
+    ],
+    [
+     "disappointment-in-a-partnership",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ]
+   ]
+  },
+  "trust-between-partners": {
+   "cluster": "C",
+   "name": {
+    "ru": "Доверие между партнерами",
+    "ua": "Довіра між партнерами",
+    "en": "Trust between partners"
+   },
+   "slug": {
+    "ru": "doverie-mezhdu-partnerami",
+    "ua": "dovira-mizh-partnerami",
+    "en": "trust-between-partners"
+   },
+   "count": 18,
+   "node": {
+    "x": 677.5,
+    "y": 410.0,
+    "r": 8.6
+   },
+   "related": [
+    [
+     "partnership-agreement",
+     7
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     3
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     3
+    ],
+    [
+     "forming-a-partner-team",
+     2
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "choosing-a-business-partner",
+     1
+    ],
+    [
+     "disappointment-in-a-partnership",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ]
+   ]
+  },
+  "partner-expectations": {
+   "cluster": "C",
+   "name": {
+    "ru": "Ожидания партнеров",
+    "ua": "Очікування партнерів",
+    "en": "Partner expectations"
+   },
+   "slug": {
+    "ru": "ozhidaniya-partnerov",
+    "ua": "ochikuvannya-partneriv",
+    "en": "partner-expectations"
+   },
+   "count": 10,
+   "node": {
+    "x": 312.0,
+    "y": 525.5,
+    "r": 7.5
+   },
+   "related": [
+    [
+     "disappointment-in-a-partnership",
+     4
+    ],
+    [
+     "partnership-session",
+     3
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     1
+    ],
+    [
+     "managing-partner-relationships",
+     1
+    ],
+    [
+     "money-between-partners",
+     1
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     1
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     1
+    ],
+    [
+     "scenario-planning",
+     1
+    ]
+   ]
+  },
+  "disappointment-in-a-partnership": {
+   "cluster": "C",
+   "name": {
+    "ru": "Разочарование в партнерстве",
+    "ua": "Розчарування в партнерстві",
+    "en": "Disappointment in a partnership"
+   },
+   "slug": {
+    "ru": "razocharovanie-v-partnerstve",
+    "ua": "rozcharuvannya-v-partnerstvi",
+    "en": "disappointment-in-a-partnership"
+   },
+   "count": 15,
+   "node": {
+    "x": 223.8,
+    "y": 409.0,
+    "r": 8.2
+   },
+   "related": [
+    [
+     "partner-expectations",
+     4
+    ],
+    [
+     "partnership-session",
+     3
+    ],
+    [
+     "equity-split-between-partners",
+     2
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     1
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     1
+    ],
+    [
+     "scenario-planning",
+     1
+    ],
+    [
+     "tools-and-services",
+     1
+    ],
+    [
+     "trust-between-partners",
+     1
+    ]
+   ]
+  },
+  "when-partners-see-different-realities": {
+   "cluster": "C",
+   "name": {
+    "ru": "Разные картины реальности у партнеров",
+    "ua": "Різні картини реальності в партнерів",
+    "en": "When partners see different realities"
+   },
+   "slug": {
+    "ru": "raznye-kartiny-realnosti-u-partnerov",
+    "ua": "rizni-kartini-realnosti-v-partneriv",
+    "en": "when-partners-see-different-realities"
+   },
+   "count": 11,
+   "node": {
+    "x": 359.9,
+    "y": 210.5,
+    "r": 7.6
+   },
+   "related": [
+    [
+     "forming-a-partner-team",
+     5
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     3
+    ],
+    [
+     "partnership-session",
+     3
+    ],
+    [
+     "choosing-a-business-partner",
+     2
+    ],
+    [
+     "partnership-agreement",
+     2
+    ],
+    [
+     "conflicts-between-partners",
+     1
+    ],
+    [
+     "disappointment-in-a-partnership",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ]
+   ]
+  },
+  "the-hero-partner-and-overwork": {
+   "cluster": "C",
+   "name": {
+    "ru": "Партнер-герой и переработка",
+    "ua": "Партнер-герой і переробка",
+    "en": "The hero partner and overwork"
+   },
+   "slug": {
+    "ru": "partner-geroj-i-pererabotka",
+    "ua": "partner-geroj-i-pererobka",
+    "en": "the-hero-partner-and-overwork"
+   },
+   "count": 5,
+   "node": {
+    "x": 484.3,
+    "y": 469.4,
+    "r": 6.4
+   },
+   "related": [
+    [
+     "choosing-a-business-partner",
+     1
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     1
+    ],
+    [
+     "partnership-agreement",
+     1
+    ]
+   ]
+  },
+  "the-three-roles-of-a-co-owner": {
+   "cluster": "C",
+   "name": {
+    "ru": "Три роли совладельца",
+    "ua": "Три ролі співвласника",
+    "en": "The three roles of a co-owner"
+   },
+   "slug": {
+    "ru": "tri-roli-sovladelcza",
+    "ua": "tri-roli-spivvlasnika",
+    "en": "the-three-roles-of-a-co-owner"
+   },
+   "count": 7,
+   "node": {
+    "x": 365.1,
+    "y": 284.7,
+    "r": 6.9
+   },
+   "related": [
+    [
+     "money-between-partners",
+     2
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     1
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     1
+    ],
+    [
+     "partnership-agreement",
+     1
+    ],
+    [
+     "turning-a-manager-into-a-partner",
+     1
+    ]
+   ]
+  },
+  "managing-partner-relationships": {
+   "cluster": "C",
+   "name": {
+    "ru": "Управление партнерскими отношениями",
+    "ua": "Управління партнерськими стосунками",
+    "en": "Managing partner relationships"
+   },
+   "slug": {
+    "ru": "upravlenie-partnerskimi-otnosheniyami",
+    "ua": "upravlinnya-partnerskimi-stosunkami",
+    "en": "managing-partner-relationships"
+   },
+   "count": 22,
+   "node": {
+    "x": 624.5,
+    "y": 331.2,
+    "r": 9.1
+   },
+   "related": [
+    [
+     "partnership-agreement",
+     3
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "the-authors-own-partnerships",
+     2
+    ],
+    [
+     "conflicts-between-partners",
+     1
+    ],
+    [
+     "conscious-partnership",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     1
+    ],
+    [
+     "partner-expectations",
+     1
+    ]
+   ]
+  },
+  "conflicts-between-partners": {
+   "cluster": "D",
+   "name": {
+    "ru": "Конфликты между партнерами",
+    "ua": "Конфлікти між партнерами",
+    "en": "Conflicts between partners"
+   },
+   "slug": {
+    "ru": "konflikty-mezhdu-partnerami",
+    "ua": "konflikti-mizh-partnerami",
+    "en": "conflicts-between-partners"
+   },
+   "count": 27,
+   "node": {
+    "x": 431.7,
+    "y": 346.2,
+    "r": 9.7
+   },
+   "related": [
+    [
+     "ideas-from-adjacent-fields",
+     5
+    ],
+    [
+     "partnership-session",
+     4
+    ],
+    [
+     "scenario-planning",
+     3
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     2
+    ],
+    [
+     "conscious-partnership",
+     2
+    ],
+    [
+     "tools-and-services",
+     2
+    ],
+    [
+     "why-partners-avoid-signing-an-agreement",
+     2
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ]
+   ]
+  },
+  "partner-misconduct-and-internal-control": {
+   "cluster": "D",
+   "name": {
+    "ru": "Недобросовестный партнер и контроль",
+    "ua": "Недобросовісний партнер і контроль",
+    "en": "Partner misconduct and internal control"
+   },
+   "slug": {
+    "ru": "nedobrosovestnyj-partner-i-kontrol",
+    "ua": "nedobrosovisnij-partner-i-kontrol",
+    "en": "partner-misconduct-and-internal-control"
+   },
+   "count": 19,
+   "node": {
+    "x": 484.7,
+    "y": 409.9,
+    "r": 8.8
+   },
+   "related": [
+    [
+     "partnership-agreement",
+     6
+    ],
+    [
+     "trust-between-partners",
+     3
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     2
+    ],
+    [
+     "the-authors-own-partnerships",
+     2
+    ],
+    [
+     "conflicts-between-partners",
+     1
+    ],
+    [
+     "conscious-partnership",
+     1
+    ],
+    [
+     "managing-partner-relationships",
+     1
+    ],
+    [
+     "money-between-partners",
+     1
+    ]
+   ]
+  },
+  "a-partners-exit-from-the-business": {
+   "cluster": "D",
+   "name": {
+    "ru": "Выход партнера из бизнеса",
+    "ua": "Вихід партнера з бізнесу",
+    "en": "A partner's exit from the business"
+   },
+   "slug": {
+    "ru": "vyhod-partnera-iz-biznesa",
+    "ua": "vihid-partnera-z-biznesu",
+    "en": "a-partners-exit-from-the-business"
+   },
+   "count": 18,
+   "node": {
+    "x": 233.7,
+    "y": 347.0,
+    "r": 8.6
+   },
+   "related": [
+    [
+     "data-and-research",
+     4
+    ],
+    [
+     "partnership-agreement",
+     3
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     3
+    ],
+    [
+     "scenario-planning",
+     3
+    ],
+    [
+     "conflicts-between-partners",
+     2
+    ],
+    [
+     "equity-split-between-partners",
+     2
+    ],
+    [
+     "the-authors-own-partnerships",
+     2
+    ],
+    [
+     "tools-and-services",
+     2
+    ]
+   ]
+  },
+  "partnership-session": {
+   "cluster": "E",
+   "name": {
+    "ru": "Партнерская сессия",
+    "ua": "Партнерська сесія",
+    "en": "Partnership session"
+   },
+   "slug": {
+    "ru": "partnerskaya-sessiya",
+    "ua": "partnerska-sesiya",
+    "en": "partnership-session"
+   },
+   "count": 40,
+   "node": {
+    "x": 302.1,
+    "y": 162.4,
+    "r": 10.9
+   },
+   "related": [
+    [
+     "tools-and-services",
+     8
+    ],
+    [
+     "partnership-agreement",
+     5
+    ],
+    [
+     "conflicts-between-partners",
+     4
+    ],
+    [
+     "equity-split-between-partners",
+     4
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     4
+    ],
+    [
+     "conscious-partnership",
+     3
+    ],
+    [
+     "disappointment-in-a-partnership",
+     3
+    ],
+    [
+     "partner-expectations",
+     3
+    ]
+   ]
+  },
+  "conscious-partnership": {
+   "cluster": "E",
+   "name": {
+    "ru": "Осознанное партнерство",
+    "ua": "Усвідомлене партнерство",
+    "en": "Conscious partnership"
+   },
+   "slug": {
+    "ru": "osoznannoe-partnerstvo",
+    "ua": "usvidomlene-partnerstvo",
+    "en": "conscious-partnership"
+   },
+   "count": 30,
+   "node": {
+    "x": 182.1,
+    "y": 217.3,
+    "r": 10.0
+   },
+   "related": [
+    [
+     "partnership-agreement",
+     5
+    ],
+    [
+     "partnership-session",
+     3
+    ],
+    [
+     "tools-and-services",
+     3
+    ],
+    [
+     "conflicts-between-partners",
+     2
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     2
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     2
+    ],
+    [
+     "why-partners-avoid-signing-an-agreement",
+     2
+    ],
+    [
+     "choosing-a-business-partner",
+     1
+    ]
+   ]
+  },
+  "tools-and-services": {
+   "cluster": "E",
+   "name": {
+    "ru": "Инструменты и услуги",
+    "ua": "Інструменти та послуги",
+    "en": "Tools and services"
+   },
+   "slug": {
+    "ru": "instrumenty-i-uslugi",
+    "ua": "instrumenti-ta-poslugi",
+    "en": "tools-and-services"
+   },
+   "count": 34,
+   "node": {
+    "x": 136.6,
+    "y": 282.9,
+    "r": 10.4
+   },
+   "related": [
+    [
+     "partnership-session",
+     8
+    ],
+    [
+     "the-authors-own-partnerships",
+     7
+    ],
+    [
+     "choosing-a-business-partner",
+     6
+    ],
+    [
+     "equity-split-between-partners",
+     5
+    ],
+    [
+     "conscious-partnership",
+     3
+    ],
+    [
+     "partnership-agreement",
+     3
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     2
+    ],
+    [
+     "conflicts-between-partners",
+     2
+    ]
+   ]
+  },
+  "ideas-from-adjacent-fields": {
+   "cluster": "E",
+   "name": {
+    "ru": "Идеи из смежных дисциплин",
+    "ua": "Ідеї із суміжних дисциплін",
+    "en": "Ideas from adjacent fields"
+   },
+   "slug": {
+    "ru": "idei-iz-smezhnyh-discziplin",
+    "ua": "ideyi-iz-sumizhnih-discziplin",
+    "en": "ideas-from-adjacent-fields"
+   },
+   "count": 43,
+   "node": {
+    "x": 75.4,
+    "y": 150.9,
+    "r": 11.2
+   },
+   "related": [
+    [
+     "partnership-agreement",
+     6
+    ],
+    [
+     "choosing-a-business-partner",
+     5
+    ],
+    [
+     "conflicts-between-partners",
+     5
+    ],
+    [
+     "partnership-session",
+     4
+    ],
+    [
+     "trust-between-partners",
+     3
+    ],
+    [
+     "when-partners-see-different-realities",
+     3
+    ],
+    [
+     "why-partners-avoid-signing-an-agreement",
+     3
+    ],
+    [
+     "conscious-partnership",
+     2
+    ]
+   ]
+  },
+  "partnership-the-blind-spot-of-business": {
+   "cluster": "F",
+   "name": {
+    "ru": "Партнерство — слепая зона бизнеса",
+    "ua": "Партнерство — сліпа зона бізнесу",
+    "en": "Partnership: the blind spot of business"
+   },
+   "slug": {
+    "ru": "partnerstvo-slepaya-zona-biznesa",
+    "ua": "partnerstvo-slipa-zona-biznesu",
+    "en": "partnership-the-blind-spot-of-business"
+   },
+   "count": 28,
+   "node": {
+    "x": 297.6,
+    "y": 81.3,
+    "r": 9.8
+   },
+   "related": [
+    [
+     "data-and-research",
+     4
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     3
+    ],
+    [
+     "conscious-partnership",
+     2
+    ],
+    [
+     "partnership-session",
+     2
+    ],
+    [
+     "why-partners-avoid-signing-an-agreement",
+     2
+    ],
+    [
+     "choosing-a-business-partner",
+     1
+    ],
+    [
+     "conflicts-between-partners",
+     1
+    ],
+    [
+     "disappointment-in-a-partnership",
+     1
+    ]
+   ]
+  },
+  "data-and-research": {
+   "cluster": "F",
+   "name": {
+    "ru": "Цифры и исследования",
+    "ua": "Цифри та дослідження",
+    "en": "Data and research"
+   },
+   "slug": {
+    "ru": "czifry-i-issledovaniya",
+    "ua": "czifri-ta-doslidzhennya",
+    "en": "data-and-research"
+   },
+   "count": 27,
+   "node": {
+    "x": 222.6,
+    "y": 31.8,
+    "r": 9.7
+   },
+   "related": [
+    [
+     "a-partners-exit-from-the-business",
+     4
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     4
+    ],
+    [
+     "why-partners-avoid-signing-an-agreement",
+     2
+    ],
+    [
+     "co-founders-through-an-investors-eyes",
+     1
+    ],
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "partnership-agreement",
+     1
+    ]
+   ]
+  },
+  "the-authors-own-partnerships": {
+   "cluster": "F",
+   "name": {
+    "ru": "Личный опыт автора",
+    "ua": "Особистий досвід автора",
+    "en": "The author's own partnerships"
+   },
+   "slug": {
+    "ru": "lichnyj-opyt-avtora",
+    "ua": "osobistij-dosvid-avtora",
+    "en": "the-authors-own-partnerships"
+   },
+   "count": 20,
+   "node": {
+    "x": 440.8,
+    "y": 10.9,
+    "r": 8.9
+   },
+   "related": [
+    [
+     "tools-and-services",
+     7
+    ],
+    [
+     "choosing-a-business-partner",
+     5
+    ],
+    [
+     "partnership-agreement",
+     4
+    ],
+    [
+     "a-partners-exit-from-the-business",
+     2
+    ],
+    [
+     "ideas-from-adjacent-fields",
+     2
+    ],
+    [
+     "managing-partner-relationships",
+     2
+    ],
+    [
+     "partner-misconduct-and-internal-control",
+     2
+    ],
+    [
+     "conflicts-between-partners",
+     1
+    ]
+   ]
+  },
+  "economy-and-statistics": {
+   "cluster": "G",
+   "name": {
+    "ru": "Экономика и статистика",
+    "ua": "Економіка і статистика",
+    "en": "Economy and statistics"
+   },
+   "slug": {
+    "ru": "ekonomika-i-statistika",
+    "ua": "ekonomika-i-statistika",
+    "en": "economy-and-statistics"
+   },
+   "count": 11,
+   "node": {
+    "x": 1107.1,
+    "y": 157.7,
+    "r": 7.6
+   },
+   "related": [
+    [
+     "equity-split-between-partners",
+     1
+    ]
+   ]
+  },
+  "linkedin-and-personal-brand": {
+   "cluster": "G",
+   "name": {
+    "ru": "LinkedIn и личный бренд",
+    "ua": "LinkedIn і особистий бренд",
+    "en": "LinkedIn and personal brand"
+   },
+   "slug": {
+    "ru": "linkedin-i-lichnyj-brend",
+    "ua": "linkedin-i-osobistij-brend",
+    "en": "linkedin-and-personal-brand"
+   },
+   "count": 11,
+   "node": {
+    "x": 1060.6,
+    "y": 326.7,
+    "r": 7.6
+   },
+   "related": []
+  },
+  "talks-and-interviews": {
+   "cluster": "G",
+   "name": {
+    "ru": "Выступления и эфиры",
+    "ua": "Виступи та ефіри",
+    "en": "Talks and interviews"
+   },
+   "slug": {
+    "ru": "vystupleniya-i-efiry",
+    "ua": "vistupi-ta-efiri",
+    "en": "talks-and-interviews"
+   },
+   "count": 10,
+   "node": {
+    "x": 1157.0,
+    "y": 281.9,
+    "r": 7.5
+   },
+   "related": [
+    [
+     "equity-split-between-partners",
+     1
+    ],
+    [
+     "forming-a-partner-team",
+     1
+    ]
+   ]
+  },
+  "personal-notes": {
+   "cluster": "G",
+   "name": {
+    "ru": "Личное и наблюдения",
+    "ua": "Особисте і спостереження",
+    "en": "Personal notes"
+   },
+   "slug": {
+    "ru": "lichnoe-i-nablyudeniya",
+    "ua": "osobiste-i-sposterezhennya",
+    "en": "personal-notes"
+   },
+   "count": 25,
+   "node": {
+    "x": 1025.2,
+    "y": 219.8,
+    "r": 9.5
+   },
+   "related": []
+  }
+ },
+ "edges": [
+  {
+   "a": "partnership-agreement",
+   "b": "why-partners-avoid-signing-an-agreement",
+   "w": 11
+  },
+  {
+   "a": "partnership-session",
+   "b": "tools-and-services",
+   "w": 8
+  },
+  {
+   "a": "partnership-agreement",
+   "b": "trust-between-partners",
+   "w": 7
+  },
+  {
+   "a": "the-authors-own-partnerships",
+   "b": "tools-and-services",
+   "w": 7
+  },
+  {
+   "a": "choosing-a-business-partner",
+   "b": "tools-and-services",
+   "w": 6
+  },
+  {
+   "a": "ideas-from-adjacent-fields",
+   "b": "partnership-agreement",
+   "w": 6
+  },
+  {
+   "a": "partner-misconduct-and-internal-control",
+   "b": "partnership-agreement",
+   "w": 6
+  },
+  {
+   "a": "choosing-a-business-partner",
+   "b": "forming-a-partner-team",
+   "w": 5
+  },
+  {
+   "a": "choosing-a-business-partner",
+   "b": "ideas-from-adjacent-fields",
+   "w": 5
+  },
+  {
+   "a": "choosing-a-business-partner",
+   "b": "the-authors-own-partnerships",
+   "w": 5
+  },
+  {
+   "a": "conflicts-between-partners",
+   "b": "ideas-from-adjacent-fields",
+   "w": 5
+  },
+  {
+   "a": "conscious-partnership",
+   "b": "partnership-agreement",
+   "w": 5
+  },
+  {
+   "a": "equity-split-between-partners",
+   "b": "tools-and-services",
+   "w": 5
+  },
+  {
+   "a": "forming-a-partner-team",
+   "b": "when-partners-see-different-realities",
+   "w": 5
+  },
+  {
+   "a": "partnership-agreement",
+   "b": "partnership-session",
+   "w": 5
+  },
+  {
+   "a": "a-partners-exit-from-the-business",
+   "b": "data-and-research",
+   "w": 4
+  },
+  {
+   "a": "conflicts-between-partners",
+   "b": "partnership-session",
+   "w": 4
+  },
+  {
+   "a": "data-and-research",
+   "b": "partnership-the-blind-spot-of-business",
+   "w": 4
+  },
+  {
+   "a": "disappointment-in-a-partnership",
+   "b": "partner-expectations",
+   "w": 4
+  },
+  {
+   "a": "equity-split-between-partners",
+   "b": "partnership-session",
+   "w": 4
+  },
+  {
+   "a": "ideas-from-adjacent-fields",
+   "b": "partnership-session",
+   "w": 4
+  },
+  {
+   "a": "partnership-agreement",
+   "b": "the-authors-own-partnerships",
+   "w": 4
+  },
+  {
+   "a": "a-partners-exit-from-the-business",
+   "b": "partnership-agreement",
+   "w": 3
+  },
+  {
+   "a": "a-partners-exit-from-the-business",
+   "b": "partnership-the-blind-spot-of-business",
+   "w": 3
+  },
+  {
+   "a": "a-partners-exit-from-the-business",
+   "b": "scenario-planning",
+   "w": 3
+  },
+  {
+   "a": "choosing-a-business-partner",
+   "b": "co-founders-through-an-investors-eyes",
+   "w": 3
+  },
+  {
+   "a": "choosing-a-business-partner",
+   "b": "why-people-go-into-partnership",
+   "w": 3
+  },
+  {
+   "a": "conflicts-between-partners",
+   "b": "scenario-planning",
+   "w": 3
+  },
+  {
+   "a": "conscious-partnership",
+   "b": "partnership-session",
+   "w": 3
+  },
+  {
+   "a": "conscious-partnership",
+   "b": "tools-and-services",
+   "w": 3
+  },
+  {
+   "a": "disappointment-in-a-partnership",
+   "b": "partnership-session",
+   "w": 3
+  },
+  {
+   "a": "forming-a-partner-team",
+   "b": "turning-a-manager-into-a-partner",
+   "w": 3
+  },
+  {
+   "a": "ideas-from-adjacent-fields",
+   "b": "trust-between-partners",
+   "w": 3
+  },
+  {
+   "a": "ideas-from-adjacent-fields",
+   "b": "when-partners-see-different-realities",
+   "w": 3
+  },
+  {
+   "a": "ideas-from-adjacent-fields",
+   "b": "why-partners-avoid-signing-an-agreement",
+   "w": 3
+  },
+  {
+   "a": "managing-partner-relationships",
+   "b": "partnership-agreement",
+   "w": 3
+  },
+  {
+   "a": "partner-expectations",
+   "b": "partnership-session",
+   "w": 3
+  },
+  {
+   "a": "partner-misconduct-and-internal-control",
+   "b": "trust-between-partners",
+   "w": 3
+  },
+  {
+   "a": "partnership-agreement",
+   "b": "tools-and-services",
+   "w": 3
+  },
+  {
+   "a": "partnership-session",
+   "b": "when-partners-see-different-realities",
+   "w": 3
+  }
+ ],
+ "graph": {
+  "w": 1240,
+  "h": 560
+ },
+ "treemap": {
+  "w": 1240,
+  "h": 560,
+  "head": 0
+ },
+ "posts": [
+  {
+   "i": "blog-pravo-samo-sebe-ne-vikonuye-tri-kroki-primusu-i-chomu-sud-praczyuye-yak-tin",
+   "d": "2026-11-02",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/law-does-not-enforce-itself-three-steps-of-enforcement-and-why-the-court-works-as-a-shadow/",
+    "ru": "https://cheremisin.partners/stati/pravo-samo-sebe-ne-vikonuye-tri-kroki-primusu-i-chomu-sud-praczyuye-yak-tin/",
+    "ua": "https://cheremisin.partners/ua/statti/pravo-samo-sebe-ne-vikonuye-tri-kroki-primusu-i-chomu-sud-praczyuye-yak-tin-2/"
+   },
+   "t": [
+    "partnership-agreement",
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7521136758562918400",
+   "d": "2026-10-28",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D0%BF%D1%96%D0%B4%D0%BF%D0%B8%D1%81-%D0%BF%D1%96%D0%B4-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%8E-%D1%83%D0%B3%D0%BE%D0%B4%D0%BE%D1%8E-%D0%B2%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BE%D0%B1%D1%96%D1%86%D1%8F%D0%BD%D0%BA%D0%B0-%D1%82%D0%BE%D1%87%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%B5%D0%BC%D1%96%D1%81%D1%96%D0%BD-r8l5e/",
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "blog-odin-advokat-ne-mozhet-zashhishhat-oboih-pochemu-yuridicheskoe-oformlenie-partnerstva-sostyazatelno-po-pravilam-samoj-professii",
+   "d": "2026-10-27",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/one-lawyer-cannot-defend-both-why-the-legal-formalization-of-a-partnership-is-adversarial-by-the-rules-of-the-profession-itself/",
+    "ru": "https://cheremisin.partners/stati/odin-advokat-ne-mozhet-zashhishhat-oboih-pochemu-yuridicheskoe-oformlenie-partnerstva-sostyazatelno-po-pravilam-samoj-professii/",
+    "ua": "https://cheremisin.partners/ua/statti/odin-advokat-ne-mozhe-zahishhati-oboh-chomu-yuridichne-oformlennya-partnerstva-zmagalne-za-pravilami-samoyi-profesiyi/"
+   },
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7520394786332270592",
+   "d": "2026-10-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7520394786332270592/",
+   "t": [
+    "money-between-partners",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "protocol-ua-domovlenist-dokument-i-dogovir-u-dilo",
+   "d": "2026-10-21",
+   "k": "article",
+   "p": "protocol",
+   "u": "https://protocol.ua/ua/domovlenist_dokument_i_dogovir_u_dilovomu_partnerstvi_de_pochinaetsya_robota_yurista/",
+   "t": [
+    "conscious-partnership",
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "blog-podpis-pod-partnerskim-soglasheniem-priznanie-obeshhanie-tochka-otscheta-i-lish-potom-pravo",
+   "d": "2026-10-21",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/a-signature-under-a-partners-agreement-acknowledgment-promise-reference-point-and-only-then-the-law/",
+    "ru": "https://cheremisin.partners/stati/podpis-pod-partnerskim-soglasheniem-priznanie-obeshhanie-tochka-otscheta-i-lish-potom-pravo/",
+    "ua": "https://cheremisin.partners/ua/statti/pidpis-pid-partnerskoyu-ugodoyu-viznannya-obiczyanka-tochka-vidliku-i-lishe-potim-pravo/"
+   },
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7517843125097267202",
+   "d": "2026-10-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7517843125097267202/",
+   "t": [
+    "scenario-planning",
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7516792129034235904",
+   "d": "2026-10-16",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D1%87%D0%BE%D1%82%D0%B8%D1%80%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D1%96-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE-%D0%BB%D0%B8%D1%88%D0%B5-%D0%BE%D0%B4%D0%BD%D1%83-%D1%87%D0%B5%D1%80%D0%B5%D0%BC%D1%96%D1%81%D1%96%D0%BD-levme/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "blog-chetyre-funkczii-partnerskoj-dogovorennosti-pravo-obsluzhivaet-lish-odnu",
+   "d": "2026-10-15",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/four-functions-of-a-partners-agreement-law-serves-only-one/",
+    "ru": "https://cheremisin.partners/stati/chetyre-funkczii-partnerskoj-dogovorennosti-pravo-obsluzhivaet-lish-odnu/",
+    "ua": "https://cheremisin.partners/ua/statti/chotiri-funkcziyi-partnerskoyi-domovlenosti-pravo-obslugovuye-lishe-odnu/"
+   },
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "scientia-4894",
+   "d": "2026-10-02",
+   "k": "paper",
+   "p": "scientia",
+   "u": "https://previous.scientia.report/index.php/archive/article/view/4894",
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7511363439181848576",
+   "d": "2026-10-01",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D1%82%D1%80%D0%B8-%D1%88%D0%B0%D1%80%D0%B8-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%BD%D0%B8%D0%B9-%D1%87%D0%B5%D1%80%D0%B5%D0%BC%D1%96%D1%81%D1%96%D0%BD-zcgue/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "blog-tri-sloya-partnerskogo-dokumenta-relyaczionnyj-upravlencheskij-yuridicheskij",
+   "d": "2026-09-29",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/three-layers-of-a-partnership-document-relational-governance-legal/",
+    "ru": "https://cheremisin.partners/stati/tri-sloya-partnerskogo-dokumenta-relyaczionnyj-upravlencheskij-yuridicheskij/",
+    "ua": "https://cheremisin.partners/ua/statti/tri-shari-partnerskogo-dokumenta-relyaczijnij-upravlinskij-yuridichnij/"
+   },
+   "t": [
+    "partnership-agreement",
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7508514566788653056",
+   "d": "2026-09-23",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D1%96%D1%81%D1%82%D1%8C-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82-%D1%96-%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80-%D1%82%D1%80%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D1%8F%D0%BA%D1%96-%D0%BC%D0%BE%D0%B2%D0%B0-%D1%81%D0%BA%D0%BB%D0%B5%D1%8E%D1%94-%D1%87%D0%B5%D1%80%D0%B5%D0%BC%D1%96%D1%81%D1%96%D0%BD-dqlpe/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "blog-dogovorennost-dokument-i-dogovor-tri-slova-kotorye-yazyk-skleivaet-v-odno",
+   "d": "2026-09-20",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/agreement-document-contract-three-words-that-language-glues-into-one/",
+    "ru": "https://cheremisin.partners/stati/dogovorennost-dokument-i-dogovor-tri-slova-kotorye-yazyk-skleivaet-v-odno/",
+    "ua": "https://cheremisin.partners/ua/statti/domovlenist-dokument-i-dogovir-tri-slova-yaki-mova-skleyue-v-odne/"
+   },
+   "t": [
+    "partnership-agreement",
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "spilnota-5728",
+   "d": "2026-09-19",
+   "k": "paper",
+   "p": "spilnota",
+   "u": "https://www.spilnota.net.ua/ua/article/id-5728/",
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7505641269503676416",
+   "d": "2026-09-15",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D1%96%D1%81%D1%82%D1%8C-%D1%82%D1%80%D0%B8-%D1%88%D0%B0%D1%80%D0%B8-%D1%87%D0%BE%D1%82%D0%B8%D1%80%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97-%D1%82%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B0-%D1%87%D0%B5%D1%80%D0%B5%D0%BC%D1%96%D1%81%D1%96%D0%BD-btjbc/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "blog-partnery-oformili-otnosheniya-pochemu-eto-ne-znachit-chto-oni-dogovorilis",
+   "d": "2026-09-15",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/the-partners-made-it-official-why-that-does-not-mean-they-agreed/",
+    "ru": "https://cheremisin.partners/stati/partnery-oformili-otnosheniya-pochemu-eto-ne-znachit-chto-oni-dogovorilis/",
+    "ua": "https://cheremisin.partners/ua/statti/partneri-oformili-stosunki-chomu-cze-ne-oznachaye-shho-voni-domovilisya/"
+   },
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement",
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "zenodo-22748606",
+   "d": "2026-09-14",
+   "k": "paper",
+   "p": "zenodo",
+   "u": "https://zenodo.org/records/22748606",
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7467102244379885568",
+   "d": "2026-06-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7467102244379885568/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "scenario-planning",
+    "the-authors-own-partnerships",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7466405207325777920",
+   "d": "2026-05-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7466405207325777920/",
+   "t": [
+    "partner-expectations",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7465350605159415808",
+   "d": "2026-05-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7465350605159415808/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7464565701614288897",
+   "d": "2026-05-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7464565701614288897/",
+   "t": [
+    "managing-partner-relationships",
+    "partner-expectations",
+    "partner-misconduct-and-internal-control",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7463113890923593728",
+   "d": "2026-05-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7463113890923593728/",
+   "t": [
+    "the-authors-own-partnerships",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7462026751662264320",
+   "d": "2026-05-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7462026751662264320/",
+   "t": [
+    "conflicts-between-partners",
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7461334756929073152",
+   "d": "2026-05-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7461334756929073152/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "tg-265",
+   "d": "2026-05-07",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/265",
+   "t": [
+    "tools-and-services",
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7454780901693026304",
+   "d": "2026-04-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7454780901693026304/",
+   "t": [
+    "managing-partner-relationships",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7453716252184936448",
+   "d": "2026-04-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7453716252184936448/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "tg-260",
+   "d": "2026-04-23",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/260",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "tg-259",
+   "d": "2026-04-23",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/259",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7451190897138036736",
+   "d": "2026-04-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7451190897138036736/",
+   "t": [
+    "choosing-a-business-partner",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7448644935530139648",
+   "d": "2026-04-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7448644935530139648/",
+   "t": [
+    "conflicts-between-partners",
+    "managing-partner-relationships",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7446089834881945600",
+   "d": "2026-04-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7446089834881945600/",
+   "t": [
+    "conscious-partnership",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7443597164334768128",
+   "d": "2026-03-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7443597164334768128/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7442098229564985345",
+   "d": "2026-03-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7442098229564985345/",
+   "t": [
+    "managing-partner-relationships",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7441792849878073344",
+   "d": "2026-03-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7441792849878073344/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7440662835661037568",
+   "d": "2026-03-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7440662835661037568/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "partnership-agreement",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7439267425537163264",
+   "d": "2026-03-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7439267425537163264/",
+   "t": [
+    "co-founders-through-an-investors-eyes",
+    "money-between-partners",
+    "partner-expectations"
+   ]
+  },
+  {
+   "i": "li-7438494633426423808",
+   "d": "2026-03-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7438494633426423808/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7437031210461257728",
+   "d": "2026-03-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7437031210461257728/",
+   "t": [
+    "partnership-agreement",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7436658452212391937",
+   "d": "2026-03-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7436658452212391937/",
+   "t": [
+    "choosing-a-business-partner",
+    "co-founders-through-an-investors-eyes",
+    "the-hero-partner-and-overwork"
+   ]
+  },
+  {
+   "i": "li-7434204725593690112",
+   "d": "2026-03-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7434204725593690112/",
+   "t": [
+    "partnership-agreement",
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7433433091429384192",
+   "d": "2026-02-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7433433091429384192/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7432811329884958720",
+   "d": "2026-02-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7432811329884958720/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7432387983703453696",
+   "d": "2026-02-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7432387983703453696/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7431669781130473472",
+   "d": "2026-02-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7431669781130473472/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7428032757257306114",
+   "d": "2026-02-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7428032757257306114/",
+   "t": [
+    "money-between-partners",
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7426573116233023488",
+   "d": "2026-02-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7426573116233023488/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7423290392487313408",
+   "d": "2026-01-31",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7423290392487313408/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7422968970770563072",
+   "d": "2026-01-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7422968970770563072/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7422608547793784832",
+   "d": "2026-01-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7422608547793784832/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7421820678439534592",
+   "d": "2026-01-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7421820678439534592/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7421501310321188864",
+   "d": "2026-01-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7421501310321188864/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7420054172638543873",
+   "d": "2026-01-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7420054172638543873/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7419687574685786112",
+   "d": "2026-01-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7419687574685786112/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7419279629439451136",
+   "d": "2026-01-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7419279629439451136/",
+   "t": [
+    "choosing-a-business-partner",
+    "the-authors-own-partnerships",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7418913422186205185",
+   "d": "2026-01-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7418913422186205185/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7418585872175898624",
+   "d": "2026-01-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7418585872175898624/",
+   "t": [
+    "partner-misconduct-and-internal-control",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7417851762994221057",
+   "d": "2026-01-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7417851762994221057/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7417461601147985920",
+   "d": "2026-01-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7417461601147985920/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partner-misconduct-and-internal-control",
+    "partnership-agreement",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7417180295403081728",
+   "d": "2026-01-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7417180295403081728/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7416744889301917696",
+   "d": "2026-01-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7416744889301917696/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7416454302107574272",
+   "d": "2026-01-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7416454302107574272/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7416381409516466176",
+   "d": "2026-01-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7416381409516466176/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7416035520709091328",
+   "d": "2026-01-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7416035520709091328/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7415678589020655616",
+   "d": "2026-01-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7415678589020655616/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7415294505433968640",
+   "d": "2026-01-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7415294505433968640/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7414553887283654656",
+   "d": "2026-01-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7414553887283654656/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7414207816640647168",
+   "d": "2026-01-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7414207816640647168/",
+   "t": [
+    "equity-split-between-partners",
+    "the-hero-partner-and-overwork"
+   ]
+  },
+  {
+   "i": "li-7413844806126292993",
+   "d": "2026-01-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7413844806126292993/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7411308210743160832",
+   "d": "2025-12-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7411308210743160832/",
+   "t": [
+    "the-hero-partner-and-overwork"
+   ]
+  },
+  {
+   "i": "li-7410322595893596160",
+   "d": "2025-12-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7410322595893596160/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7410231252554915840",
+   "d": "2025-12-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7410231252554915840/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7409132157622706176",
+   "d": "2025-12-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7409132157622706176/",
+   "t": [
+    "conscious-partnership",
+    "partnership-agreement",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7408770600313311232",
+   "d": "2025-12-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7408770600313311232/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7408070761325674496",
+   "d": "2025-12-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7408070761325674496/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7407688012735807488",
+   "d": "2025-12-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7407688012735807488/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7407332337455095809",
+   "d": "2025-12-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7407332337455095809/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7406951341778161664",
+   "d": "2025-12-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7406951341778161664/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7406594038713430016",
+   "d": "2025-12-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7406594038713430016/",
+   "t": [
+    "choosing-a-business-partner",
+    "the-authors-own-partnerships",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7406227203559985152",
+   "d": "2025-12-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7406227203559985152/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "the-hero-partner-and-overwork"
+   ]
+  },
+  {
+   "i": "li-7405524244685815808",
+   "d": "2025-12-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7405524244685815808/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7404081240879898624",
+   "d": "2025-12-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7404081240879898624/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7402256782011695105",
+   "d": "2025-12-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7402256782011695105/",
+   "t": [
+    "equity-split-between-partners",
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7401914940409753600",
+   "d": "2025-12-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7401914940409753600/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7401167242069016578",
+   "d": "2025-12-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7401167242069016578/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7399716017033187328",
+   "d": "2025-11-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7399716017033187328/",
+   "t": [
+    "a-partners-exit-from-the-business"
+   ]
+  },
+  {
+   "i": "li-7399399388684558337",
+   "d": "2025-11-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7399399388684558337/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7398629119841832960",
+   "d": "2025-11-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7398629119841832960/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7396453996615421952",
+   "d": "2025-11-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7396453996615421952/",
+   "t": [
+    "a-partners-exit-from-the-business"
+   ]
+  },
+  {
+   "i": "li-7396087871071395840",
+   "d": "2025-11-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7396087871071395840/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7395393421038911489",
+   "d": "2025-11-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7395393421038911489/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7394740471643697153",
+   "d": "2025-11-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7394740471643697153/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7394277958233915392",
+   "d": "2025-11-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7394277958233915392/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7392828929247637504",
+   "d": "2025-11-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7392828929247637504/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7392463526667296770",
+   "d": "2025-11-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7392463526667296770/",
+   "t": [
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7392101314282831873",
+   "d": "2025-11-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7392101314282831873/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7391530372188172288",
+   "d": "2025-11-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7391530372188172288/",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7391373416773308416",
+   "d": "2025-11-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7391373416773308416/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7391100005329215489",
+   "d": "2025-11-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7391100005329215489/",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7391012179082227712",
+   "d": "2025-11-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7391012179082227712/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7389563830894342144",
+   "d": "2025-10-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7389563830894342144/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7389195984808882176",
+   "d": "2025-10-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7389195984808882176/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7388833298250162176",
+   "d": "2025-10-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7388833298250162176/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7388471345325441024",
+   "d": "2025-10-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7388471345325441024/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7387744792782311425",
+   "d": "2025-10-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7387744792782311425/",
+   "t": [
+    "partner-expectations"
+   ]
+  },
+  {
+   "i": "li-7387007577689227264",
+   "d": "2025-10-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7387007577689227264/",
+   "t": [
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7386642520425959425",
+   "d": "2025-10-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7386642520425959425/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7386278013547671553",
+   "d": "2025-10-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7386278013547671553/",
+   "t": [
+    "a-partners-exit-from-the-business"
+   ]
+  },
+  {
+   "i": "li-7386004243201015809",
+   "d": "2025-10-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7386004243201015809/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7385927874832138241",
+   "d": "2025-10-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7385927874832138241/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7384460634890874880",
+   "d": "2025-10-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7384460634890874880/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "data-and-research",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7384181826313064448",
+   "d": "2025-10-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7384181826313064448/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "data-and-research",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7383753139709018112",
+   "d": "2025-10-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7383753139709018112/",
+   "t": [
+    "data-and-research",
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7383392014093926400",
+   "d": "2025-10-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7383392014093926400/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "data-and-research",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7382699263555973120",
+   "d": "2025-10-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7382699263555973120/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7382325985448325120",
+   "d": "2025-10-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7382325985448325120/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7381956477982273536",
+   "d": "2025-10-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7381956477982273536/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7381215587466743808",
+   "d": "2025-10-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7381215587466743808/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7380853200112918528",
+   "d": "2025-10-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7380853200112918528/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7380142983050002432",
+   "d": "2025-10-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7380142983050002432/",
+   "t": [
+    "conscious-partnership",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7379764372996259840",
+   "d": "2025-10-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7379764372996259840/",
+   "t": [
+    "money-between-partners",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7379403347948281856",
+   "d": "2025-10-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7379403347948281856/",
+   "t": [
+    "a-partners-exit-from-the-business"
+   ]
+  },
+  {
+   "i": "li-7379032320781152256",
+   "d": "2025-10-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7379032320781152256/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "tg-141",
+   "d": "2025-09-30",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/141",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7378679035377315840",
+   "d": "2025-09-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7378679035377315840/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "tg-139",
+   "d": "2025-09-29",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/139",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7378043277402353664",
+   "d": "2025-09-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7378043277402353664/",
+   "t": [
+    "forming-a-partner-team",
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7377228388652027904",
+   "d": "2025-09-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7377228388652027904/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7376864675340107776",
+   "d": "2025-09-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7376864675340107776/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7376495714702483456",
+   "d": "2025-09-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7376495714702483456/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7376142761214885888",
+   "d": "2025-09-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7376142761214885888/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7374693674531713025",
+   "d": "2025-09-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7374693674531713025/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7373966519824904192",
+   "d": "2025-09-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7373966519824904192/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7373605278178705408",
+   "d": "2025-09-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7373605278178705408/",
+   "t": [
+    "a-partners-exit-from-the-business"
+   ]
+  },
+  {
+   "i": "li-7373241991268024320",
+   "d": "2025-09-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7373241991268024320/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7371794695716413442",
+   "d": "2025-09-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7371794695716413442/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7371422291022413824",
+   "d": "2025-09-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7371422291022413824/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7371066106914103297",
+   "d": "2025-09-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7371066106914103297/",
+   "t": [
+    "equity-split-between-partners",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7370703102850719744",
+   "d": "2025-09-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7370703102850719744/",
+   "t": [
+    "conscious-partnership",
+    "ideas-from-adjacent-fields",
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7369619009803010048",
+   "d": "2025-09-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7369619009803010048/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7369258478638473216",
+   "d": "2025-09-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7369258478638473216/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7368893036904349696",
+   "d": "2025-09-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7368893036904349696/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7368533975268503555",
+   "d": "2025-09-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7368533975268503555/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7368166344657235971",
+   "d": "2025-09-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7368166344657235971/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7367082095631835136",
+   "d": "2025-08-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7367082095631835136/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7366356308846899200",
+   "d": "2025-08-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7366356308846899200/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7365995617644343298",
+   "d": "2025-08-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7365995617644343298/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7364921844191113218",
+   "d": "2025-08-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7364921844191113218/",
+   "t": [
+    "conscious-partnership",
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7364545997747769344",
+   "d": "2025-08-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7364545997747769344/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7363819588989468673",
+   "d": "2025-08-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7363819588989468673/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7363459480295981056",
+   "d": "2025-08-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7363459480295981056/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7363094672820391937",
+   "d": "2025-08-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7363094672820391937/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7361649103702765568",
+   "d": "2025-08-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7361649103702765568/",
+   "t": [
+    "choosing-a-business-partner",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7361283217271812096",
+   "d": "2025-08-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7361283217271812096/",
+   "t": [
+    "managing-partner-relationships",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7360921771904004096",
+   "d": "2025-08-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7360921771904004096/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "tg-118",
+   "d": "2025-08-11",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/118",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7360559069956403200",
+   "d": "2025-08-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7360559069956403200/",
+   "t": [
+    "choosing-a-business-partner",
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7356205671849037825",
+   "d": "2025-07-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7356205671849037825/",
+   "t": [
+    "the-authors-own-partnerships",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7355851613384675331",
+   "d": "2025-07-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7355851613384675331/",
+   "t": [
+    "partnership-agreement",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7355488919217463296",
+   "d": "2025-07-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7355488919217463296/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7354407067127791617",
+   "d": "2025-07-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7354407067127791617/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7353311739297382400",
+   "d": "2025-07-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7353311739297382400/",
+   "t": [
+    "equity-split-between-partners",
+    "managing-partner-relationships",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7352949432964866048",
+   "d": "2025-07-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7352949432964866048/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7351498404834738177",
+   "d": "2025-07-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7351498404834738177/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7351129646760898560",
+   "d": "2025-07-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7351129646760898560/",
+   "t": [
+    "partnership-agreement",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7350775510928367616",
+   "d": "2025-07-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7350775510928367616/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7350412120682827776",
+   "d": "2025-07-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7350412120682827776/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7349368747356217344",
+   "d": "2025-07-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7349368747356217344/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7348965461474078720",
+   "d": "2025-07-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7348965461474078720/",
+   "t": [
+    "choosing-a-business-partner",
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7348656544957227010",
+   "d": "2025-07-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7348656544957227010/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7348237232341671936",
+   "d": "2025-07-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7348237232341671936/",
+   "t": [
+    "choosing-a-business-partner",
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7347874655472357376",
+   "d": "2025-07-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7347874655472357376/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7346484013408104448",
+   "d": "2025-07-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7346484013408104448/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7346064757851848704",
+   "d": "2025-07-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7346064757851848704/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7345761158928261120",
+   "d": "2025-07-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7345761158928261120/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7345701075313684480",
+   "d": "2025-07-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7345701075313684480/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7345337670530650116",
+   "d": "2025-06-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7345337670530650116/",
+   "t": [
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7343889478861606913",
+   "d": "2025-06-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7343889478861606913/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7343525043659857923",
+   "d": "2025-06-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7343525043659857923/",
+   "t": [
+    "choosing-a-business-partner",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7343164308035358720",
+   "d": "2025-06-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7343164308035358720/",
+   "t": [
+    "partnership-the-blind-spot-of-business",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7342800662209921024",
+   "d": "2025-06-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7342800662209921024/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7341717839688388608",
+   "d": "2025-06-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7341717839688388608/",
+   "t": [
+    "tools-and-services",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7340627143917236225",
+   "d": "2025-06-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7340627143917236225/",
+   "t": [
+    "partnership-agreement",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7340258936379322368",
+   "d": "2025-06-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7340258936379322368/",
+   "t": [
+    "managing-partner-relationships",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7338818695613272064",
+   "d": "2025-06-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7338818695613272064/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7338102782211616769",
+   "d": "2025-06-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7338102782211616769/",
+   "t": [
+    "the-three-roles-of-a-co-owner"
+   ]
+  },
+  {
+   "i": "li-7337729036023992320",
+   "d": "2025-06-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7337729036023992320/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7336285669654171650",
+   "d": "2025-06-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7336285669654171650/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7335918019455377410",
+   "d": "2025-06-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7335918019455377410/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7335556033269891073",
+   "d": "2025-06-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7335556033269891073/",
+   "t": [
+    "conflicts-between-partners",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7335191693849169920",
+   "d": "2025-06-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7335191693849169920/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7333743167336296449",
+   "d": "2025-05-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7333743167336296449/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "the-three-roles-of-a-co-owner"
+   ]
+  },
+  {
+   "i": "li-7333391806392365057",
+   "d": "2025-05-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7333391806392365057/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7333020483350695936",
+   "d": "2025-05-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7333020483350695936/",
+   "t": [
+    "economy-and-statistics"
+   ]
+  },
+  {
+   "i": "li-7332656272481193984",
+   "d": "2025-05-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7332656272481193984/",
+   "t": [
+    "money-between-partners",
+    "the-three-roles-of-a-co-owner"
+   ]
+  },
+  {
+   "i": "li-7331934210401742848",
+   "d": "2025-05-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7331934210401742848/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7331570093320986626",
+   "d": "2025-05-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7331570093320986626/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7331206194457378816",
+   "d": "2025-05-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7331206194457378816/",
+   "t": [
+    "managing-partner-relationships",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7330120608963358722",
+   "d": "2025-05-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7330120608963358722/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7329396032751013888",
+   "d": "2025-05-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7329396032751013888/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7329041084603326465",
+   "d": "2025-05-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7329041084603326465/",
+   "t": [
+    "conflicts-between-partners",
+    "ideas-from-adjacent-fields",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7328668602390212608",
+   "d": "2025-05-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7328668602390212608/",
+   "t": [
+    "choosing-a-business-partner",
+    "forming-a-partner-team"
+   ]
+  },
+  {
+   "i": "li-7328298129831690242",
+   "d": "2025-05-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7328298129831690242/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7327581528610242562",
+   "d": "2025-05-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7327581528610242562/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7326865918423130112",
+   "d": "2025-05-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7326865918423130112/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7326493672336711680",
+   "d": "2025-05-09",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D0%B2%D1%96%D0%B4-%D1%96%D0%B4%D0%B5%D1%97-%D0%B4%D0%BE-%D1%81%D1%82%D1%96%D0%B9%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%B0-nikolay-cheremisin-47znf/",
+   "t": [
+    "forming-a-partner-team"
+   ]
+  },
+  {
+   "i": "li-7326134632393936899",
+   "d": "2025-05-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7326134632393936899/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7325768916410986496",
+   "d": "2025-05-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7325768916410986496/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "tg-73",
+   "d": "2025-05-06",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/73",
+   "t": [
+    "forming-a-partner-team"
+   ]
+  },
+  {
+   "i": "li-7325407669723262976",
+   "d": "2025-05-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7325407669723262976/",
+   "t": [
+    "the-three-roles-of-a-co-owner"
+   ]
+  },
+  {
+   "i": "li-7325043820595695617",
+   "d": "2025-05-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7325043820595695617/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7323602991519883264",
+   "d": "2025-05-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7323602991519883264/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7323224666586734593",
+   "d": "2025-04-30",
+   "k": "article",
+   "p": "linkedin_article",
+   "u": "https://www.linkedin.com/pulse/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%BD%D0%B5-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%83-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D1%85-%D0%B2%D1%96%D0%B4%D0%BD%D0%BE%D1%81%D0%B8%D0%BD%D0%B0%D1%85-nikolay-cheremisin-hfktf/",
+   "t": [
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7322875124930478081",
+   "d": "2025-04-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7322875124930478081/",
+   "t": [
+    "money-between-partners",
+    "the-three-roles-of-a-co-owner"
+   ]
+  },
+  {
+   "i": "li-7322509010333515778",
+   "d": "2025-04-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7322509010333515778/",
+   "t": [
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7321414848662151168",
+   "d": "2025-04-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7321414848662151168/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7321062987421704192",
+   "d": "2025-04-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7321062987421704192/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7320697667175481344",
+   "d": "2025-04-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7320697667175481344/",
+   "t": [
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7320335679165476865",
+   "d": "2025-04-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7320335679165476865/",
+   "t": [
+    "money-between-partners",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7319970038046777345",
+   "d": "2025-04-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7319970038046777345/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7319261288499429376",
+   "d": "2025-04-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7319261288499429376/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7318526252301058050",
+   "d": "2025-04-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7318526252301058050/",
+   "t": [
+    "the-three-roles-of-a-co-owner",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7318152297107066880",
+   "d": "2025-04-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7318152297107066880/",
+   "t": [
+    "conflicts-between-partners",
+    "ideas-from-adjacent-fields",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7317800300508028928",
+   "d": "2025-04-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7317800300508028928/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7317436441905528832",
+   "d": "2025-04-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7317436441905528832/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7316347178111660032",
+   "d": "2025-04-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7316347178111660032/",
+   "t": [
+    "conflicts-between-partners",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7315628397232111618",
+   "d": "2025-04-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7315628397232111618/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7315267721934323712",
+   "d": "2025-04-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7315267721934323712/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7314898714785939456",
+   "d": "2025-04-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7314898714785939456/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7314212683577237504",
+   "d": "2025-04-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7314212683577237504/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7313454596348162048",
+   "d": "2025-04-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7313454596348162048/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7312721906724483073",
+   "d": "2025-04-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7312721906724483073/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7312360974819205120",
+   "d": "2025-03-31",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7312360974819205120/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7310926523291643906",
+   "d": "2025-03-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7310926523291643906/",
+   "t": [
+    "conscious-partnership",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7310201934827741184",
+   "d": "2025-03-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7310201934827741184/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7309841893016690689",
+   "d": "2025-03-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7309841893016690689/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7308390557137989632",
+   "d": "2025-03-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7308390557137989632/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7307667975736553472",
+   "d": "2025-03-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7307667975736553472/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7307305801671450624",
+   "d": "2025-03-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7307305801671450624/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7306222327753539585",
+   "d": "2025-03-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7306222327753539585/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7305856941640052740",
+   "d": "2025-03-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7305856941640052740/",
+   "t": [
+    "co-founders-through-an-investors-eyes",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7305129515347767296",
+   "d": "2025-03-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7305129515347767296/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7304767906775494656",
+   "d": "2025-03-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7304767906775494656/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7304097020468715520",
+   "d": "2025-03-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7304097020468715520/",
+   "t": [
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7302592526551519234",
+   "d": "2025-03-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7302592526551519234/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7302229390837321728",
+   "d": "2025-03-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7302229390837321728/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7301145103698477056",
+   "d": "2025-02-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7301145103698477056/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7300780566612750337",
+   "d": "2025-02-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7300780566612750337/",
+   "t": [
+    "conscious-partnership",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7300416853405786112",
+   "d": "2025-02-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7300416853405786112/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7300057402249248768",
+   "d": "2025-02-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7300057402249248768/",
+   "t": [
+    "partnership-session",
+    "tools-and-services",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7299692683269177344",
+   "d": "2025-02-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7299692683269177344/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7298609275453493249",
+   "d": "2025-02-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7298609275453493249/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7297877524728995840",
+   "d": "2025-02-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7297877524728995840/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7297517803819929600",
+   "d": "2025-02-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7297517803819929600/",
+   "t": [
+    "partner-misconduct-and-internal-control",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7297155587212021760",
+   "d": "2025-02-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7297155587212021760/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7296072229912502273",
+   "d": "2025-02-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7296072229912502273/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7295708510334451712",
+   "d": "2025-02-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7295708510334451712/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7295351773664309249",
+   "d": "2025-02-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7295351773664309249/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7294981519842897920",
+   "d": "2025-02-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7294981519842897920/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7294619343819083777",
+   "d": "2025-02-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7294619343819083777/",
+   "t": [
+    "co-founders-through-an-investors-eyes",
+    "forming-a-partner-team"
+   ]
+  },
+  {
+   "i": "li-7293995637811867648",
+   "d": "2025-02-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7293995637811867648/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7293530729370587136",
+   "d": "2025-02-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7293530729370587136/",
+   "t": [
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "tg-20",
+   "d": "2025-02-06",
+   "k": "post",
+   "p": "telegram",
+   "u": "https://t.me/cheremisin_partnership_lab/20",
+   "t": [
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7293267090898092032",
+   "d": "2025-02-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7293267090898092032/",
+   "t": [
+    "talks-and-interviews",
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7293169124275294208",
+   "d": "2025-02-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7293169124275294208/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7292812067944734721",
+   "d": "2025-02-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7292812067944734721/",
+   "t": [
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7292436742408736769",
+   "d": "2025-02-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7292436742408736769/",
+   "t": [
+    "partnership-agreement",
+    "partnership-session",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7292105224645705728",
+   "d": "2025-02-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7292105224645705728/",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7292082133945184256",
+   "d": "2025-02-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7292082133945184256/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7290998848221540352",
+   "d": "2025-01-31",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7290998848221540352/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7290631786412318722",
+   "d": "2025-01-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7290631786412318722/",
+   "t": [
+    "partner-misconduct-and-internal-control",
+    "partnership-agreement",
+    "trust-between-partners",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7290268439615569920",
+   "d": "2025-01-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7290268439615569920/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "equity-split-between-partners",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7289911564902567936",
+   "d": "2025-01-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7289911564902567936/",
+   "t": [
+    "the-authors-own-partnerships",
+    "tools-and-services",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7289544526967312384",
+   "d": "2025-01-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7289544526967312384/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7287372040804651008",
+   "d": "2025-01-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7287372040804651008/",
+   "t": [
+    "choosing-a-business-partner",
+    "the-authors-own-partnerships",
+    "tools-and-services",
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7287012087904555008",
+   "d": "2025-01-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7287012087904555008/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7285558055348396033",
+   "d": "2025-01-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7285558055348396033/",
+   "t": [
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7285196912683569152",
+   "d": "2025-01-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7285196912683569152/",
+   "t": [
+    "a-partners-exit-from-the-business"
+   ]
+  },
+  {
+   "i": "li-7284837767564464128",
+   "d": "2025-01-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7284837767564464128/",
+   "t": [
+    "partner-misconduct-and-internal-control",
+    "partnership-agreement",
+    "trust-between-partners",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7284473549635936256",
+   "d": "2025-01-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7284473549635936256/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7284133399919792128",
+   "d": "2025-01-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7284133399919792128/",
+   "t": [
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7283419821847797761",
+   "d": "2025-01-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7283419821847797761/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7283023757282078721",
+   "d": "2025-01-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7283023757282078721/",
+   "t": [
+    "choosing-a-business-partner",
+    "ideas-from-adjacent-fields",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7282660494434328576",
+   "d": "2025-01-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7282660494434328576/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7282302702041153536",
+   "d": "2025-01-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7282302702041153536/",
+   "t": [
+    "partner-misconduct-and-internal-control",
+    "partnership-agreement",
+    "the-three-roles-of-a-co-owner"
+   ]
+  },
+  {
+   "i": "li-7281938337559433216",
+   "d": "2025-01-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7281938337559433216/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7280275102238146560",
+   "d": "2025-01-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7280275102238146560/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7279401353280409600",
+   "d": "2024-12-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7279401353280409600/",
+   "t": [
+    "linkedin-and-personal-brand"
+   ]
+  },
+  {
+   "i": "li-7278308473593827328",
+   "d": "2024-12-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7278308473593827328/",
+   "t": [
+    "choosing-a-business-partner",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7277954877140455424",
+   "d": "2024-12-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7277954877140455424/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7277224390604259328",
+   "d": "2024-12-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7277224390604259328/",
+   "t": [
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7275779833593253888",
+   "d": "2024-12-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7275779833593253888/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7275414162451689474",
+   "d": "2024-12-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7275414162451689474/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "co-founders-through-an-investors-eyes",
+    "data-and-research",
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7275052304221822976",
+   "d": "2024-12-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7275052304221822976/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7274687557362212864",
+   "d": "2024-12-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7274687557362212864/",
+   "t": [
+    "equity-split-between-partners",
+    "money-between-partners"
+   ]
+  },
+  {
+   "i": "li-7274326789164781569",
+   "d": "2024-12-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7274326789164781569/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7273235223197155328",
+   "d": "2024-12-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7273235223197155328/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7272873798205349888",
+   "d": "2024-12-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7272873798205349888/",
+   "t": [
+    "forming-a-partner-team",
+    "partnership-session",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7272512374010499072",
+   "d": "2024-12-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7272512374010499072/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "ideas-from-adjacent-fields",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7272152660735102977",
+   "d": "2024-12-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7272152660735102977/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7271787238043045888",
+   "d": "2024-12-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7271787238043045888/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7270701023147565056",
+   "d": "2024-12-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7270701023147565056/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7270338678449745921",
+   "d": "2024-12-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7270338678449745921/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7269976369688686594",
+   "d": "2024-12-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7269976369688686594/",
+   "t": [
+    "choosing-a-business-partner",
+    "forming-a-partner-team",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7269613893281271811",
+   "d": "2024-12-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7269613893281271811/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partnership-session",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7269251240994197504",
+   "d": "2024-12-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7269251240994197504/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7268164407409459200",
+   "d": "2024-11-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7268164407409459200/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "partnership-agreement",
+    "the-authors-own-partnerships"
+   ]
+  },
+  {
+   "i": "li-7267802067803541504",
+   "d": "2024-11-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7267802067803541504/",
+   "t": [
+    "co-founders-through-an-investors-eyes"
+   ]
+  },
+  {
+   "i": "li-7267439532550062080",
+   "d": "2024-11-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7267439532550062080/",
+   "t": [
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7267077161021304833",
+   "d": "2024-11-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7267077161021304833/",
+   "t": [
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7266726711105363968",
+   "d": "2024-11-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7266726711105363968/",
+   "t": [
+    "conflicts-between-partners",
+    "partner-misconduct-and-internal-control"
+   ]
+  },
+  {
+   "i": "li-7265627643763425280",
+   "d": "2024-11-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7265627643763425280/",
+   "t": [
+    "forming-a-partner-team",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7265265230232907779",
+   "d": "2024-11-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7265265230232907779/",
+   "t": [
+    "equity-split-between-partners",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7264902894150164482",
+   "d": "2024-11-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7264902894150164482/",
+   "t": [
+    "choosing-a-business-partner",
+    "forming-a-partner-team"
+   ]
+  },
+  {
+   "i": "li-7264540489490554882",
+   "d": "2024-11-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7264540489490554882/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7264178974954508288",
+   "d": "2024-11-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7264178974954508288/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "partner-expectations",
+    "partnership-session",
+    "partnership-the-blind-spot-of-business",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7263091014570045440",
+   "d": "2024-11-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7263091014570045440/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7262728643213250561",
+   "d": "2024-11-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7262728643213250561/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7262366232782274561",
+   "d": "2024-11-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7262366232782274561/",
+   "t": [
+    "conflicts-between-partners",
+    "conscious-partnership",
+    "equity-split-between-partners",
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7262003852059557888",
+   "d": "2024-11-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7262003852059557888/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "tools-and-services",
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7261641474096685057",
+   "d": "2024-11-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7261641474096685057/",
+   "t": [
+    "conscious-partnership",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7260554302320955392",
+   "d": "2024-11-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7260554302320955392/",
+   "t": [
+    "choosing-a-business-partner",
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7260191931949887489",
+   "d": "2024-11-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7260191931949887489/",
+   "t": [
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7259830808029356032",
+   "d": "2024-11-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7259830808029356032/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7259467130583072769",
+   "d": "2024-11-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7259467130583072769/",
+   "t": [
+    "equity-split-between-partners",
+    "tools-and-services",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7259104914100895744",
+   "d": "2024-11-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7259104914100895744/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7258017600759054337",
+   "d": "2024-11-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7258017600759054337/",
+   "t": [
+    "forming-a-partner-team"
+   ]
+  },
+  {
+   "i": "li-7257655188327460865",
+   "d": "2024-10-31",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7257655188327460865/",
+   "t": [
+    "equity-split-between-partners",
+    "partnership-agreement",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7257296054788706304",
+   "d": "2024-10-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7257296054788706304/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7256930426462584833",
+   "d": "2024-10-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7256930426462584833/",
+   "t": [
+    "choosing-a-business-partner",
+    "co-founders-through-an-investors-eyes",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7256568030527115265",
+   "d": "2024-10-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7256568030527115265/",
+   "t": [
+    "choosing-a-business-partner",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7255096125483798529",
+   "d": "2024-10-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7255096125483798529/",
+   "t": [
+    "conflicts-between-partners",
+    "conscious-partnership",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7254733776591712256",
+   "d": "2024-10-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7254733776591712256/",
+   "t": [
+    "conscious-partnership",
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7254372339449024513",
+   "d": "2024-10-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7254372339449024513/",
+   "t": [
+    "data-and-research"
+   ]
+  },
+  {
+   "i": "li-7254009258545926146",
+   "d": "2024-10-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7254009258545926146/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7252974358199975936",
+   "d": "2024-10-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7252974358199975936/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7252921792145620992",
+   "d": "2024-10-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7252921792145620992/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7252659698120744960",
+   "d": "2024-10-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7252659698120744960/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7252559385531404288",
+   "d": "2024-10-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7252559385531404288/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7252197025029472258",
+   "d": "2024-10-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7252197025029472258/",
+   "t": [
+    "equity-split-between-partners",
+    "forming-a-partner-team",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7251834616876077056",
+   "d": "2024-10-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7251834616876077056/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7251472242792878080",
+   "d": "2024-10-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7251472242792878080/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "conflicts-between-partners",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7250422586029854720",
+   "d": "2024-10-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7250422586029854720/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7250385116131188736",
+   "d": "2024-10-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7250385116131188736/",
+   "t": [
+    "disappointment-in-a-partnership"
+   ]
+  },
+  {
+   "i": "li-7250083109654736896",
+   "d": "2024-10-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7250083109654736896/",
+   "t": [
+    "conflicts-between-partners",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7250022686842642433",
+   "d": "2024-10-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7250022686842642433/",
+   "t": [
+    "partner-expectations"
+   ]
+  },
+  {
+   "i": "li-7249670828760436737",
+   "d": "2024-10-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7249670828760436737/",
+   "t": [
+    "disappointment-in-a-partnership"
+   ]
+  },
+  {
+   "i": "li-7249309462677622785",
+   "d": "2024-10-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7249309462677622785/",
+   "t": [
+    "equity-split-between-partners",
+    "partnership-session",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7248995944438939648",
+   "d": "2024-10-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7248995944438939648/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7248935507554930688",
+   "d": "2024-10-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7248935507554930688/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "partner-expectations",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7247848331979149312",
+   "d": "2024-10-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7247848331979149312/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7247652067945660416",
+   "d": "2024-10-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7247652067945660416/",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7247485946596646912",
+   "d": "2024-10-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7247485946596646912/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7247123509280165891",
+   "d": "2024-10-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7247123509280165891/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "equity-split-between-partners"
+   ]
+  },
+  {
+   "i": "li-7246761180248031233",
+   "d": "2024-10-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7246761180248031233/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7246398798401294338",
+   "d": "2024-09-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7246398798401294338/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7245311644732448769",
+   "d": "2024-09-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7245311644732448769/",
+   "t": [
+    "when-partners-see-different-realities",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7244586871639429120",
+   "d": "2024-09-25",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7244586871639429120/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7244228276544524288",
+   "d": "2024-09-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7244228276544524288/",
+   "t": [
+    "partnership-agreement",
+    "the-hero-partner-and-overwork"
+   ]
+  },
+  {
+   "i": "li-7243862109527175169",
+   "d": "2024-09-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7243862109527175169/",
+   "t": [
+    "choosing-a-business-partner",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7242790018681888768",
+   "d": "2024-09-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7242790018681888768/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7242412508853002241",
+   "d": "2024-09-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7242412508853002241/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7242104468098453504",
+   "d": "2024-09-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7242104468098453504/",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7242050149865148416",
+   "d": "2024-09-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7242050149865148416/",
+   "t": [
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7241687769243103233",
+   "d": "2024-09-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7241687769243103233/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7241340779128901634",
+   "d": "2024-09-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7241340779128901634/",
+   "t": [
+    "forming-a-partner-team",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7240253294244212737",
+   "d": "2024-09-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7240253294244212737/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7239875814874337280",
+   "d": "2024-09-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7239875814874337280/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7239528074726301696",
+   "d": "2024-09-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7239528074726301696/",
+   "t": [
+    "choosing-a-business-partner",
+    "ideas-from-adjacent-fields",
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7239194339808051201",
+   "d": "2024-09-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7239194339808051201/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7239155085744738304",
+   "d": "2024-09-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7239155085744738304/",
+   "t": [
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7238900994430930946",
+   "d": "2024-09-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7238900994430930946/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7238793460680413184",
+   "d": "2024-09-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7238793460680413184/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7237783863396073475",
+   "d": "2024-09-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7237783863396073475/",
+   "t": [
+    "conscious-partnership",
+    "partnership-the-blind-spot-of-business"
+   ]
+  },
+  {
+   "i": "li-7237701473973768192",
+   "d": "2024-09-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7237701473973768192/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7237360485291970560",
+   "d": "2024-09-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7237360485291970560/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7236985689165189123",
+   "d": "2024-09-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7236985689165189123/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7236614319973515265",
+   "d": "2024-09-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7236614319973515265/",
+   "t": [
+    "conflicts-between-partners",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7236251963280003072",
+   "d": "2024-09-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7236251963280003072/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7235179875030958082",
+   "d": "2024-08-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7235179875030958082/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7234815432396832769",
+   "d": "2024-08-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7234815432396832769/",
+   "t": [
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7234454836992180225",
+   "d": "2024-08-28",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7234454836992180225/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7234092552423907328",
+   "d": "2024-08-27",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7234092552423907328/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7233729235834568704",
+   "d": "2024-08-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7233729235834568704/",
+   "t": [
+    "managing-partner-relationships"
+   ]
+  },
+  {
+   "i": "li-7232643165848051712",
+   "d": "2024-08-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7232643165848051712/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7232306365275246593",
+   "d": "2024-08-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7232306365275246593/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7231923776114900992",
+   "d": "2024-08-21",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7231923776114900992/",
+   "t": [
+    "partnership-session",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7231540894573723649",
+   "d": "2024-08-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7231540894573723649/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7231204994367016960",
+   "d": "2024-08-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7231204994367016960/",
+   "t": [
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7231189712781115392",
+   "d": "2024-08-19",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7231189712781115392/",
+   "t": [
+    "conscious-partnership"
+   ]
+  },
+  {
+   "i": "li-7230106441083219968",
+   "d": "2024-08-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7230106441083219968/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7229375062733164544",
+   "d": "2024-08-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7229375062733164544/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7229018233503203328",
+   "d": "2024-08-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7229018233503203328/",
+   "t": [
+    "partnership-session",
+    "tools-and-services"
+   ]
+  },
+  {
+   "i": "li-7228641983009837057",
+   "d": "2024-08-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7228641983009837057/",
+   "t": [
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "li-7227554615666343937",
+   "d": "2024-08-09",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7227554615666343937/",
+   "t": [
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7226829815142653952",
+   "d": "2024-08-07",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7226829815142653952/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partnership-session",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "blog-sczenarnoe-planirovanie-v-partnerskih-otnosheniyah",
+   "d": "2024-08-07",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/scenario-planning-in-partnerships/",
+    "ru": "https://cheremisin.partners/stati/sczenarnoe-planirovanie-v-partnerskih-otnosheniyah/",
+    "ua": "https://cheremisin.partners/ua/statti/sczenarne-planuvannya-v-partnerskih-vidnosinah/"
+   },
+   "t": [
+    "ideas-from-adjacent-fields",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7226482530474987520",
+   "d": "2024-08-06",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7226482530474987520/",
+   "t": [
+    "partnership-session",
+    "trust-between-partners",
+    "why-people-go-into-partnership"
+   ]
+  },
+  {
+   "i": "li-7226112349051490305",
+   "d": "2024-08-05",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7226112349051490305/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7225071572846317571",
+   "d": "2024-08-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7225071572846317571/",
+   "t": [
+    "conflicts-between-partners"
+   ]
+  },
+  {
+   "i": "li-7224670664304046080",
+   "d": "2024-08-01",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7224670664304046080/",
+   "t": [
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7223950908680769537",
+   "d": "2024-07-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7223950908680769537/",
+   "t": [
+    "talks-and-interviews"
+   ]
+  },
+  {
+   "i": "li-7223945878430969857",
+   "d": "2024-07-30",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7223945878430969857/",
+   "t": [
+    "conflicts-between-partners",
+    "ideas-from-adjacent-fields",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7223593998316105728",
+   "d": "2024-07-29",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7223593998316105728/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7222496232659681282",
+   "d": "2024-07-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7222496232659681282/",
+   "t": [
+    "partnership-agreement",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7221771580995956737",
+   "d": "2024-07-24",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7221771580995956737/",
+   "t": [
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7221409115456077829",
+   "d": "2024-07-23",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7221409115456077829/",
+   "t": [
+    "tools-and-services",
+    "turning-a-manager-into-a-partner"
+   ]
+  },
+  {
+   "i": "li-7221045929133416449",
+   "d": "2024-07-22",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7221045929133416449/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7219606014038261761",
+   "d": "2024-07-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7219606014038261761/",
+   "t": [
+    "forming-a-partner-team",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7219234835603591168",
+   "d": "2024-07-17",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7219234835603591168/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "li-7218887639846780929",
+   "d": "2024-07-16",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7218887639846780929/",
+   "t": [
+    "partnership-agreement",
+    "partnership-session",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "blog-ot-idei-k-ustojchivomu-partnerstvu",
+   "d": "2024-07-16",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/from-idea-to-sustainable-partnership/",
+    "ru": "https://cheremisin.partners/stati/ot-idei-k-ustojchivomu-partnerstvu/",
+    "ua": "https://cheremisin.partners/ua/statti/vid-idei-do-stiykogo-partnerstva/"
+   },
+   "t": [
+    "choosing-a-business-partner",
+    "forming-a-partner-team",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7218520749421056000",
+   "d": "2024-07-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7218520749421056000/",
+   "t": [
+    "choosing-a-business-partner",
+    "forming-a-partner-team",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7217443189958275072",
+   "d": "2024-07-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7217443189958275072/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partnership-agreement"
+   ]
+  },
+  {
+   "i": "li-7217074780624060417",
+   "d": "2024-07-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7217074780624060417/",
+   "t": [
+    "turning-a-manager-into-a-partner",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7216712471594582016",
+   "d": "2024-07-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7216712471594582016/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "blog-raznoglasiya-s-partnyorom-sinhronizacziya-kartin-mira",
+   "d": "2024-07-10",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/disagreements-with-a-partner-synchronisation-of-worlds-maps/",
+    "ru": "https://cheremisin.partners/stati/raznoglasiya-s-partnyorom-sinhronizacziya-kartin-mira/",
+    "ua": "https://cheremisin.partners/ua/statti/rozbizhnosti-z-partnerom-sinhronizacziya-kartin-svitu/"
+   },
+   "t": [
+    "forming-a-partner-team",
+    "partnership-agreement",
+    "partnership-session",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7216075246771007488",
+   "d": "2024-07-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7216075246771007488/",
+   "t": [
+    "personal-notes"
+   ]
+  },
+  {
+   "i": "li-7215988450896838659",
+   "d": "2024-07-08",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7215988450896838659/",
+   "t": [
+    "a-partners-exit-from-the-business",
+    "conflicts-between-partners",
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7214529287087939586",
+   "d": "2024-07-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7214529287087939586/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "equity-split-between-partners",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7214171988993454081",
+   "d": "2024-07-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7214171988993454081/",
+   "t": [
+    "choosing-a-business-partner",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "li-7213797637811015680",
+   "d": "2024-07-02",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7213797637811015680/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "blog-kortizol-i-partnerstvo",
+   "d": "2024-06-30",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/cortisol-and-partnership/",
+    "ru": "https://cheremisin.partners/stati/kortizol-i-partnerstvo/",
+    "ua": "https://cheremisin.partners/ua/statti/kortyzol-i-partnerstvo/"
+   },
+   "t": [
+    "ideas-from-adjacent-fields",
+    "why-partners-avoid-signing-an-agreement"
+   ]
+  },
+  {
+   "i": "li-7211642709218893827",
+   "d": "2024-06-26",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7211642709218893827/",
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "blog-upravlenie-razocharovaniem-v-partnerstve",
+   "d": "2024-06-25",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/managing-disappointment-in-partnership/",
+    "ru": "https://cheremisin.partners/stati/upravlenie-razocharovaniem-v-partnerstve/",
+    "ua": "https://cheremisin.partners/ua/statti/upravlinnya-rozcharuvannyam-u-partnerstvi/"
+   },
+   "t": [
+    "disappointment-in-a-partnership"
+   ]
+  },
+  {
+   "i": "blog-razlichiya-czelej-v-partnerstve",
+   "d": "2024-06-25",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/difference-of-goals-in-partnerships/",
+    "ru": "https://cheremisin.partners/stati/razlichiya-czelej-v-partnerstve/",
+    "ua": "https://cheremisin.partners/ua/statti/rizniczya-czilej-v-partnerstvi/"
+   },
+   "t": [
+    "conscious-partnership",
+    "partnership-session"
+   ]
+  },
+  {
+   "i": "blog-partner-a-ili-partner-v",
+   "d": "2024-06-25",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/partner-a-or-partner-b/",
+    "ru": "https://cheremisin.partners/stati/partner-a-ili-partner-v/",
+    "ua": "https://cheremisin.partners/ua/statti/partner-a-abo-partner-b/"
+   },
+   "t": [
+    "choosing-a-business-partner"
+   ]
+  },
+  {
+   "i": "blog-konczy-v-vodu-ili-izmenenie-partnerskih-dogovorennostej-cherez-krizis",
+   "d": "2024-06-25",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/smoothing-over-or-changing-partnership-agreements-through-crisis/",
+    "ru": "https://cheremisin.partners/stati/konczy-v-vodu-ili-izmenenie-partnerskih-dogovorennostej-cherez-krizis/",
+    "ua": "https://cheremisin.partners/ua/statti/zmini-u-partnerskih-domovlenostyah-cherez-krizu/"
+   },
+   "t": [
+    "scenario-planning"
+   ]
+  },
+  {
+   "i": "li-7209485166027694083",
+   "d": "2024-06-20",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7209485166027694083/",
+   "t": [
+    "forming-a-partner-team",
+    "when-partners-see-different-realities"
+   ]
+  },
+  {
+   "i": "li-7208726970065428481",
+   "d": "2024-06-18",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7208726970065428481/",
+   "t": [
+    "partnership-agreement",
+    "scenario-planning",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7207639488162938880",
+   "d": "2024-06-15",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7207639488162938880/",
+   "t": [
+    "disappointment-in-a-partnership"
+   ]
+  },
+  {
+   "i": "li-7207300810928533505",
+   "d": "2024-06-14",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7207300810928533505/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7207022073343311872",
+   "d": "2024-06-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7207022073343311872/",
+   "t": [
+    "partner-expectations"
+   ]
+  },
+  {
+   "i": "li-7206932948007153664",
+   "d": "2024-06-13",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7206932948007153664/",
+   "t": [
+    "disappointment-in-a-partnership"
+   ]
+  },
+  {
+   "i": "li-7206594349315371008",
+   "d": "2024-06-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7206594349315371008/",
+   "t": [
+    "disappointment-in-a-partnership"
+   ]
+  },
+  {
+   "i": "li-7206581156241121280",
+   "d": "2024-06-12",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7206581156241121280/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "partner-expectations"
+   ]
+  },
+  {
+   "i": "li-7206242726516862978",
+   "d": "2024-06-11",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7206242726516862978/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "partner-expectations"
+   ]
+  },
+  {
+   "i": "li-7205919078715166720",
+   "d": "2024-06-10",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7205919078715166720/",
+   "t": [
+    "disappointment-in-a-partnership",
+    "ideas-from-adjacent-fields"
+   ]
+  },
+  {
+   "i": "blog-doverie-fundament-ekonomicheskogo-uspeha",
+   "d": "2024-06-07",
+   "k": "article",
+   "p": "blog",
+   "u": {
+    "en": "https://cheremisin.partners/en/blog/trust-the-foundation-of-economic-success/",
+    "ru": "https://cheremisin.partners/stati/doverie-fundament-ekonomicheskogo-uspeha/",
+    "ua": "https://cheremisin.partners/ua/statti/dovira-fundament-ekonomichnogo-uspihu/"
+   },
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partner-misconduct-and-internal-control",
+    "partnership-agreement",
+    "partnership-session",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7203555224341352448",
+   "d": "2024-06-04",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7203555224341352448/",
+   "t": [
+    "ideas-from-adjacent-fields",
+    "partnership-agreement",
+    "trust-between-partners"
+   ]
+  },
+  {
+   "i": "li-7203511497124147200",
+   "d": "2024-06-03",
+   "k": "post",
+   "p": "linkedin",
+   "u": "https://www.linkedin.com/feed/update/urn:li:activity:7203511497124147200/",
+   "t": [
+    "the-authors-own-partnerships"
+   ]
+  }
+ ]
+}

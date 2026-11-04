@@ -1,0 +1,477 @@
+{
+ "_comment": "S15, 30.10.2026: ручная разметка Claude для LinkedIn-постов с текстом, у которых нет конспекта в вики. Ключ — activity id. Темы — id из taxonomy.toml; темы кластера G («Прочее», предложение на утверждение владельцу): economy-and-statistics, linkedin-and-personal-brand, talks-and-interviews, personal-notes. duplicate_of — повтор того же поста (двойная публикация), в каталог не идёт. Дополнение: 10 постов, у которых есть конспект в вики, но ни одна тема вики на них не ссылается (рубрика Weekend Movie и др.) — размечены вручную.",
+ "6591038402806853632": [
+  "personal-notes"
+ ],
+ "6594847254719287296": [
+  "personal-notes"
+ ],
+ "7049776651471093760": [
+  "personal-notes"
+ ],
+ "7051635115805876224": [
+  "personal-notes"
+ ],
+ "7142972673160101889": [
+  "personal-notes"
+ ],
+ "7203511497124147200": [
+  "the-authors-own-partnerships"
+ ],
+ "7216075246771007488": [
+  "personal-notes"
+ ],
+ "7221045929133416449": [
+  "personal-notes"
+ ],
+ "7223950908680769537": [
+  "talks-and-interviews"
+ ],
+ "7226112349051490305": [
+  "personal-notes"
+ ],
+ "7227192246628958208": [
+  "scenario-planning"
+ ],
+ "7231204994367016960": [
+  "tools-and-services"
+ ],
+ "7233729235834568704": [
+  "managing-partner-relationships"
+ ],
+ "7239194339808051201": [
+  "personal-notes"
+ ],
+ "7242104468098453504": [
+  "talks-and-interviews"
+ ],
+ "7242412508853002241": [
+  "personal-notes"
+ ],
+ "7246761180248031233": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7247123509280165891": [
+  "disappointment-in-a-partnership",
+  "equity-split-between-partners"
+ ],
+ "7247485946596646912": [
+  "partnership-agreement"
+ ],
+ "7247652067945660416": [
+  "talks-and-interviews"
+ ],
+ "7248995944438939648": [
+  "tools-and-services"
+ ],
+ "7252659698120744960": [
+  "personal-notes"
+ ],
+ "7254009258545926146": [
+  "personal-notes"
+ ],
+ "7254372339449024513": [
+  "data-and-research"
+ ],
+ "7259104914100895744": [
+  "data-and-research"
+ ],
+ "7263091014570045440": [
+  "personal-notes"
+ ],
+ "7270338678449745921": [
+  "tools-and-services"
+ ],
+ "7271787238043045888": [
+  "data-and-research"
+ ],
+ "7274326789164781569": [
+  "data-and-research"
+ ],
+ "7277224390604259328": [
+  "turning-a-manager-into-a-partner"
+ ],
+ "7279401353280409600": [
+  "linkedin-and-personal-brand"
+ ],
+ "7280275102238146560": [
+  "tools-and-services"
+ ],
+ "7284133399919792128": [
+  "why-people-go-into-partnership"
+ ],
+ "7284473549635936256": [
+  "data-and-research"
+ ],
+ "7289544526967312384": [
+  "linkedin-and-personal-brand"
+ ],
+ "7292105224645705728": [
+  "talks-and-interviews"
+ ],
+ "7293169124275294208": [
+  "data-and-research"
+ ],
+ "7293267090898092032": [
+  "talks-and-interviews",
+  "equity-split-between-partners"
+ ],
+ "7293995637811867648": [
+  "personal-notes"
+ ],
+ "7297155587212021760": [
+  "data-and-research"
+ ],
+ "7299692683269177344": [
+  "data-and-research"
+ ],
+ "7301145103698477056": [
+  "tools-and-services"
+ ],
+ "7302229390837321728": [
+  "data-and-research"
+ ],
+ "7304097020468715520": [
+  "trust-between-partners"
+ ],
+ "7304767906775494656": [
+  "data-and-research"
+ ],
+ "7312721906724483073": [
+  "choosing-a-business-partner"
+ ],
+ "7314212683577237504": [
+  "personal-notes"
+ ],
+ "7314898714785939456": [
+  "data-and-research"
+ ],
+ "7315267721934323712": [
+  "linkedin-and-personal-brand"
+ ],
+ "7317436441905528832": [
+  "data-and-research"
+ ],
+ "7319261288499429376": [
+  "linkedin-and-personal-brand"
+ ],
+ "7319970038046777345": [
+  "personal-notes"
+ ],
+ "7321414848662151168": [
+  "personal-notes"
+ ],
+ "7325768916410986496": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7326134632393936899": [
+  "linkedin-and-personal-brand"
+ ],
+ "7326493672336711680": [
+  "forming-a-partner-team"
+ ],
+ "7326865918423130112": [
+  "linkedin-and-personal-brand"
+ ],
+ "7328298129831690242": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7329396032751013888": [
+  "linkedin-and-personal-brand"
+ ],
+ "7333020483350695936": [
+  "economy-and-statistics"
+ ],
+ "7333391806392365057": [
+  "partnership-session"
+ ],
+ "7335918019455377410": [
+  "personal-notes"
+ ],
+ "7337729036023992320": [
+  "money-between-partners"
+ ],
+ "7338818695613272064": [
+  "data-and-research"
+ ],
+ "7342800662209921024": [
+  "economy-and-statistics"
+ ],
+ "7345337670530650116": [
+  "trust-between-partners"
+ ],
+ "7345761158928261120": [
+  "linkedin-and-personal-brand"
+ ],
+ "7346064757851848704": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7346484013408104448": [
+  "managing-partner-relationships"
+ ],
+ "7347874655472357376": [
+  "economy-and-statistics"
+ ],
+ "7349368747356217344": [
+  "partnership-agreement"
+ ],
+ "7351129646760898560": [
+  "partnership-agreement",
+  "why-partners-avoid-signing-an-agreement"
+ ],
+ "7354407067127791617": [
+  "personal-notes"
+ ],
+ "7355488919217463296": [
+  "data-and-research"
+ ],
+ "7363819588989468673": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7366356308846899200": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7367082095631835136": [
+  "conscious-partnership"
+ ],
+ "7368893036904349696": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7369258478638473216": [
+  "conscious-partnership"
+ ],
+ "7369619009803010048": [
+  "personal-notes"
+ ],
+ "7371422291022413824": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7373241991268024320": [
+  "data-and-research"
+ ],
+ "7373966519824904192": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7376495714702483456": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7378043277402353664": [
+  "forming-a-partner-team",
+  "talks-and-interviews"
+ ],
+ "7378043303247806464": {
+  "duplicate_of": "7378043277402353664"
+ },
+ "7379032320781152256": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7380853200112918528": [
+  "data-and-research"
+ ],
+ "7382699263555973120": [
+  "why-partners-avoid-signing-an-agreement"
+ ],
+ "7386004243201015809": [
+  "personal-notes"
+ ],
+ "7386642520425959425": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7391100005329215489": [
+  "talks-and-interviews"
+ ],
+ "7391373416773308416": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7391530372188172288": [
+  "talks-and-interviews"
+ ],
+ "7392101314282831873": [
+  "personal-notes"
+ ],
+ "7394277958233915392": [
+  "managing-partner-relationships"
+ ],
+ "7394740471643697153": [
+  "personal-notes"
+ ],
+ "7395393421038911489": [
+  "personal-notes"
+ ],
+ "7396087871071395840": [
+  "data-and-research"
+ ],
+ "7398629119841832960": [
+  "data-and-research"
+ ],
+ "7399399388684558337": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7401167242069016578": [
+  "data-and-research"
+ ],
+ "7401914940409753600": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7402256782011695105": [
+  "equity-split-between-partners",
+  "economy-and-statistics"
+ ],
+ "7405524244685815808": [
+  "linkedin-and-personal-brand"
+ ],
+ "7406951341778161664": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7407332337455095809": [
+  "personal-notes"
+ ],
+ "7408070761325674496": [
+  "personal-notes"
+ ],
+ "7408770600313311232": [
+  "economy-and-statistics"
+ ],
+ "7410322595893596160": [
+  "linkedin-and-personal-brand"
+ ],
+ "7413844806126292993": [
+  "economy-and-statistics"
+ ],
+ "7414553887283654656": [
+  "partnership-the-blind-spot-of-business"
+ ],
+ "7415678589020655616": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7416035520709091328": [
+  "personal-notes"
+ ],
+ "7416381409516466176": [
+  "economy-and-statistics"
+ ],
+ "7416454302107574272": [
+  "economy-and-statistics"
+ ],
+ "7417851762994221057": [
+  "economy-and-statistics"
+ ],
+ "7418913422186205185": [
+  "economy-and-statistics"
+ ],
+ "7419687574685786112": [
+  "economy-and-statistics"
+ ],
+ "7422608547793784832": [
+  "partner-misconduct-and-internal-control"
+ ],
+ "7422968970770563072": [
+  "personal-notes"
+ ],
+ "7423290392487313408": [
+  "conflicts-between-partners"
+ ],
+ "7432387983703453696": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7441792849878073344": [
+  "data-and-research"
+ ],
+ "7443597164334768128": [
+  "personal-notes"
+ ],
+ "7465350605159415808": [
+  "linkedin-and-personal-brand"
+ ],
+ "7505641269503676416": [
+  "partnership-agreement"
+ ],
+ "7508514566788653056": [
+  "partnership-agreement"
+ ],
+ "7511363439181848576": [
+  "partnership-agreement"
+ ],
+ "7516792129034235904": [
+  "partnership-agreement"
+ ],
+ "7517843125097267202": [
+  "scenario-planning",
+  "conflicts-between-partners"
+ ],
+ "7518636043550588929": [
+  "conscious-partnership"
+ ],
+ "7520394786332270592": [
+  "money-between-partners",
+  "the-authors-own-partnerships"
+ ],
+ "7521136758562918400": [
+  "partnership-agreement",
+  "why-partners-avoid-signing-an-agreement"
+ ],
+ "7227554615666343937": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7230106441083219968": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7232643165848051712": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7235179875030958082": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7237701473973768192": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7240253294244212737": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7242790018681888768": [
+  "ideas-from-adjacent-fields"
+ ],
+ "7245311644732448769": [
+  "when-partners-see-different-realities",
+  "ideas-from-adjacent-fields"
+ ],
+ "7228641983009837057": [
+  "partnership-session"
+ ],
+ "7209485166027694083": [
+  "forming-a-partner-team",
+  "when-partners-see-different-realities"
+ ],
+ "7323224666586734593": [
+  "scenario-planning"
+ ],
+ "blog-partnery-oformili-otnosheniya-pochemu-eto-ne-znachit-chto-oni-dogovorilis": [
+  "partnership-agreement",
+  "why-partners-avoid-signing-an-agreement",
+  "data-and-research"
+ ],
+ "blog-dogovorennost-dokument-i-dogovor-tri-slova-kotorye-yazyk-skleivaet-v-odno": [
+  "partnership-agreement",
+  "conscious-partnership"
+ ],
+ "blog-tri-sloya-partnerskogo-dokumenta-relyaczionnyj-upravlencheskij-yuridicheskij": [
+  "partnership-agreement",
+  "managing-partner-relationships"
+ ],
+ "blog-chetyre-funkczii-partnerskoj-dogovorennosti-pravo-obsluzhivaet-lish-odnu": [
+  "partnership-agreement",
+  "why-partners-avoid-signing-an-agreement"
+ ],
+ "blog-podpis-pod-partnerskim-soglasheniem-priznanie-obeshhanie-tochka-otscheta-i-lish-potom-pravo": [
+  "partnership-agreement",
+  "why-partners-avoid-signing-an-agreement"
+ ],
+ "blog-pravo-samo-sebe-ne-vikonuye-tri-kroki-primusu-i-chomu-sud-praczyuye-yak-tin": [
+  "partnership-agreement",
+  "conflicts-between-partners"
+ ],
+ "7522991025309712384": [
+  "partnership-agreement",
+  "why-partners-avoid-signing-an-agreement"
+ ]
+}
