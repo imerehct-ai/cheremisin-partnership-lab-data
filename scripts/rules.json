@@ -1,0 +1,60 @@
+{
+  "_comment": "Единый источник правил проверки данных раздела «Посты и статьи». Читают: inc/karta-fetch.php (сайт перед записью), karta/validate.py (сборка, repo_sync, GitHub Action в репозитории данных — копия scripts/rules.json). Менять здесь, копии обновляет repo_sync.py.",
+  "files": [
+    "home",
+    "section-ru",
+    "section-ua",
+    "section-en"
+  ],
+  "langs": [
+    "ru",
+    "ua",
+    "en"
+  ],
+  "min_bytes": 1000,
+  "min_materials": 300,
+  "min_topics": 20,
+  "markers": [
+    "01-indexes",
+    "02-notes",
+    "03-competitors",
+    "04-clients-work",
+    "04-projects",
+    "raw/",
+    "wiki/",
+    "\"impressions\"",
+    "\"owner_id\"",
+    "@gmail"
+  ],
+  "phone_regex": "\\+3[48][\\s()\\-]*\\d(?:[\\s()\\-]*\\d){7,}",
+  "hosts": [
+    "linkedin.com",
+    "t.me",
+    "cheremisin.partners",
+    "zenodo.org",
+    "doi.org",
+    "scientia.report",
+    "spilnota.net.ua",
+    "protocol.ua",
+    "youtube.com",
+    "youtu.be"
+  ],
+  "home_keys": [
+    "totals",
+    "topics",
+    "posts",
+    "hub",
+    "clusters",
+    "edges",
+    "graph",
+    "order",
+    "generated"
+  ],
+  "section_keys": [
+    "lang",
+    "topics",
+    "materials",
+    "hub",
+    "generated"
+  ]
+}
