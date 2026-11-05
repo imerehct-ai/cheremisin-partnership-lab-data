@@ -11,5 +11,20 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python3 scripts/validate.py data
-      - run: python3 -c "import json,tomllib; json.load(open('catalog.json')); json.load(open('annotations.json')); json.load(open('descriptions.json')); tomllib.load(open('taxonomy.toml','rb')); print('sources ok')"
+      - name: validate data/ with the site's rules
+        run: python3 scripts/validate.py data --rules scripts/rules.json
+      - name: sources parse
+        run: python3 -c "import json,tomllib; json.load(open('catalog.json')); json.load(open('annotations.json')); json.load(open('descriptions.json')); tomllib.load(open('taxonomy.toml','rb')); print('sources ok')"
+      - name: rebuild data/ and compare (ignoring the build date)
+        run: |
+          python3 scripts/build.py --out /tmp/rebuilt
+          python3 - <<'PY'
+          import json, sys
+          bad = []
+          for n in ["home", "section-ru", "section-ua", "section-en"]:
+              a = json.load(open(f"/tmp/rebuilt/{n}.json")); b = json.load(open(f"data/{n}.json"))
+              a.pop("generated", None); b.pop("generated", None)
+              if a != b: bad.append(n)
+          if bad: sys.exit("data/ differs from a fresh build: " + ", ".join(bad))
+          print("rebuild matches data/")
+          PY
