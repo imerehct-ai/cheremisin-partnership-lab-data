@@ -33,9 +33,16 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import layout as L
 
+# Две раскладки: проект сайта (karta/build.py, источники в karta/, выход в тему) и публичный
+# репозиторий данных (scripts/build.py, источники в корне, выход в data/). Пути можно задать явно:
+# --src <папка с catalog.json/taxonomy.toml/descriptions.json> --out <папка для home/section-*.json>.
 ROOT = Path(__file__).resolve().parent.parent
-K = ROOT / "karta"
-OUT_DIR = ROOT / "wp-content/themes/cheremisin-theme/karta/data"
+if (ROOT / "karta").is_dir() and (ROOT / "wp-content").is_dir():
+    K = ROOT / "karta"
+    OUT_DIR = ROOT / "wp-content/themes/cheremisin-theme/karta/data"
+else:
+    K = ROOT
+    OUT_DIR = ROOT / "data"
 LANGS = L.LANGS
 
 # Площадка → вид материала и порядок выбора «главной» ссылки (оригинала).
@@ -111,7 +118,14 @@ def kind_of(m):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--edge-min", type=int, default=3, help="минимум общих материалов, чтобы рисовать связь")
+    ap.add_argument("--src", type=Path, help="папка с catalog.json, taxonomy.toml, descriptions.json")
+    ap.add_argument("--out", type=Path, help="папка для home.json и section-*.json")
     args = ap.parse_args()
+    global K, OUT_DIR
+    if args.src:
+        K = args.src.resolve()
+    if args.out:
+        OUT_DIR = args.out.resolve()
 
     taxonomy = tomllib.loads((K / "taxonomy.toml").read_text(encoding="utf-8"))
     catalog = json.loads((K / "catalog.json").read_text(encoding="utf-8"))
@@ -281,7 +295,7 @@ def main():
     fits_m = Counter(f for c in tree.values() for t in c["tiles"] for f in t["fit_m"].values())
     print(f"подписи плиток десктоп (l/m/s — влезает, x — только число): {dict(fits)}; телефон: {dict(fits_m)}")
     for name, blob in blobs.items():
-        print(f"записано: {(OUT_DIR / name).relative_to(ROOT)} ({len(blob.encode()) // 1024} КБ)")
+        print(f"записано: {OUT_DIR / name} ({len(blob.encode()) // 1024} КБ)")
 
 
 if __name__ == "__main__":
