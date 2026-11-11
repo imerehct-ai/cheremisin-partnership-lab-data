@@ -1,14 +1,22 @@
+# Проверка данных раздела «Посты и статьи» и автоматическая публикация.
+# 1) validate — те же правила, что на сайте; идёт на каждой заявке (pull request), на main и на ветках update/**.
+# 2) publish — только для веток update/** (их отправляет karta/repo_sync.py из проекта сайта): если validate
+#    зелёная, сам создаёт заявку и сам её принимает (merge в main). Сайт читает main — это и есть публикация.
+#    Нужна настройка репозитория: Settings → Actions → General → Workflow permissions →
+#    «Allow GitHub Actions to create and approve pull requests». Без неё publish падает, данные остаются
+#    в ветке, и заявку можно принять вручную, как раньше.
+# Исходник файла — локальный git проекта сайта, karta/data_repo/validate.yml (копирует repo_sync.py).
 name: validate data
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: [main, "update/**"]
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: validate data/ with the site's rules
@@ -28,3 +36,26 @@ jobs:
           if bad: sys.exit("data/ differs from a fresh build: " + ", ".join(bad))
           print("rebuild matches data/")
           PY
+
+  publish:
+    needs: validate
+    if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/update/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      BRANCH: ${{ github.ref_name }}
+    steps:
+      - name: Создать заявку, если её ещё нет
+        run: |
+          if [ -z "$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number')" ]; then
+            gh pr create --head "$BRANCH" --base main \
+              --title "$(gh api "repos/$GH_REPO/commits/$GITHUB_SHA" --jq '.commit.message' | head -1)" \
+              --body "Автоматическая публикация: проверка validate зелёная. Ветку отправил karta/repo_sync.py."
+          fi
+      - name: Принять заявку (публикация в main)
+        run: gh pr merge "$BRANCH" --merge --delete-branch
