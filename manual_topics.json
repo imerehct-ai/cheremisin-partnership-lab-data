@@ -1,5 +1,5 @@
 {
- "_comment": "S15, 30.10.2026: ручная разметка Claude для LinkedIn-постов с текстом, у которых нет конспекта в вики. Ключ — activity id. Темы — id из taxonomy.toml; темы кластера G («Прочее», предложение на утверждение владельцу): economy-and-statistics, linkedin-and-personal-brand, talks-and-interviews, personal-notes. duplicate_of — повтор того же поста (двойная публикация), в каталог не идёт. Дополнение: 10 постов, у которых есть конспект в вики, но ни одна тема вики на них не ссылается (рубрика Weekend Movie и др.) — размечены вручную.",
+ "_comment": "S15, 30.10.2026: ручная разметка Claude для LinkedIn-постов с текстом, у которых нет конспекта в вики. Ключ — activity id. Темы — id из taxonomy.toml; темы кластера G («Прочее», предложение на утверждение владельцу): economy-and-statistics, linkedin-and-personal-brand, talks-and-interviews, personal-notes. duplicate_of — повтор того же поста (двойная публикация), в каталог не идёт. Дополнение: 10 постов, у которых есть конспект в вики, но ни одна тема вики на них не ссылается (рубрика Weekend Movie и др.) — размечены вручную. 11.11.2026: 15 опросам LinkedIn добавлена тема по смыслу настоящего вопроса (вопросы — overrides.json → poll_questions); «Партнерство — слепая зона бизнеса» оставлена; у опроса 7320697667175481344 тема из вики, ручная добавляется к ней.",
  "6591038402806853632": [
   "personal-notes"
  ],
@@ -162,7 +162,8 @@
   "personal-notes"
  ],
  "7325768916410986496": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "equity-split-between-partners"
  ],
  "7326134632393936899": [
   "linkedin-and-personal-brand"
@@ -174,7 +175,8 @@
   "linkedin-and-personal-brand"
  ],
  "7328298129831690242": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "why-partners-avoid-signing-an-agreement"
  ],
  "7329396032751013888": [
   "linkedin-and-personal-brand"
@@ -226,16 +228,20 @@
   "data-and-research"
  ],
  "7363819588989468673": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "forming-a-partner-team"
  ],
  "7366356308846899200": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "why-partners-avoid-signing-an-agreement"
  ],
  "7367082095631835136": [
   "conscious-partnership"
  ],
  "7368893036904349696": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "a-partners-exit-from-the-business",
+  "scenario-planning"
  ],
  "7369258478638473216": [
   "conscious-partnership"
@@ -244,16 +250,19 @@
   "personal-notes"
  ],
  "7371422291022413824": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "conflicts-between-partners"
  ],
  "7373241991268024320": [
   "data-and-research"
  ],
  "7373966519824904192": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "partner-misconduct-and-internal-control"
  ],
  "7376495714702483456": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "money-between-partners"
  ],
  "7378043277402353664": [
   "forming-a-partner-team",
@@ -263,7 +272,8 @@
   "duplicate_of": "7378043277402353664"
  },
  "7379032320781152256": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "equity-split-between-partners"
  ],
  "7380853200112918528": [
   "data-and-research"
@@ -275,7 +285,8 @@
   "personal-notes"
  ],
  "7386642520425959425": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "why-people-go-into-partnership"
  ],
  "7391100005329215489": [
   "talks-and-interviews"
@@ -305,13 +316,15 @@
   "data-and-research"
  ],
  "7399399388684558337": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "partnership-session"
  ],
  "7401167242069016578": [
   "data-and-research"
  ],
  "7401914940409753600": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "choosing-a-business-partner"
  ],
  "7402256782011695105": [
   "equity-split-between-partners",
@@ -321,7 +334,8 @@
   "linkedin-and-personal-brand"
  ],
  "7406951341778161664": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "conflicts-between-partners"
  ],
  "7407332337455095809": [
   "personal-notes"
@@ -339,7 +353,8 @@
   "economy-and-statistics"
  ],
  "7414553887283654656": [
-  "partnership-the-blind-spot-of-business"
+  "partnership-the-blind-spot-of-business",
+  "co-founders-through-an-investors-eyes"
  ],
  "7415678589020655616": [
   "ideas-from-adjacent-fields"
@@ -473,5 +488,8 @@
  "7522991025309712384": [
   "partnership-agreement",
   "why-partners-avoid-signing-an-agreement"
+ ],
+ "7320697667175481344": [
+  "managing-partner-relationships"
  ]
 }

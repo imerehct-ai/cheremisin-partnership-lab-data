@@ -1512,7 +1512,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "co-founders-through-an-investors-eyes"
    ],
    "title": "Have you brought an investor into an existing partnership?",
    "text": "A poll on whether an outside investor has joined an established partnership: no and not planned, considered for scaling, done with a bad experience, or done with a good one. The author gathers such answers because partnership statistics in Ukraine barely exist.",
@@ -1734,7 +1735,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "conflicts-between-partners"
    ],
    "title": "Where does tension most often arise in your partnership?",
    "text": "A poll on the sources of tension between co-owners: money and profit sharing, who makes decisions and how, expectations and mutual grievances, or a partner's lack of involvement. The answers add to statistics that are otherwise almost impossible to find.",
@@ -1860,7 +1862,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "choosing-a-business-partner"
    ],
    "title": "What matters most to you in a partnership?",
    "text": "A poll on what counts most in a partnership: transparency and honesty, competence and results, personal compatibility, or willingness to negotiate. Part of the author's own data collection, as no partnership statistics exist in Ukraine.",
@@ -1915,7 +1918,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "partnership-session"
    ],
    "title": "Did you bring in a third party to help reach agreements with your partner?",
    "text": "A poll on who helped co-owners reach their agreements: a facilitator or mediator, a lawyer — or they negotiated alone, and some have still not agreed. The author collects such answers because almost no one tracks partnership statistics.",
@@ -2307,7 +2311,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-people-go-into-partnership"
    ],
    "title": "What does a business partner give you?",
    "text": "A poll on what co-owners get from a partner: a sense of security and support, a complement with new ideas and drive, resources, money and connections — or a constant headache. Part of the author's own data collection on partnerships in Ukraine.",
@@ -2649,7 +2654,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "equity-split-between-partners"
    ],
    "title": "Which partnership format suits you: 50/50 or 60/40?",
    "text": "A poll on preferred equity splits: 50/50 as full equality, 60/40 with a lead partner, or no faith in partnership at all. The author gathers such answers because nobody systematically tracks partnership statistics in Ukraine.",
@@ -2781,7 +2787,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "money-between-partners"
    ],
    "title": "Who handles the finances in your partnership?",
    "text": "A poll on how co-owners divide financial responsibility: one partner runs the money, they share it with clear functions, they hired an accountant or CFO — or the finances are chaos. The answers help fill the gap in partnership statistics.",
@@ -2840,7 +2847,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "partner-misconduct-and-internal-control"
    ],
    "title": "Has your partner ever overstepped their authority?",
    "text": "A poll on co-owners exceeding their authority: it happened and caused problems; it happened but was later resolved; it did not, because powers were divided; or authority was never discussed. Part of the author's own data collection on partnerships.",
@@ -2920,7 +2928,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "conflicts-between-partners"
    ],
    "title": "Who makes the final call in a conflict between partners?",
    "text": "A poll on how co-owners settle who has the last word in a dispute: the lead partner, a majority vote, a joint decision reached the hard way — or there are no conflicts because everyone keeps quiet. The answers add to the author's own partnership data.",
@@ -3016,7 +3025,9 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "a-partners-exit-from-the-business",
+    "scenario-planning"
    ],
    "title": "Should a partnership agreement include exit scenarios for a partner?",
    "text": "A poll on whether a partnership agreement should spell out in advance how a co-owner can leave the business: definitely; yes, but it is a hard topic; no, it would undermine trust; or the idea is unfamiliar. Part of the author's own partnership data.",
@@ -3096,7 +3107,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
    ],
    "title": "When did you realise you should have agreed terms with your partner upfront?",
    "text": "A poll on the moment co-owners realise the terms should have been settled in advance: when disputes began, when the first money came in, when it was too late — or they agreed from the start. The answers help fill the gap in partnership statistics.",
@@ -3177,7 +3189,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "forming-a-partner-team"
    ],
    "title": "What was hardest when your partnership started?",
    "text": "A poll on what co-owners struggle with most at the start: agreeing on stakes, defining roles, aligning on the vision for the business, or deciding to partner at all. Part of the author's own data collection on partnerships in Ukraine.",
@@ -4265,7 +4278,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
    ],
    "title": "Why haven't you signed a partnership agreement, or kept putting it off?",
    "text": "A poll on why co-owners skip or delay a written partnership agreement: no time, fear of spoiling the relationship, reliance on trust, or it simply never came up. The author uses it to see what stands in the way of putting the deal on paper.",
@@ -4337,7 +4351,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "equity-split-between-partners"
    ],
    "title": "How did you split equity in your partnership?",
    "text": "A poll on how co-owners divided their stakes: equally, by contribution of money, ideas and time, in favour of the initiator — or it is still unclear. The answers feed the author's own partnership statistics, which do not otherwise exist in Ukraine.",
@@ -4516,7 +4531,8 @@
    "f": "poll",
    "l": "ua",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "managing-partner-relationships"
    ],
    "title": "What is the hardest part of a partnership for you?",
    "text": "The first poll in a series: what co-owners find hardest — joint decisions, splitting profit and influence, communication and conflict, or partnership itself. It starts the author's own data collection, since no partnership statistics exist in Ukraine.",

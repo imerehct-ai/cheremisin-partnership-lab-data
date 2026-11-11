@@ -1664,7 +1664,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7414553887283654656/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "co-founders-through-an-investors-eyes"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -1939,7 +1940,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7406951341778161664/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "conflicts-between-partners"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -2092,7 +2094,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7401914940409753600/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "choosing-a-business-partner"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -2165,7 +2168,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7399399388684558337/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "partnership-session"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -2658,7 +2662,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7386642520425959425/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-people-go-into-partnership"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3067,7 +3072,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7379032320781152256/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "equity-split-between-partners"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3239,7 +3245,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7376495714702483456/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "money-between-partners"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3313,7 +3320,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7373966519824904192/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "partner-misconduct-and-internal-control"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3412,7 +3420,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7371422291022413824/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "conflicts-between-partners"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3537,7 +3546,9 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7368893036904349696/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "a-partners-exit-from-the-business",
+    "scenario-planning"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3636,7 +3647,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7366356308846899200/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -3736,7 +3748,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7363819588989468673/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "forming-a-partner-team"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -5072,7 +5085,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7328298129831690242/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -5169,7 +5183,8 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7325768916410986496/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "equity-split-between-partners"
    ],
    "topics_source": "manual",
    "flags": [],
@@ -5393,9 +5408,10 @@
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7320697667175481344/"
    },
    "topics": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "managing-partner-relationships"
    ],
-   "topics_source": "wiki",
+   "topics_source": "wiki+manual",
    "flags": [],
    "title": {
     "en": "What is the hardest part of a partnership for you?",
