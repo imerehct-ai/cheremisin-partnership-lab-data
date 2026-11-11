@@ -240,6 +240,33 @@ def graph_layout(taxonomy, topic_count, edges):
             n["x"] = min(max(n["x"], n["w"] / 2 + 2), REF_W - n["w"] / 2 - 2)
             n["y"] = min(max(n["y"], n["r"] + 2), GRAPH_H - (n["h"] - n["r"]) - 2)
 
+    # Дожимаем наложения подписей, оставшиеся после охлаждения сил (11.11.2026: новые связи тем дали 3 наложения).
+    # Двигаются только пересекающиеся пары, раскладка в остальном не меняется.
+    # Пара, которая не расходится по короткой оси (упирается в край поля), со второй попытки идёт по другой оси.
+    stuck = set()
+    for _ in range(400):
+        moved, now = False, set()
+        for a, b in combinations(ids, 2):
+            ax0, ay0, ax1, ay1 = bbox(nodes[a])
+            bx0, by0, bx1, by1 = bbox(nodes[b])
+            ox = min(ax1, bx1) - max(ax0, bx0) + 8
+            oy = min(ay1, by1) - max(ay0, by0) + 8
+            if ox > 0 and oy > 0:
+                moved = True; now.add((a, b))
+                if (ox < oy) != ((a, b) in stuck):
+                    s = 1 if nodes[a]["x"] < nodes[b]["x"] else -1
+                    nodes[a]["x"] -= s * ox / 2; nodes[b]["x"] += s * ox / 2
+                else:
+                    s = 1 if nodes[a]["y"] < nodes[b]["y"] else -1
+                    nodes[a]["y"] -= s * oy / 2; nodes[b]["y"] += s * oy / 2
+        for i in ids:
+            n = nodes[i]
+            n["x"] = min(max(n["x"], n["w"] / 2 + 2), REF_W - n["w"] / 2 - 2)
+            n["y"] = min(max(n["y"], n["r"] + 2), GRAPH_H - (n["h"] - n["r"]) - 2)
+        stuck = now
+        if not moved:
+            break
+
     # Растягиваем раскладку на всё поле: силы собирают граф в комок посередине.
     # Коэффициент ≥ 1, поэтому зазоры между подписями только растут.
     for axis, size, lo, hi in (("x", REF_W, lambda n: n["w"] / 2, lambda n: n["w"] / 2),

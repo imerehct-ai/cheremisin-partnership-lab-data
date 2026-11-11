@@ -38,19 +38,19 @@
     "ua": "Вибір партнера і старт",
     "en": "Choosing a partner and getting started"
    },
-   "count": 79,
+   "count": 83,
    "shade": 1,
    "box": [
-    43.834,
+    43.832,
     0.0,
-    27.043,
-    51.648
+    27.141,
+    52.406
    ],
    "box_m": [
     0.0,
-    43.834,
-    51.648,
-    27.043
+    43.832,
+    52.406,
+    27.141
    ],
    "tiles": [
     {
@@ -58,7 +58,7 @@
      "box": [
       0.0,
       0.0,
-      46.809,
+      45.918,
       100.0
      ],
      "num": "l",
@@ -71,7 +71,7 @@
       0.0,
       0.0,
       100.0,
-      46.809
+      45.918
      ],
      "fit_m": {
       "ru": "l",
@@ -82,22 +82,22 @@
     {
      "id": "forming-a-partner-team",
      "box": [
-      46.809,
+      45.918,
       0.0,
-      53.191,
-      32.0
+      54.082,
+      32.075
      ],
      "num": "s",
      "fit": {
       "ru": "l",
-      "ua": "m",
+      "ua": "l",
       "en": "l"
      },
      "box_m": [
       0.0,
-      46.809,
-      62.0,
-      27.454
+      45.918,
+      62.264,
+      27.86
      ],
      "fit_m": {
       "ru": "s",
@@ -108,10 +108,10 @@
     {
      "id": "co-founders-through-an-investors-eyes",
      "box": [
-      46.809,
-      32.0,
-      53.191,
-      30.0
+      45.918,
+      32.075,
+      54.082,
+      30.189
      ],
      "num": "s",
      "fit": {
@@ -121,9 +121,9 @@
      },
      "box_m": [
       0.0,
-      74.262,
-      62.0,
-      25.738
+      73.779,
+      62.264,
+      26.221
      ],
      "fit_m": {
       "ru": "x",
@@ -134,10 +134,10 @@
     {
      "id": "turning-a-manager-into-a-partner",
      "box": [
-      46.809,
-      62.0,
-      33.595,
-      38.0
+      45.918,
+      62.264,
+      32.449,
+      37.736
      ],
      "num": "s",
      "fit": {
@@ -146,10 +146,10 @@
       "en": "m"
      },
      "box_m": [
-      62.0,
-      46.809,
-      38.0,
-      33.595
+      62.264,
+      45.918,
+      37.736,
+      32.449
      ],
      "fit_m": {
       "ru": "x",
@@ -160,10 +160,10 @@
     {
      "id": "why-people-go-into-partnership",
      "box": [
-      80.403,
-      62.0,
-      19.597,
-      38.0
+      78.367,
+      62.264,
+      21.633,
+      37.736
      ],
      "num": "s",
      "fit": {
@@ -172,10 +172,10 @@
       "en": "x"
      },
      "box_m": [
-      62.0,
-      80.403,
-      38.0,
-      19.597
+      62.264,
+      78.367,
+      37.736,
+      21.633
      ],
      "fit_m": {
       "ru": "x",
@@ -192,19 +192,19 @@
     "ua": "Партнерський договір і гроші",
     "en": "Partnership agreement and money"
    },
-   "count": 132,
+   "count": 138,
    "shade": 6,
    "box": [
     0.0,
     0.0,
-    43.834,
-    50.169
+    43.832,
+    50.993
    ],
    "box_m": [
     0.0,
     0.0,
     100.0,
-    21.991
+    22.351
    ],
    "tiles": [
     {
@@ -212,7 +212,7 @@
      "box": [
       0.0,
       0.0,
-      43.243,
+      41.558,
       100.0
      ],
      "num": "l",
@@ -224,7 +224,7 @@
      "box_m": [
       0.0,
       0.0,
-      43.243,
+      41.558,
       100.0
      ],
      "fit_m": {
@@ -236,9 +236,9 @@
     {
      "id": "why-partners-avoid-signing-an-agreement",
      "box": [
-      43.243,
+      41.558,
       0.0,
-      20.946,
+      21.429,
       100.0
      ],
      "num": "s",
@@ -248,10 +248,10 @@
       "en": "l"
      },
      "box_m": [
-      43.243,
+      41.558,
       0.0,
-      56.757,
-      36.905
+      58.442,
+      36.667
      ],
      "fit_m": {
       "ru": "l",
@@ -262,10 +262,10 @@
     {
      "id": "equity-split-between-partners",
      "box": [
-      64.189,
+      62.987,
       0.0,
-      35.811,
-      43.396
+      37.013,
+      43.86
      ],
      "num": "l",
      "fit": {
@@ -274,10 +274,10 @@
       "en": "l"
      },
      "box_m": [
-      43.243,
-      36.905,
-      24.63,
-      63.095
+      41.558,
+      36.667,
+      25.632,
+      63.333
      ],
      "fit_m": {
       "ru": "x",
@@ -288,22 +288,22 @@
     {
      "id": "money-between-partners",
      "box": [
-      64.189,
-      43.396,
-      17.905,
-      56.604
+      62.987,
+      43.86,
+      18.506,
+      56.14
      ],
      "num": "s",
      "fit": {
-      "ru": "m",
-      "ua": "m",
+      "ru": "l",
+      "ua": "l",
       "en": "l"
      },
      "box_m": [
-      67.874,
-      36.905,
-      32.126,
-      31.548
+      67.191,
+      36.667,
+      32.809,
+      31.667
      ],
      "fit_m": {
       "ru": "m",
@@ -314,10 +314,10 @@
     {
      "id": "scenario-planning",
      "box": [
-      82.095,
-      43.396,
-      17.905,
-      56.604
+      81.494,
+      43.86,
+      18.506,
+      56.14
      ],
      "num": "s",
      "fit": {
@@ -326,10 +326,10 @@
       "en": "m"
      },
      "box_m": [
-      67.874,
-      68.452,
-      32.126,
-      31.548
+      67.191,
+      68.333,
+      32.809,
+      31.667
      ],
      "fit_m": {
       "ru": "x",
@@ -346,19 +346,19 @@
     "ua": "Стосунки і довіра",
     "en": "Relationships and trust"
    },
-   "count": 80,
+   "count": 81,
    "shade": 4,
    "box": [
-    43.834,
-    51.648,
-    27.043,
-    48.352
+    43.832,
+    52.406,
+    27.141,
+    47.594
    ],
    "box_m": [
-    51.648,
-    43.834,
-    48.352,
-    27.043
+    52.406,
+    43.832,
+    47.594,
+    27.141
    ],
    "tiles": [
     {
@@ -366,8 +366,8 @@
      "box": [
       0.0,
       0.0,
-      45.455,
-      55.0
+      46.067,
+      56.098
      ],
      "num": "l",
      "fit": {
@@ -378,8 +378,8 @@
      "box_m": [
       0.0,
       0.0,
-      55.0,
-      45.455
+      56.098,
+      46.067
      ],
      "fit_m": {
       "ru": "x",
@@ -391,9 +391,9 @@
      "id": "trust-between-partners",
      "box": [
       0.0,
-      55.0,
-      45.455,
-      45.0
+      56.098,
+      46.067,
+      43.902
      ],
      "num": "l",
      "fit": {
@@ -402,23 +402,23 @@
       "en": "l"
      },
      "box_m": [
-      55.0,
+      56.098,
       0.0,
-      45.0,
-      45.455
+      43.902,
+      46.067
      ],
      "fit_m": {
       "ru": "x",
       "ua": "x",
-      "en": "m"
+      "en": "s"
      }
     },
     {
      "id": "disappointment-in-a-partnership",
      "box": [
-      45.455,
+      46.067,
       0.0,
-      31.469,
+      31.115,
       54.167
      ],
      "num": "s",
@@ -429,9 +429,9 @@
      },
      "box_m": [
       0.0,
-      45.455,
+      46.067,
       54.167,
-      31.469
+      31.115
      ],
      "fit_m": {
       "ru": "x",
@@ -442,9 +442,9 @@
     {
      "id": "when-partners-see-different-realities",
      "box": [
-      76.923,
+      77.182,
       0.0,
-      23.077,
+      22.818,
       54.167
      ],
      "num": "s",
@@ -455,9 +455,9 @@
      },
      "box_m": [
       0.0,
-      76.923,
+      77.182,
       54.167,
-      23.077
+      22.818
      ],
      "fit_m": {
       "ru": "x",
@@ -468,9 +468,9 @@
     {
      "id": "partner-expectations",
      "box": [
-      45.455,
+      46.067,
       54.167,
-      24.793,
+      24.515,
       45.833
      ],
      "num": "s",
@@ -481,12 +481,12 @@
      },
      "box_m": [
       54.167,
-      45.455,
+      46.067,
       45.833,
-      24.793
+      24.515
      ],
      "fit_m": {
-      "ru": "s",
+      "ru": "x",
       "ua": "x",
       "en": "x"
      }
@@ -494,9 +494,9 @@
     {
      "id": "the-three-roles-of-a-co-owner",
      "box": [
-      70.248,
+      70.582,
       54.167,
-      29.752,
+      29.418,
       26.736
      ],
      "num": "s",
@@ -507,9 +507,9 @@
      },
      "box_m": [
       54.167,
-      70.248,
+      70.582,
       45.833,
-      17.355
+      17.16
      ],
      "fit_m": {
       "ru": "x",
@@ -520,9 +520,9 @@
     {
      "id": "the-hero-partner-and-overwork",
      "box": [
-      70.248,
+      70.582,
       80.903,
-      29.752,
+      29.418,
       19.097
      ],
      "num": "s",
@@ -533,9 +533,9 @@
      },
      "box_m": [
       54.167,
-      87.603,
+      87.743,
       45.833,
-      12.397
+      12.257
      ],
      "fit_m": {
       "ru": "x",
@@ -552,19 +552,19 @@
     "ua": "Конфлікти, недобросовісність, вихід",
     "en": "Conflict, misconduct and exit"
    },
-   "count": 61,
+   "count": 65,
    "shade": 7,
    "box": [
-    70.877,
-    38.265,
-    15.404,
-    61.735
+    70.972,
+    37.5,
+    15.791,
+    62.5
    ],
    "box_m": [
-    38.265,
-    70.877,
-    61.735,
-    15.404
+    37.5,
+    70.972,
+    62.5,
+    15.791
    ],
    "tiles": [
     {
@@ -573,7 +573,7 @@
       0.0,
       0.0,
       100.0,
-      42.188
+      42.647
      ],
      "num": "l",
      "fit": {
@@ -584,22 +584,22 @@
      "box_m": [
       0.0,
       0.0,
-      42.188,
+      42.647,
       100.0
      ],
      "fit_m": {
       "ru": "m",
       "ua": "m",
-      "en": "m"
+      "en": "l"
      }
     },
     {
      "id": "partner-misconduct-and-internal-control",
      "box": [
       0.0,
-      42.188,
+      42.647,
       100.0,
-      29.687
+      29.412
      ],
      "num": "s",
      "fit": {
@@ -608,10 +608,10 @@
       "en": "l"
      },
      "box_m": [
-      42.188,
+      42.647,
       0.0,
-      57.812,
-      51.351
+      57.353,
+      51.282
      ],
      "fit_m": {
       "ru": "s",
@@ -623,9 +623,9 @@
      "id": "a-partners-exit-from-the-business",
      "box": [
       0.0,
-      71.875,
+      72.059,
       100.0,
-      28.125
+      27.941
      ],
      "num": "s",
      "fit": {
@@ -634,10 +634,10 @@
       "en": "l"
      },
      "box_m": [
-      42.188,
-      51.351,
-      57.812,
-      48.649
+      42.647,
+      51.282,
+      57.353,
+      48.718
      ],
      "fit_m": {
       "ru": "m",
@@ -654,19 +654,19 @@
     "ua": "Метод та інструменти",
     "en": "Method and tools"
    },
-   "count": 127,
+   "count": 128,
    "shade": 2,
    "box": [
     0.0,
-    50.169,
-    43.834,
-    49.831
+    50.993,
+    43.832,
+    49.007
    ],
    "box_m": [
     0.0,
-    21.991,
+    22.351,
     100.0,
-    21.842
+    21.48
    ],
    "tiles": [
     {
@@ -674,7 +674,7 @@
      "box": [
       0.0,
       0.0,
-      29.252,
+      29.054,
       100.0
      ],
      "num": "l",
@@ -686,8 +686,8 @@
      "box_m": [
       0.0,
       0.0,
-      56.463,
-      51.807
+      56.757,
+      51.19
      ],
      "fit_m": {
       "ru": "l",
@@ -698,9 +698,9 @@
     {
      "id": "partnership-session",
      "box": [
-      29.252,
+      29.054,
       0.0,
-      27.211,
+      27.703,
       100.0
      ],
      "num": "l",
@@ -711,9 +711,9 @@
      },
      "box_m": [
       0.0,
-      51.807,
-      56.463,
-      48.193
+      51.19,
+      56.757,
+      48.81
      ],
      "fit_m": {
       "ru": "l",
@@ -724,9 +724,9 @@
     {
      "id": "tools-and-services",
      "box": [
-      56.463,
+      56.757,
       0.0,
-      43.537,
+      43.243,
       53.125
      ],
      "num": "l",
@@ -736,9 +736,9 @@
       "en": "l"
      },
      "box_m": [
-      56.463,
+      56.757,
       0.0,
-      43.537,
+      43.243,
       53.125
      ],
      "fit_m": {
@@ -750,9 +750,9 @@
     {
      "id": "conscious-partnership",
      "box": [
-      56.463,
+      56.757,
       53.125,
-      43.537,
+      43.243,
       46.875
      ],
      "num": "l",
@@ -762,9 +762,9 @@
       "en": "l"
      },
      "box_m": [
-      56.463,
+      56.757,
       53.125,
-      43.537,
+      43.243,
       46.875
      ],
      "fit_m": {
@@ -785,16 +785,16 @@
    "count": 70,
    "shade": 5,
    "box": [
-    70.877,
+    70.972,
     0.0,
-    29.123,
-    38.265
+    29.028,
+    37.5
    ],
    "box_m": [
     0.0,
-    70.877,
-    38.265,
-    29.123
+    70.972,
+    37.5,
+    29.028
    ],
    "tiles": [
     {
@@ -820,7 +820,7 @@
      "fit_m": {
       "ru": "l",
       "ua": "l",
-      "en": "m"
+      "en": "l"
      }
     },
     {
@@ -831,7 +831,7 @@
       36.0,
       100.0
      ],
-     "num": "l",
+     "num": "s",
      "fit": {
       "ru": "l",
       "ua": "l",
@@ -887,16 +887,16 @@
    "count": 57,
    "shade": 3,
    "box": [
-    86.281,
-    38.265,
-    13.719,
-    61.735
+    86.763,
+    37.5,
+    13.237,
+    62.5
    ],
    "box_m": [
-    38.265,
-    86.281,
-    61.735,
-    13.719
+    37.5,
+    86.763,
+    62.5,
+    13.237
    ],
    "tiles": [
     {
@@ -1019,10 +1019,10 @@
     "ua": "yak-obrati-biznes-partnera",
     "en": "choosing-a-business-partner"
    },
-   "count": 44,
+   "count": 45,
    "node": {
-    "x": 387.1,
-    "y": 176.2,
+    "x": 567.2,
+    "y": 83.7,
     "r": 11.5
    },
    "related": [
@@ -1055,7 +1055,7 @@
      2
     ],
     [
-     "when-partners-see-different-realities",
+     "partnership-the-blind-spot-of-business",
      2
     ]
    ]
@@ -1072,11 +1072,11 @@
     "ua": "navishho-lyudi-jdut-u-partnerstvo",
     "en": "why-people-go-into-partnership"
    },
-   "count": 7,
+   "count": 8,
    "node": {
-    "x": 777.1,
-    "y": 232.2,
-    "r": 7.0
+    "x": 998.2,
+    "y": 368.4,
+    "r": 7.2
    },
    "related": [
     [
@@ -1093,6 +1093,10 @@
     ],
     [
      "partnership-session",
+     1
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
      1
     ],
     [
@@ -1117,11 +1121,11 @@
     "ua": "stanovlennya-partnerskoyi-komandi",
     "en": "forming-a-partner-team"
    },
-   "count": 16,
+   "count": 17,
    "node": {
-    "x": 430.9,
-    "y": 113.2,
-    "r": 8.5
+    "x": 758.7,
+    "y": 19.5,
+    "r": 8.6
    },
    "related": [
     [
@@ -1172,8 +1176,8 @@
    },
    "count": 12,
    "node": {
-    "x": 619.6,
-    "y": 173.5,
+    "x": 952.4,
+    "y": 258.4,
     "r": 7.9
    },
    "related": [
@@ -1223,11 +1227,11 @@
     "ua": "partneri-ochima-investora",
     "en": "co-founders-through-an-investors-eyes"
    },
-   "count": 15,
+   "count": 16,
    "node": {
-    "x": 663.5,
-    "y": 113.1,
-    "r": 8.4
+    "x": 686.8,
+    "y": 199.5,
+    "r": 8.5
    },
    "related": [
     [
@@ -1278,8 +1282,8 @@
    },
    "count": 64,
    "node": {
-    "x": 480.8,
-    "y": 439.8,
+    "x": 812.3,
+    "y": 450.1,
     "r": 13.0
    },
    "related": [
@@ -1329,16 +1333,20 @@
     "ua": "chomu-partneri-ne-pidpisuyut-dogovir",
     "en": "why-partners-avoid-signing-an-agreement"
    },
-   "count": 31,
+   "count": 33,
    "node": {
-    "x": 544.8,
-    "y": 242.5,
-    "r": 10.3
+    "x": 415.9,
+    "y": 218.2,
+    "r": 10.5
    },
    "related": [
     [
      "partnership-agreement",
      10
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     4
     ],
     [
      "ideas-from-adjacent-fields",
@@ -1354,10 +1362,6 @@
     ],
     [
      "data-and-research",
-     2
-    ],
-    [
-     "partnership-the-blind-spot-of-business",
      2
     ],
     [
@@ -1382,11 +1386,11 @@
     "ua": "rozpodil-chastok",
     "en": "equity-split-between-partners"
    },
-   "count": 23,
+   "count": 25,
    "node": {
-    "x": 555.6,
-    "y": 306.0,
-    "r": 9.4
+    "x": 805.7,
+    "y": 337.4,
+    "r": 9.6
    },
    "related": [
     [
@@ -1406,6 +1410,10 @@
      2
     ],
     [
+     "partnership-the-blind-spot-of-business",
+     2
+    ],
+    [
      "co-founders-through-an-investors-eyes",
      1
     ],
@@ -1415,10 +1423,6 @@
     ],
     [
      "conscious-partnership",
-     1
-    ],
-    [
-     "data-and-research",
      1
     ]
    ]
@@ -1435,11 +1439,11 @@
     "ua": "groshi-mizh-partnerami",
     "en": "money-between-partners"
    },
-   "count": 15,
+   "count": 16,
    "node": {
-    "x": 799.8,
-    "y": 445.2,
-    "r": 8.4
+    "x": 1008.2,
+    "y": 513.5,
+    "r": 8.5
    },
    "related": [
     [
@@ -1471,7 +1475,7 @@
      1
     ],
     [
-     "the-authors-own-partnerships",
+     "partnership-the-blind-spot-of-business",
      1
     ]
    ]
@@ -1488,16 +1492,16 @@
     "ua": "sczenariyi-proval-naduspih-vibuttya-partnera",
     "en": "scenario-planning"
    },
-   "count": 15,
+   "count": 16,
    "node": {
-    "x": 923.8,
-    "y": 369.6,
-    "r": 8.4
+    "x": 1151.3,
+    "y": 428.1,
+    "r": 8.5
    },
    "related": [
     [
      "a-partners-exit-from-the-business",
-     3
+     4
     ],
     [
      "conflicts-between-partners",
@@ -1516,15 +1520,15 @@
      2
     ],
     [
+     "partnership-the-blind-spot-of-business",
+     2
+    ],
+    [
      "conscious-partnership",
      1
     ],
     [
      "disappointment-in-a-partnership",
-     1
-    ],
-    [
-     "equity-split-between-partners",
      1
     ]
    ]
@@ -1543,8 +1547,8 @@
    },
    "count": 18,
    "node": {
-    "x": 279.9,
-    "y": 435.4,
+    "x": 641.8,
+    "y": 428.8,
     "r": 8.8
    },
    "related": [
@@ -1596,7 +1600,7 @@
    },
    "count": 10,
    "node": {
-    "x": 202.2,
+    "x": 266.9,
     "y": 529.4,
     "r": 7.6
    },
@@ -1649,8 +1653,8 @@
    },
    "count": 15,
    "node": {
-    "x": 84.0,
-    "y": 480.4,
+    "x": 75.4,
+    "y": 469.5,
     "r": 8.4
    },
    "related": [
@@ -1702,8 +1706,8 @@
    },
    "count": 11,
    "node": {
-    "x": 312.4,
-    "y": 238.9,
+    "x": 75.4,
+    "y": 262.7,
     "r": 7.7
    },
    "related": [
@@ -1755,8 +1759,8 @@
    },
    "count": 5,
    "node": {
-    "x": 582.0,
-    "y": 504.0,
+    "x": 624.9,
+    "y": 515.5,
     "r": 6.5
    },
    "related": [
@@ -1796,8 +1800,8 @@
    },
    "count": 7,
    "node": {
-    "x": 317.7,
-    "y": 312.2,
+    "x": 609.9,
+    "y": 279.7,
     "r": 7.0
    },
    "related": [
@@ -1835,11 +1839,11 @@
     "ua": "upravlinnya-partnerskimi-stosunkami",
     "en": "managing-partner-relationships"
    },
-   "count": 22,
+   "count": 23,
    "node": {
-    "x": 707.4,
-    "y": 368.6,
-    "r": 9.3
+    "x": 503.5,
+    "y": 351.6,
+    "r": 9.4
    },
    "related": [
     [
@@ -1888,11 +1892,11 @@
     "ua": "konflikti-mizh-partnerami",
     "en": "conflicts-between-partners"
    },
-   "count": 27,
+   "count": 29,
    "node": {
-    "x": 300.8,
-    "y": 373.1,
-    "r": 9.8
+    "x": 66.7,
+    "y": 345.2,
+    "r": 10.1
    },
    "related": [
     [
@@ -1902,6 +1906,10 @@
     [
      "partnership-session",
      4
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
+     3
     ],
     [
      "scenario-planning",
@@ -1922,10 +1930,6 @@
     [
      "why-partners-avoid-signing-an-agreement",
      2
-    ],
-    [
-     "equity-split-between-partners",
-     1
     ]
    ]
   },
@@ -1941,11 +1945,11 @@
     "ua": "nedobrosovisnij-partner-i-kontrol",
     "en": "partner-misconduct-and-internal-control"
    },
-   "count": 19,
+   "count": 20,
    "node": {
-    "x": 79.0,
-    "y": 421.9,
-    "r": 8.9
+    "x": 429.1,
+    "y": 457.4,
+    "r": 9.0
    },
    "related": [
     [
@@ -1958,6 +1962,10 @@
     ],
     [
      "ideas-from-adjacent-fields",
+     2
+    ],
+    [
+     "partnership-the-blind-spot-of-business",
      2
     ],
     [
@@ -1975,10 +1983,6 @@
     [
      "managing-partner-relationships",
      1
-    ],
-    [
-     "money-between-partners",
-     1
     ]
    ]
   },
@@ -1994,11 +1998,11 @@
     "ua": "vihid-partnera-z-biznesu",
     "en": "a-partners-exit-from-the-business"
    },
-   "count": 18,
+   "count": 19,
    "node": {
-    "x": 506.9,
-    "y": 371.9,
-    "r": 8.8
+    "x": 236.4,
+    "y": 408.1,
+    "r": 8.9
    },
    "related": [
     [
@@ -2006,15 +2010,15 @@
      4
     ],
     [
-     "partnership-agreement",
-     3
-    ],
-    [
      "partnership-the-blind-spot-of-business",
-     3
+     4
     ],
     [
      "scenario-planning",
+     4
+    ],
+    [
+     "partnership-agreement",
      3
     ],
     [
@@ -2047,11 +2051,11 @@
     "ua": "partnerska-sesiya",
     "en": "partnership-session"
    },
-   "count": 40,
+   "count": 41,
    "node": {
-    "x": 159.6,
-    "y": 189.0,
-    "r": 11.1
+    "x": 380.1,
+    "y": 150.4,
+    "r": 11.2
    },
    "related": [
     [
@@ -2102,8 +2106,8 @@
    },
    "count": 30,
    "node": {
-    "x": 127.2,
-    "y": 299.8,
+    "x": 227.7,
+    "y": 200.8,
     "r": 10.2
    },
    "related": [
@@ -2155,8 +2159,8 @@
    },
    "count": 34,
    "node": {
-    "x": 79.0,
-    "y": 361.5,
+    "x": 325.1,
+    "y": 291.9,
     "r": 10.6
    },
    "related": [
@@ -2208,8 +2212,8 @@
    },
    "count": 43,
    "node": {
-    "x": 85.1,
-    "y": 234.2,
+    "x": 89.7,
+    "y": 128.4,
     "r": 11.4
    },
    "related": [
@@ -2261,42 +2265,42 @@
    },
    "count": 28,
    "node": {
-    "x": 154.4,
-    "y": 111.8,
+    "x": 308.5,
+    "y": 53.4,
     "r": 10.0
    },
    "related": [
+    [
+     "a-partners-exit-from-the-business",
+     4
+    ],
     [
      "data-and-research",
      4
     ],
     [
-     "a-partners-exit-from-the-business",
+     "why-partners-avoid-signing-an-agreement",
+     4
+    ],
+    [
+     "conflicts-between-partners",
      3
+    ],
+    [
+     "partnership-session",
+     3
+    ],
+    [
+     "choosing-a-business-partner",
+     2
     ],
     [
      "conscious-partnership",
      2
     ],
     [
-     "partnership-session",
+     "equity-split-between-partners",
      2
-    ],
-    [
-     "why-partners-avoid-signing-an-agreement",
-     2
-    ],
-    [
-     "choosing-a-business-partner",
-     1
-    ],
-    [
-     "conflicts-between-partners",
-     1
-    ],
-    [
-     "disappointment-in-a-partnership",
-     1
     ]
    ]
   },
@@ -2314,7 +2318,7 @@
    },
    "count": 27,
    "node": {
-    "x": 419.3,
+    "x": 112.7,
     "y": 11.8,
     "r": 9.8
    },
@@ -2359,8 +2363,8 @@
    },
    "count": 20,
    "node": {
-    "x": 274.5,
-    "y": 50.3,
+    "x": 510.0,
+    "y": 11.0,
     "r": 9.0
    },
    "related": [
@@ -2412,8 +2416,8 @@
    },
    "count": 11,
    "node": {
-    "x": 1189.4,
-    "y": 199.4,
+    "x": 1015.5,
+    "y": 84.1,
     "r": 7.7
    },
    "related": [
@@ -2437,8 +2441,8 @@
    },
    "count": 11,
    "node": {
-    "x": 1054.6,
-    "y": 309.6,
+    "x": 1157.0,
+    "y": 294.3,
     "r": 7.7
    },
    "related": []
@@ -2457,8 +2461,8 @@
    },
    "count": 10,
    "node": {
-    "x": 1141.7,
-    "y": 265.4,
+    "x": 1129.4,
+    "y": 213.9,
     "r": 7.6
    },
    "related": [
@@ -2486,8 +2490,8 @@
    },
    "count": 25,
    "node": {
-    "x": 1004.4,
-    "y": 204.2,
+    "x": 863.2,
+    "y": 137.4,
     "r": 9.6
    },
    "related": []
@@ -2575,6 +2579,16 @@
    "w": 4
   },
   {
+   "a": "a-partners-exit-from-the-business",
+   "b": "partnership-the-blind-spot-of-business",
+   "w": 4
+  },
+  {
+   "a": "a-partners-exit-from-the-business",
+   "b": "scenario-planning",
+   "w": 4
+  },
+  {
    "a": "conflicts-between-partners",
    "b": "partnership-session",
    "w": 4
@@ -2605,18 +2619,13 @@
    "w": 4
   },
   {
+   "a": "partnership-the-blind-spot-of-business",
+   "b": "why-partners-avoid-signing-an-agreement",
+   "w": 4
+  },
+  {
    "a": "a-partners-exit-from-the-business",
    "b": "partnership-agreement",
-   "w": 3
-  },
-  {
-   "a": "a-partners-exit-from-the-business",
-   "b": "partnership-the-blind-spot-of-business",
-   "w": 3
-  },
-  {
-   "a": "a-partners-exit-from-the-business",
-   "b": "scenario-planning",
    "w": 3
   },
   {
@@ -2627,6 +2636,11 @@
   {
    "a": "choosing-a-business-partner",
    "b": "why-people-go-into-partnership",
+   "w": 3
+  },
+  {
+   "a": "conflicts-between-partners",
+   "b": "partnership-the-blind-spot-of-business",
    "w": 3
   },
   {
@@ -2687,6 +2701,11 @@
   {
    "a": "partnership-agreement",
    "b": "tools-and-services",
+   "w": 3
+  },
+  {
+   "a": "partnership-session",
+   "b": "partnership-the-blind-spot-of-business",
    "w": 3
   },
   {
@@ -3418,7 +3437,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7414553887283654656/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "co-founders-through-an-investors-eyes"
    ]
   },
   {
@@ -3531,7 +3551,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7406951341778161664/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "conflicts-between-partners"
    ]
   },
   {
@@ -3595,7 +3616,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7401914940409753600/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "choosing-a-business-partner"
    ]
   },
   {
@@ -3625,7 +3647,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7399399388684558337/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "partnership-session"
    ]
   },
   {
@@ -3825,7 +3848,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7386642520425959425/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-people-go-into-partnership"
    ]
   },
   {
@@ -3995,7 +4019,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7379032320781152256/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "equity-split-between-partners"
    ]
   },
   {
@@ -4066,7 +4091,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7376495714702483456/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "money-between-partners"
    ]
   },
   {
@@ -4096,7 +4122,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7373966519824904192/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "partner-misconduct-and-internal-control"
    ]
   },
   {
@@ -4136,7 +4163,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7371422291022413824/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "conflicts-between-partners"
    ]
   },
   {
@@ -4189,7 +4217,9 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7368893036904349696/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "a-partners-exit-from-the-business",
+    "scenario-planning"
    ]
   },
   {
@@ -4229,7 +4259,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7366356308846899200/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
    ]
   },
   {
@@ -4270,7 +4301,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7363819588989468673/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "forming-a-partner-team"
    ]
   },
   {
@@ -4823,7 +4855,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7328298129831690242/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "why-partners-avoid-signing-an-agreement"
    ]
   },
   {
@@ -4863,7 +4896,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7325768916410986496/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "equity-split-between-partners"
    ]
   },
   {
@@ -4955,7 +4989,8 @@
    "p": "linkedin",
    "u": "https://www.linkedin.com/feed/update/urn:li:activity:7320697667175481344/",
    "t": [
-    "partnership-the-blind-spot-of-business"
+    "partnership-the-blind-spot-of-business",
+    "managing-partner-relationships"
    ]
   },
   {
