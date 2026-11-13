@@ -58,4 +58,7 @@ jobs:
               --body "Автоматическая публикация: проверка validate зелёная. Ветку отправил karta/repo_sync.py."
           fi
       - name: Принять заявку (публикация в main)
-        run: gh pr merge "$BRANCH" --merge --delete-branch
+        run: gh pr merge "$BRANCH" --merge
+      - name: Удалить ветку (ошибка здесь публикации не мешает)
+        continue-on-error: true
+        run: gh api -X DELETE "repos/$GH_REPO/git/refs/heads/$BRANCH"

@@ -11,6 +11,18 @@
    "ua": "Навіщо партнерам угода, якщо вже є статут?"
   }
  },
+ "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit": {
+  "annotation": {
+   "en": "Court costs more and takes longer than successful mediation: across the EU, on average €10,449 versus €2,497 and 566 versus 43 days. Judgments are not fully enforced even where courts are strong, and in Ukraine in 2025 about 1.3 kopecks per hryvnia of debt was collected.",
+   "ru": "Суд дороже и дольше успешной медиации: в ЕС в среднем 10 449 против 2 497 евро и 566 против 43 дней. Выигранное решение исполняется не полностью даже при сильных судах, а в Украине за 2025 год взыскано 1,3 копейки с гривны долга.",
+   "ua": "Суд дорожчий і довший за успішну медіацію: в ЄС у середньому 10 449 проти 2 497 євро і 566 проти 43 днів. Вигране рішення виконується не повністю навіть за сильних судів, а в Україні за 2025 рік стягнуто 1,3 копійки з гривні боргу."
+  },
+  "title": {
+   "en": "What does the road through court cost, and what is left after winning?",
+   "ru": "Сколько стоит путь через суд и что остается после победы?",
+   "ua": "Скільки коштує шлях через суд і що лишається після перемоги?"
+  }
+ },
  "blog-dogovorennost-dokument-i-dogovor-tri-slova-kotorye-yazyk-skleivaet-v-odno": {
   "annotation": {
    "en": "An understanding lives between people, a document records it, and a contract serves only court enforcement. Language glues the three into one word, so partners go looking for a contract where no understanding exists yet.",
