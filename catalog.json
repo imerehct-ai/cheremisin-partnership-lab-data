@@ -1,6 +1,37 @@
 {
- "generated": "2026-11-12",
+ "generated": "2026-11-13",
  "materials": [
+  {
+   "id": "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit",
+   "date": "2026-11-13",
+   "format": "article",
+   "lang": "ua",
+   "links": {
+    "blog": {
+     "en": "https://cheremisin.partners/en/blog/the-cost-of-error-what-the-road-through-court-costs-and-why-winning-is-not-the-same-as-collecting/",
+     "ru": "https://cheremisin.partners/stati/czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit/",
+     "ua": "https://cheremisin.partners/ua/statti/czina-pomilki-skilki-koshtuye-shlyah-cherez-sud-i-chomu-vigrati-ne-oznachaye-otrimati/"
+    }
+   },
+   "topics": [
+    "partnership-agreement",
+    "conflicts-between-partners",
+    "data-and-research"
+   ],
+   "topics_source": "manual",
+   "flags": [],
+   "title": {
+    "src": "Ціна помилки: скільки коштує шлях через суд і чому виграти не означає отримати",
+    "en": "What does the road through court cost, and what is left after winning?",
+    "ru": "Сколько стоит путь через суд и что остается после победы?",
+    "ua": "Скільки коштує шлях через суд і що лишається після перемоги?"
+   },
+   "annotation": {
+    "en": "Court costs more and takes longer than successful mediation: across the EU, on average €10,449 versus €2,497 and 566 versus 43 days. Judgments are not fully enforced even where courts are strong, and in Ukraine in 2025 about 1.3 kopecks per hryvnia of debt was collected.",
+    "ru": "Суд дороже и дольше успешной медиации: в ЕС в среднем 10 449 против 2 497 евро и 566 против 43 дней. Выигранное решение исполняется не полностью даже при сильных судах, а в Украине за 2025 год взыскано 1,3 копейки с гривны долга.",
+    "ua": "Суд дорожчий і довший за успішну медіацію: в ЄС у середньому 10 449 проти 2 497 євро і 566 проти 43 днів. Вигране рішення виконується не повністю навіть за сильних судів, а в Україні за 2025 рік стягнуто 1,3 копійки з гривні боргу."
+   }
+  },
   {
    "id": "blog-pravo-samo-sebe-ne-vikonuye-tri-kroki-primusu-i-chomu-sud-praczyuye-yak-tin",
    "date": "2026-11-02",

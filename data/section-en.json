@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12",
+ "generated": "2026-11-13",
  "lang": "en",
  "hub": {
   "ru": "temy",
@@ -163,6 +163,25 @@
   }
  },
  "materials": {
+  "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit": {
+   "d": "2026-11-13",
+   "k": "article",
+   "f": "article",
+   "l": "ua",
+   "t": [
+    "partnership-agreement",
+    "conflicts-between-partners",
+    "data-and-research"
+   ],
+   "title": "What does the road through court cost, and what is left after winning?",
+   "text": "Court costs more and takes longer than successful mediation: across the EU, on average €10,449 versus €2,497 and 566 versus 43 days. Judgments are not fully enforced even where courts are strong, and in Ukraine in 2025 about 1.3 kopecks per hryvnia of debt was collected.",
+   "links": [
+    [
+     "blog",
+     "https://cheremisin.partners/en/blog/the-cost-of-error-what-the-road-through-court-costs-and-why-winning-is-not-the-same-as-collecting/"
+    ]
+   ]
+  },
   "blog-pravo-samo-sebe-ne-vikonuye-tri-kroki-primusu-i-chomu-sud-praczyuye-yak-tin": {
    "d": "2026-11-02",
    "k": "article",
