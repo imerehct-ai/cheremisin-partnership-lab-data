@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-16",
  "lang": "en",
  "hub": {
   "ru": "temy",
@@ -163,6 +163,25 @@
   }
  },
  "materials": {
+  "blog-kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta": {
+   "d": "2026-11-16",
+   "k": "article",
+   "f": "article",
+   "l": "ua",
+   "t": [
+    "partnership-agreement",
+    "partnership-session",
+    "conflicts-between-partners"
+   ],
+   "title": "Which signs let you check a partnership agreement in ten minutes?",
+   "text": "Five: a standard template signed without discussing scenarios; provisions written as intentions and values; 'we'll go to court' as the plan; no procedure for exit, share valuation or deadlock; one lawyer for both. The first four show what the partners have not agreed on.",
+   "links": [
+    [
+     "blog",
+     "https://cheremisin.partners/en/blog/how-to-check-a-partnership-agreement-five-signs-of-a-weak-document/"
+    ]
+   ]
+  },
   "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit": {
    "d": "2026-11-13",
    "k": "article",
@@ -179,6 +198,10 @@
     [
      "blog",
      "https://cheremisin.partners/en/blog/the-cost-of-error-what-the-road-through-court-costs-and-why-winning-is-not-the-same-as-collecting/"
+    ],
+    [
+     "linkedin",
+     "https://www.linkedin.com/feed/update/urn:li:activity:7528055610890817536/"
     ]
    ]
   },

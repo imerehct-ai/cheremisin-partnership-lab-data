@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-16",
  "lang": "ua",
  "hub": {
   "ru": "temy",
@@ -163,6 +163,25 @@
   }
  },
  "materials": {
+  "blog-kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta": {
+   "d": "2026-11-16",
+   "k": "article",
+   "f": "article",
+   "l": "ua",
+   "t": [
+    "partnership-agreement",
+    "partnership-session",
+    "conflicts-between-partners"
+   ],
+   "title": "За якими ознаками за десять хвилин перевірити партнерську угоду?",
+   "text": "Ознак п’ять: типовий шаблон без обговорення сценаріїв; положення у вигляді намірів і цінностей; «якщо що, підемо в суд» як план; немає порядку виходу, оцінки частки й виходу з глухого кута; один юрист на обох. Перші чотири показують, про що партнери не домовилися.",
+   "links": [
+    [
+     "blog",
+     "https://cheremisin.partners/ua/statti/yak-pereviriti-partnersku-ugodu-pyat-oznak-slabkogo-dokumenta/"
+    ]
+   ]
+  },
   "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit": {
    "d": "2026-11-13",
    "k": "article",
@@ -179,6 +198,10 @@
     [
      "blog",
      "https://cheremisin.partners/ua/statti/czina-pomilki-skilki-koshtuye-shlyah-cherez-sud-i-chomu-vigrati-ne-oznachaye-otrimati/"
+    ],
+    [
+     "linkedin",
+     "https://www.linkedin.com/feed/update/urn:li:activity:7528055610890817536/"
     ]
    ]
   },

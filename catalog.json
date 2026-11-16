@@ -1,6 +1,37 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-16",
  "materials": [
+  {
+   "id": "blog-kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta",
+   "date": "2026-11-16",
+   "format": "article",
+   "lang": "ua",
+   "links": {
+    "blog": {
+     "en": "https://cheremisin.partners/en/blog/how-to-check-a-partnership-agreement-five-signs-of-a-weak-document/",
+     "ru": "https://cheremisin.partners/stati/kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta/",
+     "ua": "https://cheremisin.partners/ua/statti/yak-pereviriti-partnersku-ugodu-pyat-oznak-slabkogo-dokumenta/"
+    }
+   },
+   "topics": [
+    "partnership-agreement",
+    "partnership-session",
+    "conflicts-between-partners"
+   ],
+   "topics_source": "manual",
+   "flags": [],
+   "title": {
+    "src": "Як перевірити партнерську угоду: п’ять ознак слабкого документа",
+    "en": "Which signs let you check a partnership agreement in ten minutes?",
+    "ru": "По каким признакам за десять минут проверить партнерское соглашение?",
+    "ua": "За якими ознаками за десять хвилин перевірити партнерську угоду?"
+   },
+   "annotation": {
+    "en": "Five: a standard template signed without discussing scenarios; provisions written as intentions and values; 'we'll go to court' as the plan; no procedure for exit, share valuation or deadlock; one lawyer for both. The first four show what the partners have not agreed on.",
+    "ru": "Признаков пять: типовой шаблон без обсуждения сценариев; положения в виде намерений и ценностей; «если что, пойдем в суд» как план; нет порядка выхода, оценки доли и выхода из тупика; один юрист на обоих. Первые четыре показывают, о чем партнеры не договорились.",
+    "ua": "Ознак п’ять: типовий шаблон без обговорення сценаріїв; положення у вигляді намірів і цінностей; «якщо що, підемо в суд» як план; немає порядку виходу, оцінки частки й виходу з глухого кута; один юрист на обох. Перші чотири показують, про що партнери не домовилися."
+   }
+  },
   {
    "id": "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit",
    "date": "2026-11-13",
@@ -11,7 +42,8 @@
      "en": "https://cheremisin.partners/en/blog/the-cost-of-error-what-the-road-through-court-costs-and-why-winning-is-not-the-same-as-collecting/",
      "ru": "https://cheremisin.partners/stati/czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit/",
      "ua": "https://cheremisin.partners/ua/statti/czina-pomilki-skilki-koshtuye-shlyah-cherez-sud-i-chomu-vigrati-ne-oznachaye-otrimati/"
-    }
+    },
+    "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7528055610890817536/"
    },
    "topics": [
     "partnership-agreement",
