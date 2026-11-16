@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-16",
  "lang": "ru",
  "hub": {
   "ru": "temy",
@@ -163,6 +163,25 @@
   }
  },
  "materials": {
+  "blog-kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta": {
+   "d": "2026-11-16",
+   "k": "article",
+   "f": "article",
+   "l": "ua",
+   "t": [
+    "partnership-agreement",
+    "partnership-session",
+    "conflicts-between-partners"
+   ],
+   "title": "По каким признакам за десять минут проверить партнерское соглашение?",
+   "text": "Признаков пять: типовой шаблон без обсуждения сценариев; положения в виде намерений и ценностей; «если что, пойдем в суд» как план; нет порядка выхода, оценки доли и выхода из тупика; один юрист на обоих. Первые четыре показывают, о чем партнеры не договорились.",
+   "links": [
+    [
+     "blog",
+     "https://cheremisin.partners/stati/kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta/"
+    ]
+   ]
+  },
   "blog-czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit": {
    "d": "2026-11-13",
    "k": "article",
@@ -179,6 +198,10 @@
     [
      "blog",
      "https://cheremisin.partners/stati/czena-oshibki-skolko-stoit-put-cherez-sud-i-pochemu-vyigrat-ne-znachit-poluchit/"
+    ],
+    [
+     "linkedin",
+     "https://www.linkedin.com/feed/update/urn:li:activity:7528055610890817536/"
     ]
    ]
   },
