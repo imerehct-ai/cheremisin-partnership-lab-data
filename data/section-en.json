@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "lang": "en",
  "hub": {
   "ru": "temy",
@@ -482,6 +482,24 @@
     ]
    ],
    "o": "Три шари партнерської домовленості"
+  },
+  "youtube-lighkmbwlay": {
+   "d": "2026-09-15",
+   "k": "post",
+   "f": "video",
+   "l": "ru",
+   "t": [
+    "talks-and-interviews",
+    "linkedin-and-personal-brand"
+   ],
+   "title": "What does AI give a professional in a narrow niche?",
+   "text": "AI strengthens those who use it in project mode, not chat: a rival's five-year archive is sorted in minutes, site pages get built without an agency. For AI assistants to know a person right, a “house of truth” is needed: a site with articles linking every spelling of the name.",
+   "links": [
+    [
+     "youtube",
+     "https://www.youtube.com/watch?v=liGHkmBWlaY"
+    ]
+   ]
   },
   "li-7505641269503676416": {
    "d": "2026-09-15",
@@ -5505,6 +5523,25 @@
     ]
    ]
   },
+  "youtube-hpterjb8xp8": {
+   "d": "2025-02-06",
+   "k": "post",
+   "f": "video",
+   "l": "ua",
+   "t": [
+    "talks-and-interviews",
+    "linkedin-and-personal-brand",
+    "equity-split-between-partners"
+   ],
+   "title": "Does a personal brand earn a share in a business?",
+   "text": "Yes: social capital, contacts and trust, is a contribution alongside money and time, valued through acceleration: a year of work cut to a quarter. A public partner should agree on titles and audit contributions yearly: a brand is a premium to a share, not a discount.",
+   "links": [
+    [
+     "youtube",
+     "https://www.youtube.com/watch?v=hpTErjb8XP8"
+    ]
+   ]
+  },
   "tg-20": {
    "d": "2025-02-06",
    "k": "post",
@@ -6512,6 +6549,25 @@
     [
      "linkedin",
      "https://www.linkedin.com/feed/update/urn:li:activity:7264178974954508288/"
+    ]
+   ]
+  },
+  "youtube-knlmumd5wry": {
+   "d": "2024-11-16",
+   "k": "post",
+   "f": "video",
+   "l": "ru",
+   "t": [
+    "talks-and-interviews",
+    "partnership-session",
+    "the-authors-own-partnerships"
+   ],
+   "title": "Why do partners need a third person in their negotiations?",
+   "text": "Partners cannot ask each other “what do we do if one of us steals”: it sounds like distrust, while from a third person it becomes a test for both. Before the joint meeting the mediator prepares each side separately, and the talk turns to future scenarios, not old grievances.",
+   "links": [
+    [
+     "youtube",
+     "https://www.youtube.com/watch?v=kNlMUmD5WRY"
     ]
    ]
   },
