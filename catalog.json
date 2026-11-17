@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "materials": [
   {
    "id": "blog-kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta",
@@ -446,6 +446,32 @@
     "en": "A charter and a shareholders' agreement describe how the company is structured, not how the partners will work together. Conflicts are triggered by a sense of unfairness rather than the numbers in a document, and most disputes never reach court.",
     "ru": "Устав и корпоративный договор фиксируют устройство компании, а не то, как партнеры будут работать вместе. Конфликты запускает ощущение несправедливости, а не цифры в документе, и большинство споров решается без суда.",
     "ua": "Статут і корпоративний договір фіксують устрій компанії, а не те, як партнери працюватимуть разом. Конфлікти запускає відчуття несправедливості, а не цифри в документі, і більшість спорів вирішується без суду."
+   }
+  },
+  {
+   "id": "youtube-lighkmbwlay",
+   "date": "2026-09-15",
+   "format": "video",
+   "lang": "ru",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=liGHkmBWlaY"
+   },
+   "topics": [
+    "talks-and-interviews",
+    "linkedin-and-personal-brand"
+   ],
+   "topics_source": "manual",
+   "flags": [],
+   "title": {
+    "src": "Как раскачать маркетинг в узкой нише с помощью AI",
+    "en": "What does AI give a professional in a narrow niche?",
+    "ru": "Что дает ИИ профессионалу в узкой нише?",
+    "ua": "Що дає ШІ професіоналові у вузькій ніші?"
+   },
+   "annotation": {
+    "en": "AI strengthens those who use it in project mode, not chat: a rival's five-year archive is sorted in minutes, site pages get built without an agency. For AI assistants to know a person right, a “house of truth” is needed: a site with articles linking every spelling of the name.",
+    "ru": "ИИ усиливает того, кто работает с ним в режиме проекта, а не чата: так за минуты разбирается пятилетний архив конкурента, а страницы сайта делаются без агентства. Чтобы ИИ-ассистенты верно знали человека, нужен «дом правды» — сайт со статьями, связывающий все написания имени.",
+    "ua": "ШІ посилює того, хто працює з ним у режимі проєкту, а не чату: так за хвилини розбирається п'ятирічний архів конкурента, а сторінки сайту робляться без агенції. Щоб ШІ-асистенти правильно знали людину, потрібен «дім правди» — сайт зі статтями, що пов'язує всі написання імені."
    }
   },
   {
@@ -6670,6 +6696,33 @@
    }
   },
   {
+   "id": "youtube-hpterjb8xp8",
+   "date": "2025-02-06",
+   "format": "video",
+   "lang": "ua",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=hpTErjb8XP8"
+   },
+   "topics": [
+    "talks-and-interviews",
+    "linkedin-and-personal-brand",
+    "equity-split-between-partners"
+   ],
+   "topics_source": "manual",
+   "flags": [],
+   "title": {
+    "src": "Персональний бренд — це частка в бізнесі? Дмитро Мельникович та Микола Черемісін",
+    "en": "Does a personal brand earn a share in a business?",
+    "ru": "Дает ли личный бренд право на долю в бизнесе?",
+    "ua": "Чи дає персональний бренд право на частку в бізнесі?"
+   },
+   "annotation": {
+    "en": "Yes: social capital, contacts and trust, is a contribution alongside money and time, valued through acceleration: a year of work cut to a quarter. A public partner should agree on titles and audit contributions yearly: a brand is a premium to a share, not a discount.",
+    "ru": "Да: социальный капитал — сеть контактов и доверие — вклад наравне с деньгами и временем, а оценить его можно через ускорение, например год работы, сжатый до квартала. Публичному партнеру стоит договориться о статусах и ежегодно сверять вклады: бренд — премия к доле, а не дисконт.",
+    "ua": "Так: соціальний капітал — мережа контактів і довіра — є внеском поряд із грошима й часом; оцінюють його через прискорення: рік роботи, стиснутий до кварталу. Публічному партнерові варто домовитися про статуси й щороку звіряти внески: бренд — премія до частки, а не дисконт."
+   }
+  },
+  {
    "id": "li-7292812067944734721",
    "date": "2025-02-05",
    "format": "document",
@@ -7945,6 +7998,33 @@
     "en": "People enter partnerships without knowing the rules, and friendly trust is no substitute for agreements. Disappointment equals reality minus expectations, so expectations must be discussed at the start, and each partner should ask how they would part if things go wrong.",
     "ru": "Люди входят в партнерство, не зная правил игры, а дружеское доверие не заменяет договоренностей. Разочарование равно реальности минус ожидания, поэтому ожидания нужно обсуждать на старте, а главный вопрос каждого: как мы будем расходиться, если что-то пойдет не так.",
     "ua": "Люди входять у партнерство, не знаючи правил гри, а дружня довіра не замінює домовленостей. Розчарування дорівнює реальності мінус очікування, тому очікування треба обговорювати на старті, а головне питання кожного: як ми розходитимемося, якщо щось піде не так."
+   }
+  },
+  {
+   "id": "youtube-knlmumd5wry",
+   "date": "2024-11-16",
+   "format": "video",
+   "lang": "ru",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=kNlMUmD5WRY"
+   },
+   "topics": [
+    "talks-and-interviews",
+    "partnership-session",
+    "the-authors-own-partnerships"
+   ],
+   "topics_source": "manual",
+   "flags": [],
+   "title": {
+    "src": "Дизайн переговоров и договороспособность",
+    "en": "Why do partners need a third person in their negotiations?",
+    "ru": "Зачем партнерам третий человек в переговорах?",
+    "ua": "Навіщо партнерам третя людина в переговорах?"
+   },
+   "annotation": {
+    "en": "Partners cannot ask each other “what do we do if one of us steals”: it sounds like distrust, while from a third person it becomes a test for both. Before the joint meeting the mediator prepares each side separately, and the talk turns to future scenarios, not old grievances.",
+    "ru": "Вопрос «что мы сделаем, если один из нас ворует» партнеры не могут задать друг другу: он звучит как недоверие, а от третьего становится экзаменом для обоих. Перед общей встречей посредник отдельно готовит каждую сторону, и разговор идет о сценариях будущего, а не о старых обидах.",
+    "ua": "Питання «що ми зробимо, якщо один із нас краде» партнери не можуть поставити одне одному: воно звучить як недовіра, а від третього стає іспитом для обох. Перед спільною зустріччю посередник окремо готує кожну сторону, і розмова йде про сценарії майбутнього, а не про старі образи."
    }
   },
   {
