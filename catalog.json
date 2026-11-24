@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-24",
  "materials": [
   {
    "id": "blog-kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta",
@@ -12,6 +12,7 @@
      "ru": "https://cheremisin.partners/stati/kak-proverit-partnerskoe-soglashenie-pyat-priznakov-slabogo-dokumenta/",
      "ua": "https://cheremisin.partners/ua/statti/yak-pereviriti-partnersku-ugodu-pyat-oznak-slabkogo-dokumenta/"
     },
+    "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7530910335130796032/",
     "telegram": "https://t.me/cheremisin_partnership_lab/280"
    },
    "topics": [
@@ -9194,7 +9195,7 @@
   {
    "id": "li-7242104468098453504",
    "date": "2024-09-18",
-   "format": "post",
+   "format": "article",
    "lang": "ru",
    "links": {
     "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7242104468098453504/",
@@ -9204,7 +9205,9 @@
     "talks-and-interviews"
    ],
    "topics_source": "manual",
-   "flags": [],
+   "flags": [
+    "article_url_missing"
+   ],
    "title": {
     "en": "What does the author say about partnership on the podcast?",
     "ru": "Что автор рассказывает о партнерстве в подкасте?",

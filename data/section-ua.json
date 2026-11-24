@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-24",
  "lang": "ua",
  "hub": {
   "ru": "temy",
@@ -179,6 +179,10 @@
     [
      "blog",
      "https://cheremisin.partners/ua/statti/yak-pereviriti-partnersku-ugodu-pyat-oznak-slabkogo-dokumenta/"
+    ],
+    [
+     "linkedin",
+     "https://www.linkedin.com/feed/update/urn:li:activity:7530910335130796032/"
     ],
     [
      "telegram",
@@ -7392,7 +7396,7 @@
   "li-7242104468098453504": {
    "d": "2024-09-18",
    "k": "post",
-   "f": "post",
+   "f": "article",
    "l": "ru",
    "t": [
     "talks-and-interviews"
